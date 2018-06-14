@@ -1,0 +1,431 @@
+airtemp
+sio
+so
+no
+delta
+d
+pcc 
+soil
+sum
+synop 
+anc
+mps matric potential 
+cz
+in sw rad
+nh
+sensor 
+n
+ no
+air temp
+cloud cover
+dd
+dop
+ip
+phaeophytin
+pp
+si icp
+si icp centrifuge
+tdp
+tn
+tp
+tritium
+tritium 
+water temp
+don
+suva
+alkalinity 
+imagdiel 
+nitrogen dissolved nitrate 
+nitrogen dissolved nitrite 
+nitrogen nh
+realdiel 
+soilelectricconductivity 
+soilmoisture 
+soiltemperature 
+temperaturecorrectedimagdiel 
+uva
+agc
+barometric press
+c
+evt
+soil temp
+soil vol water content
+sten
+temperaturecorrectedrealdiel 
+ alkalinity 
+ n
+ nh
+ so
+airtc
+alkalinity
+gc
+instantaneous pfd 
+invertebrate
+length 
+longwave 
+nahco
+naoh
+o
+ohm
+orp 
+pco
+po
+q 
+shortwave 
+solrad
+spc 
+stage
+tds 
+windsp
+ anc
+ d
+ delta oxygen
+ dissolved org c 
+ in sw rad
+ log
+ po
+ temperaturecorrectedrealdiel 
+ total dissolved p 
+abs
+acetate 
+air
+ammonium 
+boxcar
+classified as ground or non
+count 
+degc
+extractable
+filtered 
+free
+hemp 
+incoming shortwave radiation 
+instantaneous radiation 
+lvl
+metar 
+net rad
+net rad corr
+phosphate 
+precip intensity 
+rain gage
+rm young 
+see details below
+soil heat flux
+soil moisture content
+solids
+t
+total 
+total precipitation 
+unfiltered 
+vol water content
+water temp 
+ws
+  alpha
+  c
+  doc in 
+  silica in 
+ acid
+ acidity 
+ act 
+ al in 
+ anc	anc
+ bad
+ bicarp
+ car
+ chemical treatment 
+ cn
+ cp
+ date collected 
+ day 
+ descp no 
+ deuterium excess 
+ dissolved inorganic c 
+ dissolved org n 
+ dissolved org p 
+ don
+ eukaryote biomass 
+ evaporated 
+ filter pore
+ ft
+ fung 
+ fungal biomass 
+ gage
+ general biomarkers biomass 
+ h 
+ hco
+ inorganic n 
+ inorganic p 
+ ka
+ km
+ lidar return height percentiles 
+ log 
+ minute 
+ month 
+ naohp
+ nit
+ nmol act c 
+ nmol amf c 
+ nmol ana c 
+ nmol euk c 
+ nmol fung c 
+ nmol gramn c 
+ nmol gramp c 
+ particulate n 
+ particulate org c 
+ particulate p 
+ phos
+ record count 
+ sample preparation 
+ sampletype 
+ sampling
+ samplingmethod 
+ samplingnote 
+ sio
+ soil ph 
+ specific conductivity 
+ storage
+ tkn
+ tn
+ total dissolved n 
+ total inorganic c 
+ total n 
+ total org c 
+ total suspended sediment 
+ tp
+ tritium 
+ vm
+ water
+a
+acid
+age 
+aggregate
+and number of return from ground 
+anti
+apparent electrical resistivity 
+arsenic
+ash
+atmospheric temperature 
+average hmp virtual temperature 
+average hmp water vapor concentration 
+average irga surface pressure 
+average irga water vapor concentration 
+average net radiation 
+average o
+average photosynthetically active radiation 
+average return height 
+average scan angle 
+average wind speed 
+barley 
+basal area 
+baseflow 
+battery min 
+battv
+bearing from plot center 
+beeswax and honey 
+bromide 
+buckwheat 
+bulk
+butter 
+c 
+cane sugar 
+canopy density 
+cheese 
+chlorophyll a
+chlorophyll concentration and didymo cell densities
+chromium
+circumference 
+clover seed 
+cnr
+components c
+components gg
+coordinates 
+date of event 
+date sample collected 
+decimal day 
+degrees 
+delta 
+depth in soil 
+depth of sample 
+deuterium mass 
+diameter 
+didymo rating index 
+diff
+distance from plot center 
+distance from transect line 
+distance on surface 
+distance on transect 
+dry
+dry weight 
+dt
+duration of collection 
+effective base saturation 
+effective cation exchange capacity 
+effective measurement depth 
+elevation error 
+elevation of water table 
+est
+et
+evaporation 
+evapotranspiration 
+fast neutron count 
+file
+flax 
+flaxseed 
+flow
+foliar delta
+foliar nitrogen content 
+formate 
+fresh
+genus
+ginned cotton 
+gis layer with canopy height 
+global radiation 
+ground temperature 
+groundwater 
+groundwater level 
+growth 
+gully boundaries 
+gw
+hail diameter 
+hay 
+hcl
+height 
+hhe 
+hhe fe 
+hmp relative humidity 
+hmp virtual temperature 
+hops 
+horizons 
+horizontal wind speed 
+hydrogen
+increment height 
+increment volume 
+indian corn 
+injected deuterium mass 
+interception loss 
+intersection
+irish potatoes 
+ksat cv
+lat 
+lead
+leaf wetness 
+leaf wetness sensor voltage output 
+level 
+line 
+liquid precip intensity 
+litter
+litter 
+local time 
+local time of day 
+long 
+manager of the farm
+maple sugar 
+mass per unit area 
+max emission at 
+maximum return height 
+maximum scan angle 
+mean radiation 
+mean solar radiation
+measuring quality 
+microbial
+minimum return height
+minimum scan angle 
+molasses 
+n 
+name 
+ng co
+nitrite 
+non
+nr
+number of returns 
+number of returns from vegetatation 
+oats 
+ortho
+other grass seeds 
+peas 
+percent gg
+pg ch
+pg dna g
+pg n
+phenol
+pine 
+pmol ap g
+pmol bg g
+pmol nag g
+pmol po g
+ppm 
+precip amount 
+precip intensity max of 
+precipitation amount from disdrometer 
+precipitation frequency
+precipitation type 
+pressure
+qdays 
+quickflow 
+radar reflectivity 
+recharge 
+reflectivity 
+rice 
+root density 
+rs
+rs 
+rye 
+sampling depth 
+see detail below
+see details below 
+silk cocoons 
+snowdepth
+soil co
+soil temperature at 
+soilt 
+solid precip intensity 
+species label 
+ssurgo
+stage at v
+standard deviation o
+standard deviation of all returns 
+standard deviation of photon flux density 
+station
+stokes scatter 
+surf
+swc 
+sweet potatoes 
+tagged tracers with positions overtime
+tc 
+tcdt
+temp interior 
+thermal neutron count 
+thickness of mobile regolith 
+throughfall precipitation mm
+tile push probe depth
+time of turbidity maximum within last 
+time of turbidity minimum within last 
+tio
+tn 
+tobacco 
+total al 
+total ca 
+total fe 
+total precip intensity 
+total zr 
+transpiration 
+tree diameter at breast height 
+tree girth 
+tree ring width 
+turbidity average during last 
+turbidity maximum 
+turbidity minimum 
+unsaturated 
+value of home
+value of orchard products 
+vertical wind speed 
+visibility in precip 
+volumetric soil water content 
+water
+water table raw 
+weir temperature 
+well summary data only
+wheat 
+wind direction average 
+wind direction stdev 
+wine 
+wool 

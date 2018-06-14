@@ -1,0 +1,1074 @@
+pcc (%)
+mps matric potential (kpa)
+electrical conductivity (ds/m)
+volumetric water content (m3/m3)
+% diff charge bal
+(major ions and si)h+(ueq/l) ca++(ppm)
+(nutrients)doc mg c/l
+(water isotopes) d-excess/mill
+air temp(c)
+ca++(ueq/l)
+cl-(ppm)
+cl-(ueq/l)
+cloud cover(%)
+d18o/mill
+dd/mill
+dop(um/l)
+in(um/l)
+ip(um/l)
+k+(ppm)
+k+(ueq/l)
+mg++(ppm)
+mg++(ueq/l)
+na+(ppm)
+na+(ueq/l)
+nh4+(ueq/l)
+no3-(ueq/l)
+phaeophytin(ug/l)
+pp(um/l)
+si icp centrifuge(ppm)
+si icp(ppm)
+sio2 colorimetric(um/l)
+sio2 icp centrifuge(ppm)
+sio2 icp(ppm)
+so4=(ueq/l)
+sum+
+sum-
+tdn(um/l)
+tdp(um/l)
+tn(um/l)
+tp(um/l)
+tritium 1sigma
+tritium(tu)
+water temp(c)
+anc(mg/l)
+anc(ueq/l)
+d18 1sigma
+date_time
+delta-18o of h2o
+don(um/l)
+no3-(ppm)
+pn(um/l)
+so4=(ppm)
+δ18o reportable value (permil)
+δ18o standard deviation (permil)
+δ2h reportable value (permil)
+δ2h standard deviation (permil)
+delta-d of h2o
+nitrogen dissolved nitrate (no3)
+nitrogen dissolved nitrite (no2)
+nitrogen nh4
+253matricpotential (kpa)
+date (m/d/yy)
+depth (cm)
+oxygen_ dissolved
+agc_sum
+air temperature_ c
+barometric press(mbar)
+elevation (m)
+evt_boulder
+rh-2m(min)
+sten_num
+suva254
+water temperature(c)
+airtemp_avg
+al (umol l-1)
+al+3 (μm)
+alkalinity (mmol l-1 caco3)
+alkalinity_ total
+ba (μm)
+ba (μmol l-1)
+battery voltage (v)
+ca (umol l-1)
+ca+2 (μm)
+cl- (umol l-1)
+cl- (μm)
+date/time
+delta-13c of dic
+depth (m)
+depth(m)
+diameter at breast height (cm)
+do (%)
+do (mg l-1)
+doc (ppm)
+f (umol l-1)
+f (μm)
+fe (umol l-1)
+fe+3 (μm)
+instantaneous pfd (moles)
+k (umol l-1)
+k+ (μm)
+mg (umol l-1)
+mg+2 (μm)
+mn (umol l-1)
+mn+2 (μm)
+na (umol l-1)
+na+ (μm)
+nitrogen_ nitrate (no3)
+nitrogen_ nitrite (no2)
+no3- (μm)
+no3-(umol l-1)
+ohm.m
+orp (mv)
+oxygen-18
+p (μm)
+p (μmol l-1)
+q (m^3/s)
+radiation_ incoming par
+radiation_ net
+relative humidity (%)
+rh (%)
+si (umol l-1)
+si (μm)
+sio2
+so42- (umol l-1)
+so42- (μm)
+spc (ms cm-1)
+sr (umol l-1)
+sr (μm)
+tds (mg -1)
+temperature (deg c )
+uva254
+velocity(m/s)
+water depth (m)
+zn (μmol l-1)
+δ18o (‰)
+δ2h (‰)
+ in sw rad(w/m^2)-2.5m(avg)
+ temperaturecorrectedrealdiel (20cm)
+#
+#1
+#2
+#3
+% clay
+% sand
+% silt
+1. point cloud in las format (version 1.2)
+abs_press
+acetate (μm)
+air_t
+airtemp(c)-10m(avg)
+airtemp(c)-10m(max)
+airtemp(c)-10m(min)
+airtemp(c)-2.5m(avg)
+airtemp(c)-2m(avg)
+airtemp(c)-2m(max)
+airtemp(c)-2m(min)
+airtemp-10m(max) time
+airtemp-10m(min) time
+airtemp-2m(max) time
+airtemp-2m(min) time
+airtemp_max
+airtemp_min
+al (ug/ml)
+alkalinity (meq l-1)
+average instantaneous radiation (moles)
+average pfd (moles)
+ba (ug/ml)
+battery voltage.
+bulk electrical conductivity(ms)
+c:n ratio
+ca (ug/ml)
+carbon_ dissolved organic
+classified as ground or non-ground
+degc)
+delta-1d of h2o
+discharge (m/day)
+elevation (m msl)
+fe (ug/ml)
+imagdiel (10cm)
+imagdiel (20cm)
+imagdiel (40cm)
+in 1 km square tiles
+in sw rad(mj/m^2)-2.5m(total)
+in sw rad(mj/m^2)-5m(total)
+in sw rad(w/m^2)-5m(max)
+in sw rad(w/m^2)-5m(min)
+in sw rad-5m(max) time
+in sw rad-5m(min) time
+incoming shortwave radiation (in sw rad)(w/m^2)-5m(avg)
+instantaneous radiation (moles)
+k (ug/ml)
+latitude (deg)
+length (m)
+longitude (deg)
+mg (ug/ml)
+mn (ug/ml)
+na (ug/ml)
+net rad corr(w/m^2)-2.5m
+net rad(w/m^2)-2.5m
+ni (μm)
+no3
+oxygen_18
+p (ug/ml)
+phosphorus_ total
+precipitation (mm)
+radiation_shortwave
+rain gage(mm)
+realdiel (10cm)
+realdiel (20cm)
+realdiel (40cm)
+rh (max)
+rh (min)
+rh-10m
+rh-10m(max)
+rh-10m(max) time
+rh-10m(min)
+rh-10m(min) time
+rh-2m
+rh-2m(max)
+rh-2m(max) time
+rh_avg
+rm young 52202 heated tipping bucket (mm)
+sand(%)
+see details below)
+si (ug/ml)
+soil heat flux(w/m^2)-15cm
+soil moisture content(%)
+soil temp(c)-15cm
+soil temp(c)-22cm
+soil temperature(c)
+soil vol water content(%)-15cm
+soil vol water content(%)-22cm
+soilelectricconductivity (10cm; s/m)
+soilelectricconductivity (20cm; s/m)
+soilelectricconductivity (40cm; s/m)
+soilmoisture (10cm; m3/m3)
+soilmoisture (20cm; m3/m3)
+soilmoisture (40cm; m3/m3)
+soiltemperature (10cm; degc)
+soiltemperature (20cm;
+soiltemperature (40cm; degc)
+solids_ total suspended
+solrad_tot
+sr (ug/ml)
+suva280
+temperature (deg c)
+temperaturecorrectedimagdiel (10cm)
+temperaturecorrectedimagdiel (20cm)
+temperaturecorrectedimagdiel (40cm)
+temperaturecorrectedrealdiel (10cm)
+temperaturecorrectedrealdiel (40cm)
+ti (ug/ml)
+total precipitation (mm)
+uva280
+v (μm)
+vol water content(%)
+w_temp
+water depth(cm)
+water temp (°c)
+winddir-10m std dev(degrees)
+winddir-10m(degrees)
+winddir-2m std dev(degrees)
+winddir-2m(degrees)
+windspeed(m/s)-10m(avg)
+windspeed(m/s)-10m(max)
+windspeed(m/s)-2.5m(avg)
+windspeed(m/s)-2.5m(max)
+windspeed(m/s)-2.5m(min)
+windspeed(m/s)-2m(avg)
+windspeed(m/s)-2m(max)
+windspeed-10m(max) time
+windspeed-2.5m(max) time
+windspeed-2m(max) time
+zn (ug/ml)
+zn (μm)
+  al - ammonium oxalate-extractable
+  alpha-n-acetylglucosaminidase
+  c:n
+  doc in 0.5m hcl extractions
+  fe - ammonium oxalate-extractable
+  fe - citrate/ascorbate extractable
+  fe - citrate/dithionite extractable
+  fe(iii) in 0.5 m hcl
+  mn - citrate/ascorbate-extractable
+  mn - in 0.5m hcl extraction
+  ph - soil
+  silica - ammonium oxalate-extractable
+  silica - citrate/ascorbate-extractable
+  silica in 0.5 m hcl
+ 'elevation'
+ (ag+bg+bx+cbh+ap+nag) / bio.nmol represents total enzyme activity normalized to total biomass
+ 10be_meteoric
+ 2. esri float format 1.0-m dem from ground classified points
+ 2. esri format 1-m dem from ground classified points
+ 3. esri format 1-m hillshade raster from ground classified points
+ 3. esri raster format 1.0-m hillshade raster from ground classified points
+ 4. esri float format 1.0-m dem from first return points
+ 4. esri format 1-m dem from all points (canopy included)
+ 5. esri format 1-m hillshade raster from all points (canopy included)
+ 5. esri raster format 1.0-m hillshade raster first return points
+ acid-neutralizing capacity (ueq/l)
+ acidity (ueq/l)
+ act + ana + gramn + gramp
+ ag+bg+bx+cbh+ap+nagrepresents total extracellular enzyme activity
+ al (mg/l)
+ al - citrate/ascorbate-extractable
+ al - citrate/ditihionite extractable
+ al in 0.5 m hcl
+ al27 (mg/l)
+ alkalinity (mg/l)
+ alkalinity (mmol/l caco3)
+ alkalinity (ueq/l)
+ anc	anc/alkalinity
+ anc(mg/l)
+ anc(ueq/l)
+ bad_filters (na)
+ bicarp;	nahco[3] extractable phosphorus (mg / kg)
+ br (mg/l)
+ ca (mg/l)
+ ca43 (ug/l)
+ ca44 (ug/l)
+ car; carbon concentration (mg / g soil)
+ carbon-degrading enzyme activity per unit biomass
+ carbon-degradizing enzyme activity (ag+bg+bx+cbh)
+ ce140 (ng/l)
+ chemical treatment (na)
+ cl (mg/l)
+ cn; c : n ratio
+ co2
+ co3	carbonate
+ co59 (ug/l)
+ cp; catena position (choose one: ridge. slope. valley)
+ cr52 (ug/l)
+ cu63 (ug/l)
+ d18 1sigma
+ d; depth interval (cm)
+ date (na)
+ date collected (yyyy-mm-dd)
+ date; date assay conducted
+ day (na)
+ delta deuterium (per mill)
+ delta oxygen-18 (per mill)
+ delta oxygen-18 std dev
+ descp no (na)
+ deuterium excess (per mill)
+ dissolved inorganic c (mg/l)
+ dissolved org c (mg/l)
+ dissolved org c (ppm)
+ dissolved org n (mg/l)
+ dissolved org p (ug/l)
+ do (%)
+ do (mg/l)
+ don(um/l)
+ dy164 (ng/l)
+ ec (us/cm)
+ er166 (ng/l)
+ eu153 (ng/l)
+ eukaryote biomass (non-fungal)
+ evaporated (na)
+ f (mg/l)
+ fe (mg/l)
+ fe56 (ug/l)
+ filter pore-size (na)
+ ft; forest type (tabonuco or colorado)
+ fung + amf
+ fungal biomass (non-amf)
+ gage_ht
+ gd157 (ng/l)
+ general biomarkers biomass (non-specific to a certain group)
+ h (mg/l)
+ hco3	bicarbonate
+ ho165 (ng/l)
+ hour (na)
+ inorganic n (mg/l)
+ inorganic p (ug/l)
+ k (mg/l)
+ ka; vm / km (hr ^-1)
+ km; michaelis-constant (µmol l^-1)
+ la139 (ng/l)
+ lidar return height percentiles ('p05' to'p90')
+ location (na)
+ log ( (nag / (ag + bg+bx+cbh))+1) represents ratio of n:c enzyme activity
+ log((ag+bg+bx+cbh)/ap)+1) represents ratio of c:p enzyme activity
+ log((nag/ap)+1)
+ lu175 (ng/l)
+ method (na)
+ mg (mg/l)
+ mg25 (ug/l)
+ minute (na)
+ mn (mg/l)
+ mn55 (ug/l)
+ month (na)
+ n-acetyl glucosaminidase activity
+ n-acetyl glucosaminidase activity per unit biomass
+ n-acetyl glucosaminidase activity per unit soil c
+ na (mg/l)
+ na23 (ug/l)
+ naohp; naoh extractable phosphorus (mg / kg)
+ nd145 (ng/l)
+ nh4	ammonium
+ nh4 (mg/l)
+ nh4-n	ammonium-n
+ ni60 (ug/l)
+ nit; nitrogen concentration (mg / g soil)
+ nitrate (no3)
+ nmol act c / bio.nmol
+ nmol amf c / bio.nmol
+ nmol ana c / bio.nmol
+ nmol euk c / bio.nmol
+ nmol fung c / bio.nmol
+ nmol gramn c / bio.nmol
+ nmol gramp c / bio.nmol
+ no2 (mg/l)
+ no2-n	nitrite-n
+ no3	nitrate
+ no3 (mg/l)
+ no3+no2	nitrate + nitrite
+ no3-(ppm)
+ no3-n	nitrate-n
+ no3-n+no2-n	nitrate-n + nitrite-n
+ p; soil pit (p1 - p20)
+ particulate n (mg/l)
+ particulate org c (mg/l)
+ particulate p (ug/l)
+ pb208 (ug/l)
+ ph (ph)
+ ph; soil ph in water
+ phos; total extractable phosphorus (nahco3 + naoh) (mg / kg)
+ phosphorus_ phosphate (po4)
+ pn(um/l)
+ po4 (mg/l)
+ po4-ic	orthophosphate by ic
+ pr141 (ng/l)
+ record count (na)
+ sample id (na)
+ sample preparation (na)
+ sample_date
+ sampletype (na)
+ sampling_date_jd (na)
+ samplingmethod (na)
+ samplingnote (na)
+ si (mg/l)
+ si28 (mg/l)
+ si28 (ug/l)
+ sio2 (mg/l)
+ sm147 (ng/l)
+ so4 (mg/l)
+ so4-s	sulfate
+ so4=(ppm)
+ soil ph (1:10 soil : di water)
+ specific conductivity (µs/cm)
+ sr (mg/l)
+ storage_time_days (na)
+ tb159 (ng/l)
+ temperature (c)
+ time (na)
+ time collected (hhmm)
+ tkn-unf	total kjeldahl nitrogen (unfiltered)
+ tm169 (ng/l)
+ tn-unf	total nitrogen (unfiltered)
+ total dissolved n (mg/l)
+ total dissolved p (ug p/l)
+ total dissolved p (ug/l)
+ total inorganic c (mg/l)
+ total n (mg/l)
+ total org c (mg/l)
+ total p (ug/l)
+ total suspended sediment (mg/l)
+ tp-unf	total phosphorus (unfiltered)
+ tritium (tu)
+ vm; maximum reaction velocity for phosphatase (nmol h^-1 g^-1 soil)
+ water table (mm or cm)
+ water; fraction of water content by mass
+ y89 (ng/l)
+ yb174 (ng/l)
+ year (na)
+ zn64 (ug/l)
+#4
+#5
+% o2 at depth1
+% o2 at depth2
+%c
+%clay
+%sand
+%silt
+'lat(y)_nad83 utm 17n'
+'long(x)_nad83 utm 17n'
+(fic'
+(gg-p1:gg-p1+gg-p2)
+(gg-p1:gg-p1+gg-p2)_doc
+.kml
+0.5m_co2
+0.5m_degc
+0.5m_h2o
+0.5m_o2
+1.5m_co2
+1.5m_degc
+1.5m_h2o
+1.5m_o2
+10be (10^8 atm/g)
+2008 ag biomass (kg)
+2008 dbh (cm)
+2012 ag biomass (kg)
+2012 dbh (cm)
+a254nm
+acid_phosphatase_activity
+ag (μg/l)
+age (years).
+aggregate_stability; file2: site
+air temperature (deg c)
+air temperature (degc)
+air temperature (degrees c)
+air temperature (ºc)
+air temperature(c)
+airtc_avg
+airtc_max
+airtc_min
+al(umol_l)
+al2o3
+al3+
+alkalinity (meq/l caco3)
+aluminum_ dissolved
+ammonium (mg/l)
+ammonium (nh4+)
+and number of return from ground ('nground').
+anti-stokes scatter (nm)
+apparent electrical resistivity (ohm-m)
+area (cm2)
+arsenic_ dissolved
+ash-free-dry-mass(afdm)
+aspect(degree)
+atmospheric pressure (mb)
+atmospheric temperature (deg c)
+average hmp virtual temperature (deg c)
+average hmp water vapor concentration (g m‒3)
+average irga surface pressure (kpa)
+average irga water vapor concentration (g m‒3)
+average net radiation (w m‒2)
+average o3
+average photosynthetically active radiation (µmol m‒2 s‒1)
+average return height ('avg_h')
+average scan angle ('avg_scan_angle')
+average wind speed (m/s)
+barley (bushels)
+basal area (cm^2)
+baseflow (m3/day)
+battery min (v)
+battv_min
+bearing from plot center (degrees)
+beeswax and honey (lbs.)
+boron_ dissolved
+boxcar-filtered 12-hour effective measurement depth (cm)
+boxcar-filtered 12-hour soil moisture (% volumetric)
+bromide (mg/l)
+buckwheat (bushels)
+bulk density (g/cm3)
+bulk_density
+butter (lbs.)
+c (%)
+c%
+c:n
+ca(umol_l)
+calcium (ca++)
+cane sugar (hhds. of 1000 lbs.)
+canopy cover ('cov'
+canopy density ('dns'
+carbon_ particulate organic
+cheese (lbs.)
+chloride (cl-)
+chloride (mg/l)
+chlorophyll a_ corrected for pheophytin
+chlorophyll concentration and didymo cell densities.
+chromium_ dissolved
+circumference (cm)
+clay (%)
+clay(%)
+clover seed (bushels)
+cm (left)
+cm (right)
+cm3per second
+cnr_wm2_avg
+co2 concentration (mg/m3)
+co2 concentration (ppm). n2o concentration (ppm)
+co2 flux (umol/m2)
+co2 flux (μmolm-2s-1)
+co2_pct
+components c1_doc:c8_doc
+components gg-sq1:gg-p2
+coordinates (wgs1984)
+copper_ dissolved
+count (cps)
+count (intersections)
+cz_20
+cz_21
+cz_22
+cz_23
+cz_24
+cz_25
+cz_26
+cz_27
+cz_28
+cz_29
+cz_35
+cz_36
+d13cco2
+d18o (permil)
+date (mm/dd/yyyy)
+date of event (m/d/yy)
+date sample collected (m/d/yy)
+date.time (date in format of “month/day/year 24hour/minute”)
+dbh (cm; diameter at breast height where applicable)
+decimal day & local time
+degrees 2 theta
+delta 18o
+delta-18o of h2o.
+depth (mm)
+depth in soil (m)
+depth of sample (cm)
+depth to water table (m)
+depth_cm
+depth_m
+deuterium (dd)
+deuterium mass (g)
+diameter (cm; at root collar)
+diameter at breast height (dbh; cm)
+didymo rating index (dri)
+diff1_avg(1)	differential (degrees c)
+discharge (10^-3)(m^3)/s
+discharge (cfs)
+discharge (cmd)
+discharge (ft^3/s)
+discharge (l/s)
+discharge (m3/d)
+discharge (m3/day)
+discharge (m^3)(10^-3)/s
+discharge (m^3/s)
+distance (m; along transect where the subplot was located)
+distance from plot center (m)
+distance from transect line (m)
+distance on surface (m)
+distance on transect (m)
+dry weight (g)
+dry_mass_incubated_soil
+dt_avg
+duration of collection (hr:mm)
+ec (s/m)
+effective base saturation (%)
+effective cation exchange capacity (cmol/kg)
+effective measurement depth (cm)
+electrical conductivity (μs/cm)
+elevation error (m)
+elevation of water table (m)
+est)
+et(evapotranspiration)
+evaporation (m)
+evapotranspiration (spatial average; m/day)
+extractable_organic_carbon_concentration
+extractable_organic_nitrogen_concentration
+fast neutron count (/hr)
+fe(ii)
+fe2o3(t)
+fe54(umol_l)
+fe57(umol_l)
+file1: site
+filtered (bare earth) dem
+filtered (bare earth) hillshade
+flax (lbs.)
+flaxseed (bushels)
+flow/no flow
+fluoride (mg/l)
+foliar delta13c (o/oo)
+foliar nitrogen content (%)
+formate (μm)
+free_beryllium
+free_iron
+fresh_ mass_incubated_soil
+friction velocity (m/s)
+ftot_doc
+gc_ch4_ppm
+gc_co2_pct
+gc_n2o_ppm
+genus/species
+ginned cotton (bales of 400 lbs. each)
+gis layer with canopy height (m)
+global radiation (mj/meter^2)
+gross primary productivity.
+ground temperature (deg c)
+groundwater (m)
+groundwater level (spatial average; m)
+growth (cm)
+gully boundaries (acquired as separate points and a-posteriori transformed in polylines)
+gw2_wtemp
+hail diameter 1min max (mm)
+hay (tons)
+hcl-p
+height (m)
+hemp - dew rotted (tons)
+hemp - water rotted (tons)
+hhe 9be (ug/g)
+hhe fe (mg/g)
+hmp relative humidity (%)
+hmp virtual temperature (deg c)
+hops (lbs.)
+horizons & depths (cm) (left)
+horizontal wind speed (m/s)
+hydrogen_2_stableisotoperatiodelta
+increment height (m)
+increment volume (m3)
+indian corn (bushels)
+injected deuterium mass (g)
+intensity (counts)
+interception loss (m)
+intersection/area (intersections/cm2)
+invertebrate_functional_group
+invertebrate_genus
+invertebrate_spp.
+irish potatoes (bushels)
+iron_ dissolved
+iron_ ferrous
+k(umol_l)
+k-sat
+k2o
+ksat cv%
+lai; pcc (%)
+lat (latitude in decimal degrees)
+latent heat flux (w/m2)
+latitude ('lat')
+ldo%
+lead_ dissolved
+leaf wetness 30 cm understory (mv)
+leaf wetness sensor voltage output (mv)
+length (mm)
+level (mm)
+line (transect name; starting point = first letter in transect name)
+liquid precip intensity 1min (mm/hr)
+litter (g)
+litter_or_mineral _soil
+local time (est)
+local time of day (est)
+location (czo site identifier)
+long (longitude in decimal degrees)
+longitude ('long')
+longwave (downwelling - temperature-corrected; w/m^2)
+longwave (net; w/m^2)
+longwave (upwelling - temperature-corrected; w/m^2)
+lvl_2
+lvl_9
+magnesium (mg++)
+manager of the farm)
+manganese_ dissolved
+maple sugar (lbs.)
+mass per unit area (g/m2)
+max emission at 370nm
+maximum return height ('max_h')
+maximum scan angle ('max_scan')
+mean radiation (net; w/m^2)
+mean solar radiation.
+measuring quality 1min (%)
+metar 4678 1min
+metar 4678 5min avg
+mg(umol_l)
+microbial_biomass_concentration
+minimum return height('min_h')
+minimum scan angle ('min_scan')
+mn(umol_l)
+molasses (gallons)
+n %
+n1cts(mod)
+n1cts_mod
+n1et_sec
+n1rh
+n1t_c
+n2cts_bare
+n2et_sec
+n2rh
+n2t_c
+na(umol_l)
+na2o
+nahco3-pi
+nahco3-po
+nahco3-pt
+name (owner
+naoh-pi
+naoh-po
+naoh-pt
+ng co2-c g-1 h-1
+nh4-n
+nh4_n
+ni (ug/ml)
+nitrate (mg/l)
+nitrate (no3-)
+nitrate_conconcentration
+nitrite (mg/l)
+nitrogen-15 stable isotope ratio delta
+nitrogen_ nh3
+nitrogen_ nh4
+nitrogen_ organic
+nitrogen_ particulate organic
+nitrogen_ total
+nitrogen_ total kjeldahl
+no3_n
+non-purgeable organic carbon (npoc)
+nr_wm2_avg
+number of returns ('n_returns')
+number of returns from vegetatation ('nveg'
+o2_pct
+o3 maximum
+o3 minimum
+oats (bushels)
+ortho-phosphate (po4---)
+other grass seeds (bushels)
+oxygen-18 (d18o)
+p1_mb
+p2o5
+pco2 (ppmv)
+pco2 at depth1
+pco2 at depth2
+peas & beans (bushels)
+percent gg-sq1: percent gg-p2_doc
+percent protein_doc
+pg ch4-c g-1 h-1
+pg dna g-1
+pg n2o-n g-1 h-1
+phenol_oxidase_activity
+phosphate (mg/l)
+phosphate (μm)
+phosphorus_ orthophosphate dissolved
+phosphorus_ phosphate (po4)
+phosphorus_ total dissolved
+pine (g)
+pit1-temp(c)-15cm
+pit1-vol water content-15cm
+pit2-temp(c)-15cm
+pit2-vol water content-15cm
+pit3-temp(c)-15cm
+pit3-vol water content-15cm
+pit4-temp(c)-11cm
+pit4-vol water content-11cm
+pit5-temp(c)-12cm
+pit5-vol water content-12cm
+plot (unique identifying integer)
+pmol ap g-1 h-1
+pmol bg g-1 h-1
+pmol nag g-1 h-1
+pmol po g-1 h-1
+po4
+po4-p
+po4_p
+potassium (k+)
+ppm (sum of bicarb and naoh p)
+precip amount (mm)
+precip intensity 10min avg (mm/hr)
+precip intensity 5min avg (mm/hr)
+precip intensity max of 1min values (mm/hr)
+precipitation (m)
+precipitation (m/day)
+precipitation (running total for current day; mm)
+precipitation (total for previous 10 minutes; mm)
+precipitation (total for previous date; mm)
+precipitation amount from disdrometer (mm)
+precipitation frequency.
+precipitation type (hourly data only)
+pressure_psi
+qdays (qualifying days)
+quickflow (m3/day)
+radar reflectivity 1min (dbz)
+radiation_ incoming
+radiation_ incoming longwave
+radiation_ incoming shortwave
+radiation_ net longwave
+radiation_ outgoing longwave
+radiation_ outgoing shortwave
+rain_mm_tot
+rainfall (inch)
+rainfall (mm)
+recharge (m/day)
+record_number
+reflectivity (dbz)
+relative humidity.
+rh (max) time
+rh (min) time
+rh1
+rh_max
+rh_min
+rice (lbs.)
+root density (m/m3)
+rs (average instantaneous soil respiration (micro moles c per square meter per second) over three locations per site)
+rs.se (standard error of soil respiration (n=3))
+runoff (mm/hr)
+rye (bushels)
+sample_date
+sampling date. tree id
+sampling depth (cm)
+see detail below)
+see details below )
+sensible heat flux (w/m2)
+sensor 1-air temp(c)
+sensor 1-depth(cm)
+sensor 2-air temp(c)
+sensor 2-depth(cm)
+sensor 3-air temp(c)
+sensor 3-depth(cm)
+sensor 4-air temp(c)
+sensor 4-depth(cm)
+sensor 5-air temp(c)
+sensor 5-depth(cm)
+shortwave (downwelling; w/m^2)
+shortwave (net; w/m^2)
+shortwave (upwelling; w/m^2)
+silk cocoons (lbs.)
+silt(%)
+site (lrms (leading ridge midslope) or tmms (tussey mtn. midslope))
+slope(%)
+snow depth (cm)
+snow depth (spatial average; m)
+snow depth(cm)
+snowdepth(cm)
+so4
+so4-s
+so4_s
+so; soil order (oxisol or inceptisol)
+sodium (na+)
+soil co2 (ppm)
+soil depth (m)
+soil moisture (% volumetric)
+soil moisture (m3/m3)
+soil moisture (spatial average in top 10 cm; m^3/m^3)
+soil moisture.
+soil temperature at 7 cm (ºc)
+soil_ch4_produtcion_rate
+soil_co2_production_rate
+soil_eb
+soil_ec
+soil_exchangeable_ca
+soil_exchangeable_k
+soil_exchangeable_mg
+soil_exchangeable_na
+soil_kcl_acidity
+soil_n2o_production_rate
+soil_ph
+soil_ph_cacl2
+soil_ph_water
+soil_t
+soil_texture
+soil_vwc
+soilt (soil temperature (degrees celsius) from one location adjacent to soil chamber)
+solar radiation (w/m2)
+solid precip intensity 1min (mm/hr)
+solrad_poss
+species label (4 letter species code for each shrub stem labeled with first two letters of latin genus name followed by first two letters of latin species name)
+specific conductance (soil conductivity)
+ssurgo_id
+stage at v-notch
+stage_cm
+stage_diff
+stage_m
+standard deviation o3
+standard deviation of all returns ('std_h')
+standard deviation of photon flux density (pfd)
+start – end of collection
+station_code
+stokes scatter (nm)
+sulfate (mg/l)
+sulfate (so4--)
+sulfur_ dissolved
+surf_degc
+suva280.
+swc (soil moisture (% volumetric) averaged from 3 locations adjacent to soil chamber)
+sweet potatoes (bushels)
+synop 4677 1min
+synop 4677 5min avg
+synop 4680 10min max
+synop 4680 1min 0
+synop 4680 1min 1
+synop 4680 1min 2
+synop 4680 1min 3
+synop 4680 1min 4
+synop 4680 1min 5
+synop 4680 1min 6
+synop 4680 1min 7
+synop 4680 1min 8
+synop 4680 1min 9
+synop 4680 5min avg
+synop 4680_1min
+t+e (m/day)
+t1_c
+tagged tracers with positions overtime. additional documentation is presented within the dataset file.
+tc (mg/l)
+tcdt_avg
+temp interior (deg c)
+temperature (c)
+temperature (degrees c)
+temperature (hmp45c; degc)
+temperature (judd; degc)
+temperature_ infrared
+thermal neutron count (/hr)
+thickness of mobile regolith (tmr)
+throughfall precipitation mm/day
+tile push probe depth(cm)
+time (of wind speed max for previous date)
+time of turbidity maximum within last 15 minutes
+time of turbidity minimum within last 15 minutes
+time/date
+timestamp (utc-4
+tio2
+tmstamp (yyyy-mm-dd hh:mm:ss)
+tmstamp - eastern daylight savings
+tn (mg/l)
+tobacco (lbs.)
+total (g)
+total 9be (ug/g)
+total al (mg/g)
+total ca (mg/g)
+total fe (mg/g)
+total precip intensity 1min (mm/hr)
+total zr (mg/g)
+transpiration (m)
+tree diameter at breast height (dbh) (cm)
+tree girth 1.5m
+tree ring width (mm)
+tree#
+turbidity average during last 15 minutes (ntu)
+turbidity maximum (ntu)
+turbidity minimum (ntu)
+unfiltered (first return) dem
+unfiltered (first return) hillshade
+unsaturated (m)
+uva280.
+value of home-made manufactures
+value of orchard products (dollars)
+velocity (mm/s)
+vertical wind speed (m/s)
+visibility in precip 1min (m)
+volumetric soil water content (m3 m-3)
+volumetric water content (dielectric*50)
+water level (ft)
+water table raw (mv
+water vapor concentration (g/m3)
+water_temp_c
+weir temperature (degc)
+well summary data only)
+wheat (bushels)
+wind direction average (deg)
+wind direction stdev (deg)
+wind speed (average for previous 10 minutes; m s^-1)
+wind speed (m/s)
+wind speed (max for previous date; m s^-1)
+windsp_ms_avg
+windsp_ms_max
+windsp_ms_min
+wine (gallons)
+wool (lbs.)
+ws_max
+ws_scal_avg
+x (easting; m)
+x-coordinate
+x-coordinate (m)
+y (northing; m)
+y-coordinate
+y-coordinate (m)
+zinc_ dissolved
+zr (all elemental concentrations μg/l)
+β-glucosidase_activity
+β-n-acetyl_glucosaminidase_activity
+δ13c_soil_respired_co2
+δ13ceoc
+δ13csoc
+δ15nson
+δ18o
+δ2h
+δ2h (permil)
+μg eoc g-1
+μg soc g-1
+μg son g-1
