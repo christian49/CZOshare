@@ -1,0 +1,1772 @@
+ 5486
+ ag biomass kg 4033
+ clay 4683
+ dbh cm 4033
+ diff charge bal 4165
+ esri float format m dem from first return points 5446
+ esri float format m dem from ground classified points 5446
+ esri format m dem from all points canopy included 4671
+ esri format m dem from ground classified points 4671
+ esri format m hillshade raster from all points canopy included 4671
+ esri format m hillshade raster from ground classified points 4671
+ esri raster format m hillshade raster first return points 5446
+ esri raster format m hillshade raster from ground classified points 5446
+ o at depth 5272
+ point cloud in las format version  5446
+ sand 4683
+ silt 4683
+abs pres 4982
+absolute pressure 3590
+abspress 5324
+acetate m 2580
+acid neutralizing capacity 2515
+acid phosphatase 4982
+acid phosphatase activity 3970
+acid phosphatase activity per unit biomass 3970
+acid phosphatase activity per unit soil c 3970
+acidity ueql 6292
+acidneutralizing capacity ueql 6292
+acidphosphataseactivity 4637
+act  ana  gramn  gramp 3970
+actinobacteria biomass 3970
+ag 5986
+ag gl 5189
+agbgbxcbhapnag  bionmol represents total enzyme activity normalized to total biomass 3970
+agbgbxcbhapnagrepresents total extracellular enzyme activity 3970
+agcsum 5131
+age years 4614
+agent 4665
+aggregatestability file site 4660
+air tempc 4165
+air temperature 2821
+air temperature c 2617
+air temperature deg c 2692
+air temperature degc 4871
+air temperature degrees c 2583
+air temperaturec 2423
+airt 5324
+airtcavg 6526
+airtcmax 6526
+airtcmin 6526
+airtempavg 6524
+airtempcmavg 2435
+airtempcmmax 2435
+airtempcmmin 2435
+airtempmax 6521
+airtempmin 6521
+airtempmmax time 2435
+airtempmmin time 2435
+al 4107
+al	total aluminum 2952
+al  ammonium oxalateextractable 4982
+al  citrateascorbateextractable 4982
+al  citrateditihionite extractable 4982
+al in  m hcl 4982
+al m 2645
+al mgl 6292
+al ugml 5274
+al umol l 4129
+albedo 2475
+albite 5531
+alk 4107
+alkalinity meq l 2580
+alkalinity meql caco 4851
+alkalinity mgl 6292
+alkalinity mmol l caco 4129
+alkalinity mmoll caco 6292
+alkalinity total 2407
+alkalinity ueql 6292
+alo 5986
+alpha glucosidase activity per unit biomass 3970
+alphanacetylglucosaminidase 4982
+alphia glucosidase activity 3970
+alphia glucosidase activity per unit soil c 3970
+aluminum 5512
+aluminum dissolved 2407
+alumoll 4851
+ammonium mgl 4851
+ammonium nh 2865
+amphibole 5512
+anaerobic bacteria biomass 3970
+analysis date 2609
+analyzed material 6292
+anc	ancalkalinity 2952
+ancmgl 4165
+ancueql 4165
+and number of return from ground nground 4606
+anion sum 6292
+anm 3894
+antimony dissolved 4135
+antistokes scatter nm 4174
+apophylite 5531
+apparent electrical resistivity ohmm 4677
+arbuscular mycorhizal fungi biomass 3970
+area 5131
+area cm 5281
+arsenic dissolved 2407
+as 5986
+ascii 2921
+ashfreedrymassafdm 2862
+aspect 5131
+aspectdegree 5982
+asses and mules 4665
+atmospheric pressure 2821
+atmospheric pressure mb 2646
+atmospheric temperature deg c 2646
+augelite 5531
+average flux density 2551
+average hmp virtual temperature deg c 2752
+average hmp water vapor concentration g m 2752
+average instantaneous radiation 2617
+average instantaneous radiation moles 2622
+average irga surface pressure kpa 2752
+average irga water vapor concentration g m 2752
+average lai 2650
+average net radiation w m 2752
+average o 2620
+average par radiation 2617
+average pfd 2617
+average pfd moles 2622
+average photosynthetically active radiation mol m s 2752
+average relative humidity 2617
+average return height avgh 4606
+average scan angle avgscanangle 4606
+average soil temp 2451
+average soil volumetric moisture 2451
+average temperature 2617
+average unit vector wind direction 2617
+average wind speed ms 2692
+average wind vector direction 2617
+ba 5986
+ba m 2645
+ba mol l 4129
+ba ugml 5274
+badfilters na 6292
+barium 3422
+barium dissolved 4135
+barley bushels 4665
+baro 5324
+barometric pressmbar 2435
+barometric pressure 2414
+barometricpressure 4608
+basal area cm 4618
+baseflow mday 3868
+basket identification code 5460
+battery min v 4940
+battery voltage 2414
+battery voltage v 2646
+battvmin 6526
+be 5986
+be  atmg 4018
+bearing from plot center degrees 4614
+bedrock 2551
+beeswax and honey lbs 4665
+bemeteoric 4673
+beryllium 4673
+beryllium dissolved 4135
+beta glucosidase 4982
+beta glucosidase activity 3970
+beta glucosidase activity per unit biomass 3970
+beta glucosidase activity per unit soil c 3970
+beta xylosidase activity 3970
+beta xylosidase activity per unit biomass 3970
+beta xylosidase activity per unit soil c 3970
+bi 5986
+bicarp	nahco extractable phosphorus mg  kg 3029
+biota 5488
+bix 3894
+block 4107
+boron 2515
+boron dissolved 2407
+boxcarfiltered hour effective measurement depth cm 2646
+boxcarfiltered hour soil moisture  volumetric 2646
+bp 3642
+br 4130
+br mgl 6292
+bromide dissolved 4135
+bromide mgl 4851
+buckwheat bushels 4665
+bulk density 5512
+bulk density gcm 4018
+bulk electrical conductivity 5140
+bulk electrical conductivityms 4123
+bulkdensity 4660
+bulkelectricalconductivity 4741
+butter lbs 4665
+c 2833
+c  4018
+c mass 2628
+c percent in live fine roots 4982
+ca 2626
+ca	calcium 2952
+ca m 2645
+ca mgl 6292
+ca ugl 6292
+ca ugml 5274
+ca umol l 4129
+cadmium dissolved 4135
+calcium 4673
+calcium ca 2865
+calcium dissolved 4135
+calcium ppm 2628
+calciumdissolved 4742
+calendar season 2599
+calendar year 2558
+cane sugar hhds of  lbs 4665
+canopy cover 2571
+canopy cover cov 4606
+canopy density dns 4606
+cao 5986
+car carbon concentration mg  g soil 3029
+carbon 4673
+carbon concentration 3970
+carbon dioxide 5139
+carbon dioxide concentration 5821
+carbon dioxide flux 5821
+carbon dissolved inorganic 4135
+carbon dissolved organic 2407
+carbon particulate organic 2474
+carbon to nitrogen molar ratio 2474
+carbondegrading enzyme activity per unit biomass 3970
+carbondegradizing enzyme activity agbgbxcbh 3970
+cash value of farm 4665
+cata 5131
+catena 2551
+catena position 3970
+cation sum 6292
+caueql 4165
+caumoll 4851
+cd 5189
+cdom 4982
+ce 5986
+ce ngl 6292
+cellobiohydrolase 4982
+cellobiohydrolase activity 3970
+cellobiohyrolase activity per unit biomass 3970
+cellobiohyrolase activity per unit soil c 3970
+ceoc 5933
+cerium dissolved 4135
+charge bal 4165
+charge balance 6292
+cheese lbs 4665
+chemical treatment na 6292
+chloride 2515
+chloride cl 2865
+chloride dissolved 4135
+chloride mgl 4851
+chlorophyll a corrected for pheophytin 2400
+chlorophyll concentration and didymo cell densities 2862
+chroma 5512
+chromium dissolved 2407
+circularity 3857
+circumference cm 2654
+city 2609
+cl 2626
+cl	chloride 2952
+cl m 2645
+cl mgl 6292
+cl umol l 4129
+classified as ground or nonground 5446
+classified point cloud 2615
+clay 4660
+clay  4018
+clinoptilolite 5512
+cloud cover 4165
+clover seed bushels 4665
+clppm 4165
+clueql 4165
+cm 2863
+cm left 5533
+cm right 5533
+cmper second 2863
+cn 4982
+cn c  n ratio 3029
+cn ratio 5933
+cnrwmavg 6526
+co 5986
+co	carbonate 2952
+co concentration mgm 2558
+co concentration ppm no concentration ppm 2652
+co flux molms 2652
+co flux umolm 2558
+co ugl 6292
+coarse fraction 6488
+cobalt 3422
+cobalt dissolved 4135
+collection date 4165
+collection method 2609
+collection time 4165
+common name 6565
+components cdoccdoc 3894
+components ggsqggp 3894
+concentration 2578
+cond 4107
+cond	conductivity 2952
+conductivity 2626
+coordinates wgs 5533
+copct 4659
+copper 3422
+copper dissolved 2407
+corr 5300
+correlation 2556
+count cps 2653
+count intersections 5281
+count interval end date 2646
+count interval end time 2646
+country 2609
+cp catena position choose one ridge slope valley 3029
+cr 5986
+cr ugl 6292
+cristobalite 5512
+crown class 2648
+cs 5986
+csoc 5933
+csoilrespiredco 4637
+cu 5986
+cu ugl 6292
+curvature 5714
+cz 5285
+d depth interval cm 3029
+d sigma 4165
+data logger id a port 2654
+data logger id b port 2654
+date 6524
+date and time 4686
+date collected yyyymmdd 6292
+date date assay conducted 3029
+date mdyy 2599
+date measured 4614
+date mmddyyyy 5280
+date na 6292
+date of event mdyy 2593
+date sample collected mdyy 2593
+date time 2436
+datetime 6526
+datetime date in format of monthdayyear hourminute 3884
+day na 6292
+day of year 3894
+days since last collection 5460
+dbh 5751
+dbh cm diameter at breast height where applicable 5190
+dcco 5933
+ddmill 4165
+dead fine roots 4982
+decimal day  local time 2558
+decimal time of day 2583
+degc 5277
+degrees  theta 4620
+delta deuterium 2865
+delta deuterium per mill 6292
+delta deuterium std dev 6292
+delta o 2865
+delta oxygen per mill 6292
+delta oxygen std dev 6292
+deltac of dic 4135
+deltad of ho 4135
+deltao of ho 4135
+dem 5131
+dems 2866
+density 2436
+density layer 2433
+depositional habitat 6565
+depth 4660
+depth breast height 5751
+depth cm 5564
+depth in cm 4148
+depth in soil m 4677
+depth m 4018
+depth mm 4871
+depth of sample cm 2600
+depth to bedrock 2609
+depth to bt 5982
+depth to water table 4686
+depth to water table m 2599
+depthcm 5817
+depthm 2822
+descp no na 6292
+description 2573
+deuterium 5485
+deuterium dd 3365
+deuterium excess per mill 6292
+deuterium mass g 2654
+device 2556
+dew point temperature 2414
+dewpoint temperature 4703
+diameter at breast height 2571
+diameter at breast height cm 4614
+diameter at breast height dbh cm 4618
+diameter cm at root collar 5190
+dic	dissolved inorganic carbon 2952
+dickite 5531
+didymo rating index dri 2862
+diffavg	differential degrees c 2654
+difn 4679
+digital elevation model 2615
+digital surface model 2613
+direction 4679
+discharge 4743
+discharge cfs 4871
+discharge cmd 2594
+discharge fts 4680
+discharge ls 6470
+discharge md 3613
+discharge mday 4610
+discharge ms 2918
+dissolved inorganic c mgl 6292
+dissolved org c mgl 6292
+dissolved org c ppm 6292
+dissolved org n mgl 6292
+dissolved org p ugl 6292
+dissolved oxygen 3590
+distance 2658
+distance from plot center m 4614
+distance from transect line m 4618
+distance m along transect where the subplot was located 5190
+distance on surface m 4677
+distance on transect m 4618
+dkn	dissolved kjeldahl nitrogen 2952
+dna 5751
+do 4982
+do  6292
+do mg l 4129
+do mgl 6292
+do permil 2655
+doc 4107
+doc	dissolved organic carbon 2952
+doc in deionized water extractions 4982
+doc in m hcl extractions 4982
+doc ppm 2645
+domill 4165
+don dissolved organic nitrogen 2952
+donuml 4165
+dopuml 4165
+drainage 3732
+dry weight g 5280
+drymassincubatedsoil 4637
+dsm 2915
+dtavg 6526
+duration of collection hrmm 2593
+dy 5986
+dy ngl 6292
+dysprosium dissolved 4135
+easting 2573
+ec 5326
+ec sm 4851
+ec uscm 6292
+ecosystem respiration 2425
+eddy covariance 3654
+eddy covariance measurements 6486
+effective base saturation  4018
+effective cation exchange capacity cmolkg 4018
+effective energy and mass transfer 5107
+effective measurement depth cm 2646
+electrical conductivity 4684
+electrical conductivity dsm 2602
+electrical conductivity scm 4871
+electrical resistivity imaging 4730
+elevation 4606
+elevation error m 2652
+elevation m 2652
+elevation m msl 3935
+elevation of water table m 2599
+emi 5982
+empty 2599
+end 4618
+eqdiam 5131
+er 5986
+er ngl 6292
+erbium dissolved 4135
+erosion rate 2609
+erosional habitat 6565
+est 2752
+etevapotranspiration 6521
+eu 5986
+eu ngl 6292
+eukaryote biomass nonfungal 3970
+europium dissolved 4135
+evaporated na 6292
+evaporation m 3868
+evapotranspiration spatial average mday 4610
+evtboulder 5131
+exposure age 2609
+external temperature 2620
+extractableorganiccarbonconcentration 4637
+extractableorganicnitrogenconcentration 4637
+f 4130
+f	fluoride 2952
+f m 2645
+f mgl 6292
+f umol l 4129
+fagr 4687
+family 6565
+fast neutron count hr 2646
+fe 3422
+fe  ammonium oxalateextractable 4982
+fe  citrateascorbate extractable 4982
+fe  citratedithionite extractable 4982
+fe m 2645
+fe mgl 6292
+fe ugl 6292
+fe ugml 5274
+fe umol l 4129
+feii 4130
+feiii in  m hcl 4982
+feot 5986
+feumoll 4851
+fi 3894
+fic 4606
+field conductivity 4165
+field label 5189
+field tech 2652
+file site 4660
+filter number 5273
+filter poresize na 6292
+filter size 5273
+filtered bare earth dem 2570
+filtered bare earth hillshade 2570
+fine roots 5933
+flax lbs 4665
+flaxseed bushels 4665
+flowno flow 4851
+fluorescence index 4135
+fluoride 2515
+fluoride dissolved 4135
+fluoride mgl 4851
+foliar deltac ooo 3888
+foliar nitrogen content  3888
+forest type 3970
+formate m 2580
+freeberyllium 4673
+freeiron 4673
+fresh massincubatedsoil 4637
+friction velocity 2425
+friction velocity ms 2558
+ft forest type tabonuco or colorado 3029
+ftot 3894
+ftotdoc 3894
+fung  amf 3970
+fungal biomass nonamf 3970
+g eoc g 5933
+g soc g 5933
+g son g 5933
+ga 5986
+gadolinium dissolved 4135
+gage height 2864
+gageheight 4743
+gageht 6292
+gamma count 2591
+gcchppm 4659
+gccopct 4659
+gcnoppm 4659
+gd 5986
+gd ngl 6292
+ge 5986
+genc 5131
+general biomarkers biomass nonspecific to a certain group 3970
+genusspecies 6565
+geology 3622
+germanium dissolved 4135
+ggpggpggp 3894
+ggpggpggpdoc 3894
+gibbsite 5531
+ginned cotton bales of  lbs each 4665
+gis 2866
+gis geospatial database 2572
+gis layer with canopy height m 6475
+global radiation mjmeter 2617
+glucosidaseactivity 4637
+goethite 5531
+grain shape 2436
+grain size 2436
+gram negative bacteria biomass 3970
+gram positive bacteria biomass 3970
+gross primary productivity 2425
+ground elevation 4130
+ground heat flux 5821
+ground penetrating radar 4730
+ground surface elevation 2574
+ground temperature deg c 2692
+ground water 5498
+ground water depth 5498
+ground water temperature 5498
+groundwater depth 2516
+groundwater level spatial average m 4610
+groundwater m 3868
+groundwater meteorological 3623
+groundwaterdepth 4739
+group 6565
+growth cm 2651
+gully boundaries acquired as separate points and aposteriori transformed in polylines 4681
+gwwtemp 5329
+h 3850
+h  2645
+h mgl 6292
+h permil 2655
+h reportable value permil 2599
+h standard deviation permil 2599
+hail diameter min max mm 3869
+haolloysite 5531
+hardness	hardness 2952
+hay tons 4665
+hclp 2551
+hco	bicarbonate 2952
+height m 4614
+height to live canopy base 2571
+hemp  dew rotted tons 4665
+hemp  water rotted tons 4665
+hf 5986
+hhe be ugg 4018
+hhe fe mgg 4018
+hix 3894
+hmp relative humidity  2752
+hmp virtual temperature deg c 2752
+ho 5986
+ho ngl 6292
+holmium dissolved 4135
+hops lbs 4665
+horizon 4018
+horizons  depths cm left 5533
+horizontal distance pit center to rootwad 4155
+horizontal hydraulic conductivity 3886
+horizontal wind speed ms 2558
+horses 4665
+hour 6524
+hour na 6292
+ht 5131
+hue 5512
+humidity 5292
+humification index 4135
+hydrogen isotopes 5668
+hydrogenstableisotoperatiodelta 5486
+hydrology 3625
+i 2627
+id 5131
+id na 6292
+id number 3621
+imagdiel cm 5278
+imaginary dielectric constant 2607
+improved acres of land 4665
+in 5986
+in  km square tiles 5446
+in sw radmjmmtotal 2435
+in sw radmmax time 2435
+in sw radmmin time 2435
+in sw radwmmavg 2889
+in sw radwmmmax 2435
+in sw radwmmmin 2435
+inclination downslope 4155
+inclination upslope 4155
+incoming shortwave radiation in sw radwmmavg 2435
+incoming solar radiation 2619
+increment height m 3621
+increment volume m 3621
+indian corn bushels 4665
+injected deuterium mass g 2654
+injection date 2654
+injection finish time 2654
+injection start time 2654
+inorganic n mgl 6292
+inorganic p ugl 6292
+instantaneous pfd moles 2617
+instantaneous radiation moles 2622
+institutions 2609
+inten 5300
+intensity 4620
+intensity counts 4678
+interception loss m 3868
+internal laboratory control number 5189
+internal temperature 2620
+intersectionarea intersectionscm 5281
+inuml 4165
+invertebratefunctionalgroup 4660
+invertebrategenus 4660
+invertebratespp 4660
+ipuml 4165
+irish potatoes bushels 4665
+iron 4673
+iron dissolved 2407
+iron ferrous 2974
+iron oxide 2551
+julian day 2558
+julianday 6524
+k 2626
+k	potassium 2952
+k m 2645
+k mgl 6292
+k ugml 5274
+k umol l 4129
+ka vm  km hr  3029
+kaolinite 5512
+km michaelisconstant mol l 3029
+kml 2866
+ko 5986
+kppm 4165
+ksat 4660
+ksat cv 4106
+ksat mean 4106
+ksat sd 4106
+kueql 4165
+kumoll 4851
+la 5986
+la ngl 6292
+lab conductivity 4165
+laboratory conducting analysis 2609
+lai 4679
+lai pcc  2649
+land classification 2460
+land cover 3625
+land use 2461
+land use type 2459
+landcover 3622
+landscape position 5982
+landslides 3625
+lanthanum dissolved 4135
+las 2921
+lat latitude in decimal degrees 3884
+latent heat flux 5821
+latent heat flux wm 2558
+latitude 6568
+latitude deg 3935
+latitude degrees 4155
+latitude lat 4606
+latitude minutes 4155
+latynad utm n 4606
+layer 2436
+layer hardness 2436
+laz 2921
+ldo 3642
+lead dissolved 2407
+leaf area index 2571
+leaf litter material 5460
+leaf wetness  cm understory mv 4940
+leaf wetness sensor voltage output mv 2752
+length m 4174
+length mm 3621
+level mm 4828
+li 5189
+lidar 2866
+lidar return height percentiles p top 4606
+light intensity 4982
+line transect name starting point  first letter in transect name 5190
+liquid precip intensity min mmhr 3869
+list 4687
+litter decomposition 5751
+litter g 2651
+litterfall 5751
+litterormineral soil 4660
+litu 4687
+live fine roots 4982
+local time est 2558
+local time of day est 2652
+location 4165
+location czo site identifier 3884
+location na 6292
+log  nag  ag  bgbxcbh represents ratio of nc enzyme activity 3970
+logagbgbxcbhap represents ratio of cp enzyme activity 3970
+lognagap 3970
+loi 5986
+long axis 4155
+long longitude in decimal degrees 3884
+longitude 6568
+longitude deg 3935
+longitude degrees 4155
+longitude long 4606
+longitude minutes 4155
+longwave downwelling  temperaturecorrected wm 4612
+longwave net wm 4612
+longwave upwelling  temperaturecorrected wm 4612
+longxnad utm n 4606
+loss on ignition 5512
+lpm id 3869
+lu 5986
+lu ngl 6292
+lutetium dissolved 4135
+lvl 5329
+macroplot 5280
+magnesium 4673
+magnesium dissolved 4135
+magnesium mg 2865
+magnesium ppm 2628
+magnesiumdissolved 4742
+majax 5131
+major ions and sihueql cappm 4165
+manager of the farm 4665
+manganese 4673
+manganese dissolved 2407
+many 3665
+maple sugar lbs 4665
+mass 4982
+mass per unit area gm 5280
+matricpotential kpa 2601
+max emission at nm 3894
+max height 2571
+maxht 5131
+maximum barometric pressure 2451
+maximum relative humidity 2451
+maximum return height maxh 4606
+maximum scan angle maxscan 4606
+maximum soil temp 2451
+maximum soil volumetric moisture 2451
+maximum solar radiation 2451
+maximum temperature 2451
+maximum wind speed 2451
+mco 4658
+mdegc 4658
+mean albedo 2624
+mean annual precipitation 2551
+mean annual temperature 2609
+mean barometric pressure 2451
+mean curvature 3857
+mean elevation 2551
+mean global radiation 2624
+mean height 2571
+mean maximum temperature 2624
+mean minimum temperature 2624
+mean of maximum relative humidity 2624
+mean of maximum windspeed 2624
+mean of mean unit wind vector 2624
+mean of mean wind direction degree 2617
+mean of mean wind speeds 2624
+mean of minimum relative humidity 2624
+mean of minimum wind speed 2624
+mean of standard deviation of wind speed direction 2624
+mean ppfd 2624
+mean precipitation 2624
+mean radiation net wm 4612
+mean relative humidity 2451
+mean shortwave radiation inbound 2624
+mean shortwave radiation outbound 2624
+mean solar radiation 2451
+mean standard deviation of incoming shortwave radiation 2624
+mean standard deviation of outgoing shortwave radiation 2624
+mean temperature 2451
+mean time of maximum relative humidity 2624
+mean time of maximum temperature 2624
+mean time of maximum wind speed 2624
+mean time of minimum relative humidity 2624
+mean time of minimum temperature 2624
+mean time of minimum wind speed 2624
+mean wind direction 2451
+mean wind speed 2617
+meanht 5131
+measured stage 4684
+measuring quality min  3869
+median albedo 2624
+median global radiation 2624
+median maximum temperature 2624
+median of maximum relative humidity 2624
+median of maximum wind speed 2624
+median of mean wind direction degree 2624
+median of mean wind speed 2624
+median of minimum relative humidity values 2624
+median of minimum temperature 2624
+median of minimum wind speed 2624
+median of shortwave radiation inbound 2624
+median of shortwave radiation outbound 2624
+median of time of maximum temperature 2624
+median ppfd 2624
+median precipitation 2624
+median time of maximum relative humidity 2624
+median time of maximum wind speed 2624
+median time of minimum relative humidity 2624
+median time of minimum temperature 2624
+median time of minimum wind speed 2624
+melanovanadite 5531
+mercury dissolved 4135
+metar  min 3869
+metar  min avg 3869
+metavariscite 5531
+method 3969
+method na 6292
+method of analysis 2609
+method of preparation 2609
+methodcode 6292
+mg 2626
+mg	magnesium 2952
+mg m 2645
+mg mgl 6292
+mg ugl 6292
+mg ugml 5274
+mg umol l 4129
+mgo 5986
+mgppm 4165
+mgueql 4165
+mgumoll 4851
+mho 4658
+mica 5512
+microbialbiomassconcentration 4637
+midslp 5131
+milch cows 4665
+minax 5131
+mineralogy 5668
+minht 5131
+minimum barometric pressure 2451
+minimum relative humidity 2451
+minimum return heightminh 4606
+minimum scan angle minscan 4606
+minimum soil temp 2451
+minimum soil volumetric moisture 2451
+minimum solar radiation 2451
+minimum temperature 2451
+minimum wind speed 2451
+minute na 6292
+miscellaneous material 5460
+mn 3422
+mn  citrateascorbateextractable 4982
+mn  in m hcl extraction 4982
+mn m 2645
+mn mgl 6292
+mn ugl 6292
+mn ugml 5274
+mn umol l 4129
+mno 5986
+mnumoll 4851
+mo 5986
+mod 5300
+molasses gallons 4665
+molybdenum dissolved 4135
+month na 6292
+montmorillonite 5512
+mps matric potential kpa 2606
+mta 4679
+municipalities 3625
+n  2628
+n mass 2628
+n percent in live fine roots 4982
+na 2626
+na	sodium 2952
+na m 2645
+na mgl 6292
+na ugl 6292
+na ugml 5274
+na umol l 4129
+nacetyl glucosaminidase activity 3970
+nacetyl glucosaminidase activity per unit biomass 3970
+nacetyl glucosaminidase activity per unit soil c 3970
+nacetylglucosaminidaseactivity 4637
+nacrite 5531
+nahcopi 2551
+nahcopo 2551
+nahcopt 2551
+name owner 4665
+nao 5986
+naoh extractable p 3970
+naohp naoh extractable phosphorus mg  kg 3029
+naohpi 2551
+naohpo 2551
+naohpt 2551
+nappm 4165
+naueql 4165
+naumoll 4851
+nb 5986
+nctsbare 5300
+nctsmod 5300
+nd 5986
+nd ngl 6292
+ndvi 6487
+needsvariables 2632
+neodymium dissolved 4135
+net rad corrwmm 2889
+net radiation 2494
+net radwmm 2889
+net shortwave 2475
+netsec 5300
+nf 4687
+ng coc g h 5933
+nh	ammonium 2952
+nh mgl 6292
+nhn 2626
+nhn	ammoniumn 2952
+nhueql 4165
+ni 5986
+ni m 2580
+ni ugl 6292
+ni ugml 5273
+nickel dissolved 4135
+niobium 5512
+nit nitrogen concentration mg  g soil 3029
+nitrate 3642
+nitrate mgl 4851
+nitrate no 2865
+nitrateconconcentration 4637
+nitrite mgl 4851
+nitrogen 4673
+nitrogen concentration 3970
+nitrogen dissolved nitrate no 4135
+nitrogen dissolved nitrite no 4135
+nitrogen nh 2515
+nitrogen nitrate no 2515
+nitrogen nitrite no 2515
+nitrogen organic 2407
+nitrogen particulate organic 2474
+nitrogen stable isotope ratio delta 2474
+nitrogen total 2544
+nitrogen total dissolved 4135
+nitrogen total kjeldahl 2407
+nmol act c  bionmol 3970
+nmol amf c  bionmol 3970
+nmol ana c  bionmol 3970
+nmol euk c  bionmol 3970
+nmol fung c  bionmol 3970
+nmol gramn c  bionmol 3970
+nmol gramp c  bionmol 3970
+no 2626
+no	nitrate 2952
+no m 2645
+no mgl 6292
+non 4107
+non	nitraten 2952
+non	nitriten 2952
+none 6541
+nonnon	nitraten  nitriten 2952
+nono	nitrate  nitrite 2952
+nonpurgeable organic carbon npoc 2865
+noppm 4165
+northing 2573
+notes 4155
+noueql 4165
+noumol l 4129
+nrh 5300
+nrmht 5131
+nrwmavg 6526
+nson 5933
+ntc 5300
+number of returns from vegetatation nveg 4606
+number of returns nreturns 4606
+numeric information 2609
+nutrientsdoc mg cl 4165
+o 3850
+o  2645
+o maximum 2620
+o minimum 2620
+o reportable value permil 2599
+o standard deviation permil 2599
+oats bushels 4665
+offset 4686
+oh 4687
+ohmm 2822
+opct 4659
+organic carbon 5512
+organic nitrogen 5512
+orientation downslope 4155
+orientation upslope 4155
+orp mv 4129
+orthhoclase 5531
+orthophosphate po 2865
+other 4687
+other cattle 4665
+other grass seeds bushels 4665
+oxygen 5486
+oxygen dissolved 2514
+oxygen do 3365
+oxygen isotopes 5668
+p 4107
+p m 2645
+p mol l 4129
+p soil pit p  p 3029
+p ugml 5274
+parent lithology 2609
+particle counts 2641
+particulate n mgl 6292
+particulate org c mgl 6292
+particulate p ugl 6292
+pb 5986
+pb ugl 6292
+pcc  2650
+pco at depth 5272
+pco ppmv 2652
+peas  beans bushels 4665
+percent ggsq percent ggpdoc 3894
+percent protein 3894
+percent proteindoc 3894
+perimeter 3857
+persons 2609
+pg chc g h 5933
+pg dna g 5933
+pg non g h 5933
+ph 2626
+ph	ph 2952
+ph  soil 4982
+ph ph 6292
+ph soil ph in water 3029
+phaeophytinugl 4165
+phenoloxidaseactivity 4637
+pheophytin 2400
+phos total extractable phosphorus nahco  naoh mg  kg 3029
+phosphate m 2580
+phosphate mgl 4851
+phosphorus 4673
+phosphorus dissolved 4135
+phosphorus orthophosphate dissolved 2515
+phosphorus phosphate po 2407
+phosphorus total 2407
+phosphorus total dissolved 2407
+photo name 5533
+piec 4687
+pine g 4687
+pit 3970
+pita 4687
+pittempccm 2452
+pitvol water contentcm 2452
+plagioclase 5512
+planc 5131
+plot 4687
+plot name 3888
+plot unique identifying integer 3884
+pmb 5300
+pmol ap g h 5933
+pmol bg g h 5933
+pmol nag g h 5933
+pmol po g h 5933
+pn 6026
+pnuml 4165
+po 5986
+po mgl 6292
+poc 6026
+poc	particulate organic carbon 2952
+poic	orthophosphate by ic 2952
+point cloud 4182
+point cloud returns 3932
+point number 2573
+pop 2626
+potasium 2628
+potasium ppm 2628
+potassium 4673
+potassium dissolved 4135
+potassium feldspar 5512
+potassium k 2865
+potassiumdissolved 4742
+ppm sum of bicarb and naoh p 3970
+ppuml 4165
+pr 5986
+pr ngl 6292
+praseodymium dissolved 4135
+precip 6522
+precip amount mm 3869
+precip intensity max of min values mmhr 3869
+precip intensity min avg mmhr 3869
+precipitation 5486
+precipitation amount from disdrometer mm 2593
+precipitation frequency 3648
+precipitation horizontal 2619
+precipitation intensity 3648
+precipitation m 3868
+precipitation mday 4610
+precipitation mm 6421
+precipitation running total for current day mm 4940
+precipitation total for previous  minutes mm 4940
+precipitation total for previous date mm 4611
+precipitation type hourly data only 2556
+pred 5131
+press 5300
+pressure absolute 2695
+pressure barometric 2695
+pressure gauge 2497
+pressurepsi 5817
+probe 5300
+profc 5131
+publications 2609
+q ms 3969
+qcode 6522
+qdays qualifying days 6523
+qual 4687
+quartz 5512
+qufa 4687
+quickflow mday 3868
+qumo 4687
+quru 4687
+qust 4687
+quve 4687
+radar reflectivity min dbz 3869
+radiation 3654
+radiation incoming 2501
+radiation incoming longwave 5821
+radiation incoming par 5821
+radiation incoming shortwave 5821
+radiation net 5821
+radiation net longwave 2475
+radiation outgoing longwave 5821
+radiation outgoing shortwave 5821
+radiationincoming 4608
+radiationincomingpar 4608
+radiationshortwave 2659
+rain 2821
+rain gage locations 6118
+rain gagemm 2889
+rainfall 6026
+rainfall inch 4680
+rainfall mm 2584
+rainmmtot 6526
+raster image data 4324
+rb 5986
+real dielectric constant 2608
+realdiel cm 5278
+recharge mday 3868
+recnum 5277
+record 2692
+record count na 6292
+record id number for sap flux datalogger 2654
+record number 2752
+recorder code 2568
+recordnum 5300
+recordnumber 6526
+reduction potential 5198
+reflected radiation par 2617
+reflectivity dbz 2585
+region 4155
+relative age 4155
+relative humidity 2414
+relative humidity  4940
+relativehumidity 5497
+reservoir height 4734
+residual p 2551
+residual to total 2551
+rh 6526
+rh  2889
+rh max 2889
+rh max time 2889
+rh min 2889
+rh min time 2889
+rhavg 6524
+rhm 2435
+rhmax 6522
+rhmin 6522
+rhmmax 2435
+rhmmax time 2435
+rhmmin 2435
+rhmmin time 2435
+rice lbs 4665
+rm young  heated tipping bucket mm 2435
+rock fragments 5512
+root density mm 3621
+roundness 3857
+rs average instantaneous soil respiration micro moles c per square meter per second over three locations per site 3884
+rsse standard error of soil respiration n 3884
+rubidium 3422
+rundate 5274
+runoff 3732
+runoff mmhr 6470
+rye bushels 4665
+salinity 2544
+samarium dissolved 4135
+sample 5274
+sample date 2580
+sample id 4683
+sample id na 6292
+sample label 2652
+sample location 4851
+sample medium 2609
+sample name 4130
+sample number 2645
+sample preparation na 6292
+sample type 5189
+samplecode 6292
+sampledate 6292
+sampleid 3621
+sampletype na 6292
+sampling date 5274
+sampling date and time 2609
+sampling date tree id 2654
+sampling depth cm 2609
+sampling time 5274
+samplingdatejd na 6292
+samplingmethod na 6292
+samplingnote na 6292
+sand 4018
+sanpe 5300
+sap flow 2661
+sap flux 2639
+sap flux time 2654
+sapflux id 2654
+saturated vertical hydraulic conductivity 3886
+sb 5986
+sc 5986
+scalar mean wind speed 2451
+scale 5300
+se 5189
+se lai 4679
+se mta 4679
+seconds 5817
+see detail below 4606
+see details below 4606
+see details below  4606
+seeds and flowers 5460
+seismic refraction 3676
+selenium dissolved 4135
+sensible heat flux 5821
+sensible heat flux wm 2558
+sensor air tempc 2782
+sensor depthcm 2782
+shaded relief 2613
+shape files 2866
+sheep 4665
+short axis 4155
+shortwave downwelling wm 4612
+shortwave net wm 4612
+shortwave radiation 2821
+shortwave upwelling wm 4612
+si 5189
+si	silica 2952
+si icp centrifugeppm 4165
+si icpppm 4165
+si m 2645
+si mgl 6292
+si ugl 6292
+si ugml 5274
+si umol l 4129
+silica 2515
+silica  ammonium oxalateextractable 4982
+silica  citrateascorbateextractable 4982
+silica in  m hcl 4982
+silicadissolved 4742
+silicon 4673
+silicon dissolved 4135
+silk cocoons lbs 4665
+silt 4660
+silver dissolved 4135
+sio 2626
+sio colorimetricuml 4165
+sio icp centrifugeppm 4165
+sio icpppm 4165
+sio mgl 6292
+site 4658
+site id 3969
+site lrms leading ridge midslope or tmms tussey mtn midslope 5272
+site name 2645
+site standard deviation 2650
+site standard error 2650
+sitecode 6292
+skin temperature 5821
+slope 5131
+slope degree 2609
+slope position 5281
+slpht 5131
+sm 5986
+sm ngl 6292
+smp 4679
+sn 5986
+snow depth 2430
+snow depth cm 4940
+snow depth spatial average m 4610
+snow depthcm 2431
+snow depths 2448
+snow temperature 2436
+snowdepthcm 2423
+so 4130
+so m 2645
+so mgl 6292
+so soil order oxisol or inceptisol 3029
+so umol l 4129
+sodium 4673
+sodium bicarbonate extractable p 3970
+sodium dissolved 4135
+sodium na 2865
+sodiumdissolved 4742
+soil c 4982
+soil co ppm 4032
+soil depth 5714
+soil depth m 2652
+soil heat fluxwmcm 2435
+soil horizon 3886
+soil microbe counts 2833
+soil moisture 2821
+soil moisture  volumetric 2646
+soil moisture content 2426
+soil moisture mm 2588
+soil moisture spatial average in top  cm mm 4610
+soil n 4982
+soil order 3970
+soil organic carbon 6488
+soil ph  soil  di water 3970
+soil taxonomy 2609
+soil tempccm 2435
+soil temperature 2821
+soil temperature at  cm c 2652
+soil temperature in degrees c 4148
+soil temperaturec 2426
+soil thickness 6488
+soil trace gases 5751
+soil type 3722
+soil vol water contentcm 2435
+soilchprodutcionrate 4637
+soilcoproductionrate 4637
+soileb 6526
+soilec 6526
+soilelectricconductivity cm sm 5277
+soilexchangeableca 4673
+soilexchangeablek 4673
+soilexchangeablemg 4673
+soilexchangeablena 4673
+soilkclacidity 4673
+soilmoisture cm mm 5277
+soilnoproductionrate 4637
+soilph 4637
+soilphcacl 4673
+soilphwater 4673
+soils 3622
+soilt 6526
+soilt soil temperature degrees celsius from one location adjacent to soil chamber 3884
+soiltemperature cm 5277
+soiltemperature cm degc 5277
+soiltexture 4673
+soilvwc 6526
+solar radiation 5203
+solar radiation wm 2692
+solid precip intensity min mmhr 3869
+solids total suspended 2474
+solradposs 6522
+solradtot 6521
+soluble phenolics in deionized water extractions 4982
+soppm 4165
+sos 2626
+sos	sulfate 2952
+soueql 4165
+spacing 4107
+spc ms cm 4129
+species 3888
+species code 4614
+species label  letter species code for each shrub stem labeled with first two letters of latin genus name followed by first two letters of latin species name 5190
+species name 2654
+specific conductance 4684
+specific conductance soil conductivity 4674
+specific conductivity scm 6292
+specific uv absorbance 2742
+sr 5986
+sr m 2645
+sr mgl 6292
+sr ugml 5274
+sr umol l 4129
+srp	soluble reactive phosphorus 2952
+ss 6026
+ssurgoid 2609
+stage at vnotch 4684
+stagecm 5324
+stagediff 5324
+stagem 5326
+stand deviation of curvature 3857
+standard deviation instantaneous radiation 2617
+standard deviation o 2620
+standard deviation of all returns stdh 4606
+standard deviation of global radiation 2617
+standard deviation of mean wind direction 2451
+standard deviation of par density 2622
+standard deviation of photon flux density pfd 2617
+standard deviation of reflected radiation 2617
+standard deviation of relative humidity 2617
+standard deviation of temperature 2617
+standard deviation of wind speed 2617
+start 4618
+start  end of collection 2593
+state 2609
+stationcode 6522
+stdht 5131
+stennum 5131
+stokes scatter nm 4174
+storagetimedays na 6292
+strain 4018
+stratigraphy 2433
+stream discharge 5203
+stream flow 3623
+stream water chemistry 5668
+streamflow 2504
+strontium 3422
+strontium dissolved 4135
+sulfate 2515
+sulfate dissolved 4135
+sulfate mgl 4851
+sulfate so 2865
+sulfur 2974
+sulfur dissolved 2407
+sum 4165
+surface hardness 2436
+surface wave analyses 3676
+surfdegc 4658
+suspended load 5668
+suva 2407
+swc soil moisture  volumetric averaged from  locations adjacent to soil chamber 3884
+sweet potatoes bushels 4665
+swine 4665
+synop  min 3869
+synop  min  3869
+synop  min avg 3869
+synop  min max 3869
+synop min 3869
+ta 5986
+tagged tracers with positions overtime additional documentation is presented within the dataset file 2633
+tau p 2551
+tb 5986
+tb ngl 6292
+tc 5300
+tc mgl 4851
+tcdtavg 6526
+tdn 2626
+tdn	total dissolved nitrogen 2952
+tdnuml 4165
+tdp	total dissolved phosphorus 2952
+tdpuml 4165
+tds mg  4129
+te mday 3868
+temp interior deg c 3869
+temperature 4608
+temperature c 6292
+temperature deg c 4174
+temperature deg c  4129
+temperature degrees c 2587
+temperature hmpc degc 4940
+temperature infrared 2501
+temperature judd degc 4940
+temperaturecorrectedimagdiel cm 5278
+temperaturecorrectedrealdiel cm 5278
+temperaturesensor 5497
+terbium dissolved 4135
+terrain conductivity 4730
+textual information 2609
+th 5986
+thallium dissolved 4135
+thermal neutron count hr 2646
+thickness of mobile regolith tmr 5714
+throughfall precipitation mmday 2626
+thulium dissolved 4135
+ti 3422
+ti ugml 5274
+tile push probe depthcm 5982
+time 4658
+time collected 2599
+time collected hhmm 6292
+time event began 2593
+time lapse camera 3737
+time lapse camera pictures 2467
+time na 6292
+time of maximum barometric pressure 2451
+time of maximum relative humidity 2451
+time of maximum soil temp 2451
+time of maximum soil volumetric moisture 2451
+time of maximum solar radiation 2451
+time of maximum temperature 2451
+time of maximum wind speed 2451
+time of minimum barometric pressure 2451
+time of minimum relative humidity 2451
+time of minimum soil temp 2451
+time of minimum soil volumetric moisture 2451
+time of minimum solar radiation 2451
+time of minimum temperature 2451
+time of minimum wind speed 2451
+time of turbidity maximum within last  minutes 4997
+time of turbidity minimum within last  minutes 4997
+time of wind speed max for previous date 4611
+time stamp 5324
+timedate 3731
+timestamp 6421
+timestamp utc 2752
+tin dissolved 4135
+tio 5986
+titanium 4673
+titanium dissolved 4135
+tknunf	total kjeldahl nitrogen unfiltered 2952
+tl 5986
+tm 5986
+tm ngl 6292
+tmstamp 5277
+tmstamp  eastern daylight savings 5817
+tmstamp yyyymmdd hhmmss 5285
+tn mgl 4851
+tnuml 4165
+tnunf	total nitrogen unfiltered 2952
+tobacco lbs 4665
+toc	total organic carbon 2952
+topo position 4618
+topographic wetness index 3972
+topography 6488
+total al mgg 4018
+total be ugg 4018
+total ca mgg 4018
+total dissolved n mgl 6292
+total dissolved nitrogen 2865
+total dissolved p ug pl 6292
+total dissolved p ugl 6292
+total dissolved phosphorus 2865
+total extractable phosphorus 3970
+total fe mgg 4018
+total flux density solar radiation 2617
+total g 4687
+total inorganic c mgl 6292
+total litter collected 5460
+total n mgl 6292
+total org c mgl 6292
+total p 2551
+total p ugl 6292
+total porosity 3886
+total ppfd 2617
+total precip intensity min mmhr 3869
+total precipitation mm 2556
+total solar radiation 2451
+total suspended sediment mgl 6292
+total zr mgg 4018
+tower number 2654
+tpi 5131
+tpuml 4165
+tpunf	total phosphorus unfiltered 2952
+transect 5281
+transect number 4618
+transpiration m 3868
+trap id 2651
+treatment 4660
+tree 4614
+tree azimuth 4155
+tree diameter at breast height dbh cm 3888
+tree girth m 4155
+tree group 2654
+tree id 2655
+tree number 4155
+tree ring width mm 3888
+tree species 2654
+tree tag number 4618
+tree type 4155
+tritium sigma 4165
+tritium std dev 6292
+tritium tu 6292
+tritiumtu 4165
+tsargorodtsevite 5531
+turbidity 2514
+turbidity average during last  minutes ntu 4997
+turbidity maximum ntu 4997
+turbidity minimum ntu 4997
+twi 5131
+u 5986
+unfiltered first return dem 2570
+unfiltered first return hillshade 2570
+unimproved acres of land 4665
+unsaturated m 3868
+uranium dissolved 4135
+utme 5131
+utmn 5131
+uv absorbance 2742
+uva 4135
+v 5986
+v m 2580
+value 5512
+value of animals slaughtered 4665
+value of farming implements and machinery 4665
+value of homemade manufactures 4665
+value of live stock 4665
+value of orchard products dollars 4665
+value of produce of market gardens 4665
+van genuchten alpha 3886
+van genuchten beta 3886
+vanadium dissolved 4135
+vapor pressure 4703
+vapor pressure deficit 2425
+vbat 5300
+vector mean wind speed 2451
+vegetation 3622
+vegetation type 3722
+velocity 2517
+velocity mms 4678
+velocityms 2822
+vermiculite 5531
+vertical 4107
+vertical wind speed ms 2558
+visibility in precip min m 3869
+vllydpth 5131
+vm maximum reaction velocity for phosphatase nmol h g soil 3029
+vol water content 4123
+voltage 3790
+volume 4107
+volumetric soil water content m m 3001
+volumetric water content 2666
+volumetric water content dielectric 2692
+volumetric water content mm 3615
+volumetricwatercontent 5496
+w 5986
+water content 3970
+water depth 5498
+water depth m 3614
+water depthcm 3742
+water flux 2415
+water fraction of water content by mass 3029
+water isotopes dexcessmill 4165
+water level 4686
+water level ft 4680
+water potential 4122
+water quality 3623
+water table 4130
+water table mm or cm 2586
+water table raw mv 2586
+water temp c 2580
+water tempc 4165
+water temperature 4684
+water temperaturec 3742
+water vapor concentration 5821
+water vapor concentration gm 2558
+water volume 3732
+waterpotential 5484
+watershed outlines 6118
+watertempc 5817
+weights by sieve opening 4829
+weir temperature degc 4871
+well summary data only 2586
+wheat bushels 4665
+wind 4165
+wind direction 5821
+wind direction average deg 4940
+wind direction stdev deg 4940
+wind speed 5821
+wind speed and direction 5203
+wind speed average for previous  minutes m s 4940
+wind speed max for previous date m s 4611
+wind speed ms 2692
+wind std 2491
+winddir 6526
+winddirection 4608
+winddirm std devdegrees 2435
+winddirmdegrees 2435
+windspeed 4608
+windspeedmmax time 2435
+windspeedmsmavg 2435
+windspeedmsmmax 2435
+windspeedmsmmin 2889
+windspmsavg 6526
+windspmsmax 6526
+windspmsmin 6526
+wine gallons 4665
+woody material 5460
+wool lbs 4665
+working oxen 4665
+wsmax 6522
+wsscalavg 6522
+wtemp 5324
+x 5131
+x coordinate 2574
+x easting m 3001
+xcoordinate 4130
+xcoordinate m 4033
+xmax 5131
+xmin 5131
+xrd 2860
+xrf 2860
+xylosidase 4982
+y 5131
+y coordinate 2574
+y ngl 6292
+y northing m 3001
+yb 5986
+yb ngl 6292
+ycoordinate 4130
+ycoordinate m 4033
+year 6524
+year na 6292
+ymax 5131
+ymin 5131
+ytterbium dissolved 4135
+yttrium dissolved 4135
+zinc 5512
+zinc dissolved 2407
+zirconium 4673
+zirconium dissolved 4135
+zn 5986
+zn m 2580
+zn mol l 4129
+zn ugl 6292
+zn ugml 5274
+zr 5986
+zr all elemental concentrations gl 5189
