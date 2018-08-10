@@ -1,0 +1,1880 @@
+czo_id,variable
+2400,chlorophyll a corrected for pheophytin
+2400,pheophytin
+2407,alkalinity total
+2407,aluminum dissolved
+2407,arsenic dissolved
+2407,boron dissolved
+2407,dissolved organic carbon
+2407,chromium dissolved
+2407,copper dissolved
+2407,iron dissolved
+2407,lead dissolved
+2407,manganese dissolved
+2407,nitrogen nh4
+2407,organic nitrogen
+2407,nitrogen total kjeldahl
+2407,phosphorus phosphate po4
+2407,total phosphorus
+2407,total dissolved phosphorus
+2407,sulfur dissolved
+2407,specific ultraviolet absorbance-254
+2407,zinc dissolved
+2414,barometric pressure
+2414,battery voltage
+2414,dew point temperature
+2414,relative humidity
+2415,water flux
+2423,air temperature degrees celsius
+2423,snow depth centimeter
+2425,ecosystem respiration
+2425,friction velocity
+2425,gross primary productivity
+2425,vapor pressure deficit
+2426,soil moisture content
+2426,soil temperature degrees celsius
+2430,snow depth
+2431,snow depth centimeter
+2433,density layer
+2433,stratigraphy
+2435,air temperature time of maximum
+2435,time of minimum air temperature at 10m 
+2435,air temperature time of maximum
+2435,time of minimum air temperature at 2m 
+2435,air temperature degrees celsius 10m avg
+2435,maximum air temperature degrees celsius 10m
+2435,minimum air temperature degrees celsius 10m
+2435,air temperature degrees celsius 2m avg
+2435,maximum air temperature degrees celsius 2m
+2435,minimum air temperature degrees celsius 2m
+2435,barometric pressure mbar
+2435,in sw rad5mmax time
+2435,in sw rad5mmin time
+2435,in sw radmjm25mtotal
+2435,in sw radwm25mmax
+2435,in sw radwm25mmin
+2435,incoming shortwave radiation in sw radwm25mavg
+2435,relative humidity (10m)
+2435,maximum relative humidity 10m
+2435,time of maximum relative humidity 10m
+2435,minimum relative humidity (10m)
+2435,time of minimum relative humidity 10m
+2435,relative humidity (2m)
+2435,maximum relative humidity 2m
+2435,time of maximum relative humidity 2m
+2435,minimum relative humidity (2m)
+2435,rm young 52202 heated tipping bucket mm
+2435,soil heat fluxwm215cm
+2435,soil temperature degrees celsius at 15 cm
+2435,soil volumetric water content at 15 cm
+2435,strandard deviation of wind direction degrees (10m) 
+2435,wind direction degrees
+2435,strandard deviation of wind direction degrees (2m) 
+2435,wind direction degrees
+2435,wind speed10mmax time
+2435,time of maximum wind speed 2m
+2435,windspeed meters per second average
+2435,windspeed meters per second maximum
+2435,windspeed meters per second average
+2435,windspeed meters per second maximum
+2436,datetime
+2436,density
+2436,grain shape
+2436,grain size
+2436,layer
+2436,layer hardness
+2436,snow temperature
+2436,surface hardness
+2448,snow depths
+2451,average soil temperature
+2451,average soil volumetric moisture
+2451,maximum barometric pressure
+2451,maximum relative humidity
+2451,maximum soil temperature
+2451,maximum soil volumetric moisture
+2451,maximum solar radiation
+2451,maximum temperature
+2451,maximum wind speed
+2451,mean barometric pressure
+2451,mean relative humidity
+2451,mean solar radiation
+2451,mean temperature
+2451,mean wind direction
+2451,minimum barometric pressure
+2451,minimum relative humidity
+2451,minimum soil temperature
+2451,minimum soil volumetric moisture
+2451,minimum solar radiation
+2451,minimum temperature
+2451,minimum wind speed
+2451,scalar mean wind speed
+2451,standard deviation of mean wind direction
+2451,time of maximum barometric pressure
+2451,time of maximum relative humidity
+2451,time of maximum soil temperature
+2451,time of maximum soil volumetric moisture
+2451,time of maximum solar radiation
+2451,time of maximum temperature
+2451,time of maximum wind speed
+2451,time of minimum barometric pressure
+2451,time of minimum relative humidity
+2451,time of minimum soil temperature
+2451,time of minimum soil volumetric moisture
+2451,time of minimum solar radiation
+2451,time of minimum temperature
+2451,time of minimum wind speed
+2451,total solar radiation
+2451,vector mean wind speed
+2452,soil temperature degrees celsius depth 15 cm
+2452,soil volumetric water content depth 15 cm 
+2452,soil temperature degrees celsius depth 15 cm
+2452,soil volumetric water content depth 15 cm 
+2452,soil temperature degrees celsius depth 15 cm
+2452,soil volumetric water content depth 15 cm 
+2452,soil temperature degrees celsius depth 11 cm
+2452,soil volumetric water content depth 11 cm 
+2452,soil temperature degrees celsius depth 12 cm
+2452,soil volumetric water content depth 12 cm 
+2459,land use type
+2460,land classification
+2461,land use
+2467,time lapse camera pictures
+2474,carbon particulate organic
+2474,carbon to nitrogen molar ratio
+2474,nitrogen particulate organic
+2474,nitrogen15 stable isotope ratio delta
+2474,solids total suspended
+2475,albedo
+2475,net shortwave radiation
+2475,radiation net longwave
+2491,wind std
+2494,net radiation
+2497,pressure gauge
+2501,radiation incoming
+2501,temperature infrared
+2504,stream flow
+2514,dissolved oxygen
+2514,turbidity
+2515,acid neutralizing capacity
+2515,boron
+2515,chloride
+2515,fluoride
+2515,nitrogen nh3
+2515,nitrogen nitrate no3
+2515,nitrogen nitrite no2
+2515,phosphorus orthophosphate dissolved
+2515,silica
+2515,sulfate
+2516,ground water depth
+2517,velocity
+2544,nitrogen total
+2544,salinity
+2551,average flux density
+2551,bedrock
+2551,catena
+2551,hclp
+2551,iron oxide
+2551,mean annual precipitation
+2551,mean elevation
+2551,inorganic phosphorus 
+2551,organic phosphorus (nahco3po)
+2551,nahco3pt
+2551,naohpi
+2551,naohpo
+2551,naohpt
+2551,residual p
+2551,residual to total
+2551,tau p
+2551,total phosphorus
+2556,correlation
+2556,device
+2556,precipitation type hourly data only
+2556,total precipitation mm
+2558,calendar year
+2558,carbon dioxide concentration mgm3
+2558,carbon dioxide flux umolm2
+2558,decimal day  local time
+2558,friction velocity ms
+2558,horizontal wind speed ms
+2558,julian day
+2558,latent heat flux wm2
+2558,local time est
+2558,sensible heat flux wm2
+2558,vertical wind speed ms
+2558,water vapor concentration gm3
+2568,recorder code
+2570,filtered bare earth dem
+2570,filtered bare earth hillshade
+2570,unfiltered first return dem
+2570,unfiltered first return hillshade
+2571,canopy cover
+2571,diameter at breast height
+2571,height to live canopy base
+2571,leaf area index
+2571,max height
+2571,mean height
+2572,gis geospatial database
+2573,description
+2573,easting
+2573,northing
+2573,point number
+2574,ground surface elevation
+2574,x coordinate
+2574,y coordinate
+2578,concentration
+2580,acetate m
+2580,alkalinity meq l1
+2580,formate m
+2580,nickel m
+2580,phosphate m
+2580,sample date
+2580,v m
+2580,water temperature celsius
+2580,zinc m
+2583,air temperature degrees celsius
+2583,decimal time of day
+2584,rainfall mm
+2585,reflectivity dbz
+2586,water table mm or cm
+2586,water table raw mv
+2586,well summary data only
+2587,temperature degrees celsius
+2588,soil moisture m3m3
+2591,gamma count
+2593,date of event mdyy
+2593,date sample collected mdyy
+2593,duration of collection hrmm
+2593,precipitation amount from disdrometer mm
+2593,start  end of collection
+2593,time event began
+2594,discharge cmd
+2599,18o reportable value permil
+2599,18o standard deviation permil
+2599,2h reportable value permil
+2599,2h standard deviation permil
+2599,calendar season
+2599,date
+2599,depth to water table m
+2599,elevation of water table m
+2599,empty
+2599,time collected
+2600,depth of sample cm
+2601,253matricpotential kpa
+2602,electrical conductivity dsm
+2606,mps matric potential kpa
+2607,imaginary dielectric constant
+2608,real dielectric constant
+2609,analysis date
+2609,city
+2609,collection method
+2609,country
+2609,depth to bedrock
+2609,erosion rate
+2609,exposure age
+2609,institutions
+2609,laboratory conducting analysis
+2609,mean annual temperature
+2609,method of analysis
+2609,method of preparation
+2609,numeric information
+2609,parent lithology
+2609,persons
+2609,publications
+2609,sample medium
+2609,sampling date and time
+2609,sampling depth cm
+2609,slope degree
+2609,soil taxonomy
+2609,ssurgoid
+2609,state
+2609,textual information
+2613,digital surface model
+2613,shaded relief
+2615,classified point cloud
+2615,digital elevation model
+2617,air temperature degrees celsius
+2617,average instantaneous radiation
+2617,average par radiation
+2617,average photosynthetic flux density
+2617,average relative humidity
+2617,average temperature
+2617,average unit vector wind direction
+2617,average wind vector direction
+2617,global radiation mjmeter2
+2617,instantaneous photo synthetic flux density moles
+2617,mean of mean wind direction degree
+2617,mean wind speed
+2617,reflected radiation par
+2617,standard deviation instantaneous radiation
+2617,standard deviation of global radiation
+2617,standard deviation of photon flux density pfd
+2617,standard deviation of reflected radiation
+2617,standard deviation of relative humidity
+2617,standard deviation of temperature
+2617,standard deviation of wind speed
+2617,total flux density solar radiation
+2617,total photosynthetic flux density
+2619,incoming solar radiation
+2619,precipitation horizontal
+2620,average o3
+2620,external temperature
+2620,internal temperature
+2620,ozone maximum
+2620,ozone minimum
+2620,standard deviation ozone
+2622,average instantaneous radiation moles
+2622,average photosynthetic flux density moles
+2622,instantaneous radiation moles
+2622,standard deviation of par density
+2624,mean albedo
+2624,mean global radiation
+2624,mean maximum temperature
+2624,mean minimum temperature
+2624,mean of maximum relative humidity
+2624,mean of maximum windspeed
+2624,mean of mean unit wind vector
+2624,mean of mean wind speeds
+2624,mean of minimum relative humidity
+2624,mean of minimum wind speed
+2624,mean of standard deviation of wind speed direction
+2624,mean photosynthetic flux density (ppfd)
+2624,mean precipitation
+2624,mean shortwave radiation inbound
+2624,mean shortwave radiation outbound
+2624,mean standard deviation of incoming shortwave radiation
+2624,mean standard deviation of outgoing shortwave radiation
+2624,mean time of maximum relative humidity
+2624,mean time of maximum temperature
+2624,mean time of maximum wind speed
+2624,mean time of minimum relative humidity
+2624,mean time of minimum temperature
+2624,mean time of minimum wind speed
+2624,median albedo
+2624,median global radiation
+2624,median maximum temperature
+2624,median of maximum relative humidity
+2624,median of maximum wind speed
+2624,median of mean wind direction degree
+2624,median of mean wind speed
+2624,median of minimum relative humidity values
+2624,median of minimum temperature
+2624,median of minimum wind speed
+2624,median of shortwave radiation inbound
+2624,median of shortwave radiation outbound
+2624,median of time of maximum temperature
+2624,median photosynthetic flux density (ppfd)
+2624,median precipitation
+2624,median time of maximum relative humidity
+2624,median time of maximum wind speed
+2624,median time of minimum relative humidity
+2624,median time of minimum temperature
+2624,median time of minimum wind speed
+2626,calcium
+2626,chlorine 
+2626,conductivity
+2626,potassium
+2626,mg
+2626,sodium
+2626,ammonia cation nh4n
+2626,nitrate
+2626,ph
+2626,phosphate
+2626,silica
+2626,sulfate
+2626,total dissolved nitrogen
+2626,throughfall precipitation mmday
+2627,i
+2628,c mass
+2628,calcium ppm
+2628,magnesium ppm
+2628,n 
+2628,nitrogen mass
+2628,potassium
+2628,potasium ppm
+2632,needsvariables
+2633,tagged tracers with positions overtime additional documentation is presented within the dataset file
+2639,sap flux
+2641,particle counts
+2645,18o
+2645,2h 
+2645,al3 m
+2645,ba m
+2645,calcium (ca2) moles
+2645,chlorine m
+2645,dissolved organic carbon ppm
+2645,f m
+2645,Ferric cation fe-3 m
+2645,potasium moles
+2645,mg2 m
+2645,manganese m
+2645,sodium m
+2645,nitrate m
+2645,p m
+2645,sample number
+2645,silicon m
+2645,site name
+2645,sulfate 2 m
+2645,strontium m
+2646,atmospheric pressure mb
+2646,atmospheric temperature deg c
+2646,battery voltage v
+2646,boxcarfiltered 12hour effective measurement depth cm
+2646,boxcarfiltered 12hour soil moisture  volumetric
+2646,count interval end date
+2646,count interval end time
+2646,effective measurement depth cm
+2646,fast neutron count hr
+2646,soil moisture  volumetric
+2646,thermal neutron count hr
+2648,crown class
+2649,lai pcc 
+2650,average lai
+2650,pcc 
+2650,site standard deviation
+2650,site standard error
+2651,growth cm
+2651,litter g
+2651,trap id
+2652,carbon dioxide concentration ppm n2o concentration ppm
+2652,carbon dioxide flux molm2s1
+2652,elevation error m
+2652,elevation m
+2652,field tech
+2652,local time of day est
+2652,partial pressure of carbon dioxide ppmv
+2652,sample label
+2652,soil depth m
+2652,soil temperature degrees celsius at 7 centimeter depth 
+2653,count cps
+2654,circumference cm
+2654,data logger id a port
+2654,data logger id b port
+2654,deuterium mass g
+2654,"diff1avg1	differential degrees c"
+2654,injected deuterium mass g
+2654,injection date
+2654,injection finish time
+2654,injection start time
+2654,record id number for sap flux datalogger
+2654,sampling date tree id
+2654,sap flux time
+2654,sap flux id
+2654,species name
+2654,tower number
+2654,tree group
+2654,tree species
+2655,2h permil
+2655,d18o permil
+2655,tree id
+2658,distance
+2659,radiationshortwave
+2661,sap flow
+2666,volumetric water content
+2692,air temperature degrees celsius
+2692,average wind speed ms
+2692,ground temperature deg c
+2692,record
+2692,solar radiation wm2
+2692,volumetric water content
+2692,wind speed meters per second
+2695,absolute pressure
+2695,barometric pressure
+2742,specific uv absorbance
+2742,ultra violet absorbance
+2752,average hmp virtual temperature deg c
+2752,average hmp water vapor concentration g m3
+2752,average irga surface pressure kpa
+2752,average irga water vapor concentration g m3
+2752,average net radiation w m2
+2752,average photosynthetically active radiation mol m2 s1
+2752,est
+2752,hmp relative humidity 
+2752,hmp virtual temperature deg c
+2752,leaf wetness sensor voltage output mv
+2752,record number
+2752,timestamp utc4
+2782,air temperature degrees celsius
+2782,sensor depth cm
+2782,air temperature degrees celsius
+2782,sensor depth cm
+2782,air temperature degrees celsius
+2782,sensor depth cm
+2782,air temperature degrees celsius
+2782,sensor depth cm
+2782,air temperature degrees celsius
+2782,sensor depth cm
+2821,air temperature
+2821,atmospheric pressure
+2821,rain
+2821,shortwave radiation
+2821,soil moisture
+2821,soil temperature
+2822,depth meter
+2822,ohmm
+2822,velocity meters per second
+2833,c
+2833,soil microbe counts
+2860,xrd
+2860,xrf
+2862,ash free dry mass (afdm)
+2862,chlorophyll concentration and didymo cell densities
+2862,didymo rating index dri
+2863,cm
+2863,cm3per second
+2864,gage height
+2865,ammonium
+2865,calcium
+2865,chloride
+2865,delta 18o
+2865,delta deuterium
+2865,magnesium
+2865,nitrate
+2865,nonpurgeable organic carbon npoc
+2865,orthophosphate po4
+2865,potassium
+2865,sodium
+2865,sulfate so4
+2865,total dissolved nitrogen
+2865,total dissolved phosphorus
+2866,dems
+2866,gis
+2866,kml
+2866,lidar
+2866,shape files
+2889,air temperature degrees celsius 25m avg
+2889,in sw radmjm225mtotal
+2889,in sw radwm225mavg
+2889,net radiation corrwm225m
+2889,net radiation watts per square meter (25m)
+2889,rain gage mm
+2889,relative humidity
+2889,maximum relative humidity
+2889,relative humidity maximum time
+2889,minimum relative humidity
+2889,time of minimum relative humidity
+2889,soil temperature degrees celsius at 22 cm
+2889,soil volumetric water content at 22 cm
+2889,time of maximum wind speed 25m
+2889,windspeed meters per second average
+2889,windspeed meters per second maximum
+2889,windspeed meters per second minimum
+2915,dsm
+2918,discharge m3s
+2919,discharge m3s
+2921,ascii
+2921,las
+2921,laz
+2952,"al	total aluminum"
+2952,"anc	ancalkalinity"
+2952,calcium
+2952,chloride
+2952,"co3	carbonate"
+2952,conductivity
+2952,"dic	dissolved inorganic carbon"
+2952,"dkn	dissolved kjeldahl nitrogen"
+2952,dissolved organic carbon
+2952,dissolved organic nitrogen
+2952,"f	fluoride"
+2952,"hardness	hardness"
+2952,"hco3	bicarbonate"
+2952,potassium
+2952,magnesium
+2952,sodium
+2952,ammonium
+2952,"nh4n	ammoniumn"
+2952,nitrite anion no2n
+2952,nitrate
+2952,nitrate anion no3n
+2952,"no3nno2n	nitraten  nitriten"
+2952,"no3no2	nitrate  nitrite"
+2952,ph
+2952,"po4ic	orthophosphate by ic"
+2952,"poc	particulate organic carbon"
+2952,"si	silica"
+2952,"so4s	sulfate"
+2952,"srp	soluble reactive phosphorus"
+2952,"tdn	total dissolved nitrogen"
+2952,"tdp	total dissolved phosphorus"
+2952,"tknunf	total kjeldahl nitrogen unfiltered"
+2952,"tnunf	total nitrogen unfiltered"
+2952,"toc	total organic carbon"
+2952,"tpunf	total phosphorus unfiltered"
+2974,iron ferrous
+2974,sulfur
+3001,volumetric soil water content m3 m3
+3001,x easting m
+3001,y northing m
+3029,"bicarp	nahco3 extractable phosphorus mg  kg"
+3029,carbon concentration mg  g soil
+3029,cn c  n ratio
+3029,cp catena position choose one ridge slope valley
+3029,d depth interval cm
+3029,date date assay conducted
+3029,ft forest type tabonuco or colorado
+3029,ka vm  km hr 1
+3029,km michaelisconstant mol l1
+3029,naohp naoh extractable phosphorus mg  kg
+3029,nit nitrogen concentration mg  g soil
+3029,p soil pit p1  p20
+3029,ph soil ph in water
+3029,phos total extractable phosphorus nahco3  naoh mg  kg
+3029,so soil order oxisol or inceptisol
+3029,vm maximum reaction velocity for phosphatase nmol h1 g1 soil
+3029,water fraction of water content by mass
+3365,deuterium dd
+3365,oxygen18 d18o
+3422,barium
+3422,cobalt
+3422,copper
+3422,iron
+3422,manganese
+3422,rubidium
+3422,strontium
+3422,titanium
+3590,absolute pressure
+3590,dissolved oxygen
+3613,discharge m3day
+3614,water depth m
+3615,volumetric water content
+3621,id number
+3621,increment height m
+3621,increment volume m3
+3621,length mm
+3621,root density mm3
+3621,sample id
+3622,geology
+3622,land cover
+3622,soils
+3622,vegetation
+3623,groundwater meteorological
+3623,stream flow
+3623,water quality
+3625,hydrology
+3625,land cover
+3625,landslides
+3625,municipalities
+3642,barometric pressure
+3642,ldo
+3642,nitrate
+3648,precipitation frequency
+3648,precipitation intensity
+3654,eddy covariance
+3654,radiation
+3665,many
+3676,seismic refraction
+3676,surface wave analyses
+3722,soil type
+3722,vegetation type
+3731,timedate
+3732,drainage
+3732,runoff
+3732,water volume
+3737,time lapse camera
+3742,water depth cm
+3742,water temperature celsius
+3790,voltage
+3850,18o
+3850,2h
+3857,circularity
+3857,mean curvature
+3857,perimeter
+3857,roundness
+3857,stand deviation of curvature
+3868,baseflow m3day
+3868,discharge m3day
+3868,evaporation m
+3868,groundwater m
+3868,interception loss m
+3868,precipitation m
+3868,quickflow m3day
+3868,recharge mday
+3868,te mday
+3868,transpiration m
+3868,unsaturated m
+3869,hail diameter 1min max mm
+3869,liquid precip intensity 1min mmhr
+3869,lpm id
+3869,measuring quality 1min 
+3869,metar 4678 1min
+3869,metar 4678 5min avg
+3869,precip amount mm
+3869,precipitation intensity 10min avg mmhr
+3869,precipitation intensity 5min avg mmhr
+3869,precipitation intensity max of 1 minute values mmhr
+3869,radar reflectivity 1min dbz
+3869,solid precip intensity 1min mmhr
+3869,synop 4677 1min
+3869,synop 4677 5min avg
+3869,synop 4680 10min max
+3869,synop 4677 1min
+3869,synop 4677 1min
+3869,synop 4677 1min
+3869,synop 4677 1min
+3869,synop 4677 1min
+3869,synop 4677 1min
+3869,synop 4677 1min
+3869,synop 4677 1min
+3869,synop 4677 1min
+3869,synop 4677 1min
+3869,synop 4680 5min avg
+3869,synop 4677 1min
+3869,temperature degrees celsius interior
+3869,total precip intensity 1min mmhr
+3869,visibility in precip 1min m
+3884,datetime date in format of monthdayyear 24hourminute
+3884,lat latitude in decimal degrees
+3884,location czo site identifier
+3884,long longitude in decimal degrees
+3884,plot unique identifying integer
+3884,rs average instantaneous soil respiration micro moles c per square meter per second over three locations per site
+3884,rsse standard error of soil respiration n3
+3884,soilt soil temperature degrees celsius from one location adjacent to soil chamber
+3884,swc soil moisture  volumetric averaged from 3 locations adjacent to soil chamber
+3886,horizontal hydraulic conductivity
+3886,saturated vertical hydraulic conductivity
+3886,soil horizon
+3886,total porosity
+3886,van genuchten alpha
+3886,van genuchten beta
+3888,foliar delta13c ooo
+3888,foliar nitrogen content 
+3888,plot name
+3888,species
+3888,tree diameter at breast height dbh cm
+3888,tree ring width mm
+3894,a254nm
+3894,bix
+3894,components c1docc8doc
+3894,components ggsq1ggp2
+3894,day of year
+3894,fi
+3894,ftot
+3894,ftotdoc
+3894,ggp1ggp1ggp2
+3894,ggp1ggp1ggp2doc
+3894,hix
+3894,max emission at 370nm
+3894,percent ggsq1 percent ggp2doc
+3894,percent protein
+3894,percent protein dissolved organic carbon
+3932,point cloud returns
+3935,elevation m msl
+3935,latitude deg
+3935,longitude deg
+3969,method
+3969,q m3s
+3969,site id
+3970,acid phosphatase activity
+3970,acid phosphatase activity per unit biomass
+3970,acid phosphatase activity per unit soil c
+3970,act  ana  gramn  gramp
+3970,actinobacteria biomass
+3970,agbgbxcbhapnag  bionmol represents total enzyme activity normalized to total biomass
+3970,agbgbxcbhapnagrepresents total extracellular enzyme activity
+3970,alpha glucosidase activity per unit biomass
+3970,alphia glucosidase activity
+3970,alphia glucosidase activity per unit soil c
+3970,anaerobic bacteria biomass
+3970,arbuscular mycorhizal fungi biomass
+3970,beta glucosidase activity
+3970,beta glucosidase activity per unit biomass
+3970,beta glucosidase activity per unit soil c
+3970,beta xylosidase activity
+3970,beta xylosidase activity per unit biomass
+3970,beta xylosidase activity per unit soil c
+3970,carbon concentration
+3970,carbondegrading enzyme activity per unit biomass
+3970,carbondegradizing enzyme activity agbgbxcbh
+3970,catena position
+3970,cellobiohydrolase activity
+3970,cellobiohyrolase activity per unit biomass
+3970,cellobiohyrolase activity per unit soil c
+3970,eukaryote biomass nonfungal
+3970,forest type
+3970,fung  amf
+3970,fungal biomass nonamf
+3970,general biomarkers biomass nonspecific to a certain group
+3970,gram negative bacteria biomass
+3970,gram positive bacteria biomass
+3970,log  nag  ag  bgbxcbh1 represents ratio of nc enzyme activity
+3970,logagbgbxcbhap1 represents ratio of cp enzyme activity
+3970,lognagap1
+3970,nacetyl glucosaminidase activity
+3970,nacetyl glucosaminidase activity per unit biomass
+3970,nacetyl glucosaminidase activity per unit soil c
+3970,naoh extractable phosphorus
+3970,nitrogen concentration
+3970,nmol act c  bionmol
+3970,nmol amf c  bionmol
+3970,nmol ana c  bionmol
+3970,nmol euk c  bionmol
+3970,nmol fung c  bionmol
+3970,nmol gramn c  bionmol
+3970,nmol gramp c  bionmol
+3970,pit
+3970,ppm sum of bicarbonate and sodium hydroxide p
+3970,sodium bicarbonate extractable p
+3970,soil order
+3970,soil ph 110 soil  di water
+3970,total extractable phosphorus
+3970,water content
+3972,topographic wetness index
+4018,10be 108 atmg
+4018,bulk density gcm3
+4018,c 
+4018, clay
+4018,depth meter
+4018,effective base saturation 
+4018,effective cation exchange capacity cmolkg
+4018,hhe 9be ugg
+4018,hhe iron mgg
+4018,horizon
+4018, sand
+4018,strain
+4018,total 9be ugg
+4018,total aluminum mgg
+4018,total calcium mgg
+4018,total iron mgg
+4018,total zr mgg
+4032,soil co2 ppm
+4033,2008 ag biomass kg
+4033,2008 dbh cm
+4033,2012 ag biomass kg
+4033,2012 dbh cm
+4033,xcoordinate m
+4033,y coordinate m
+4106,ksat cv
+4106,ksat mean
+4106,ksat sd
+4107,aluminum cation al3
+4107,alk
+4107,block
+4107,conductivity
+4107,dissolved organic carbon
+4107,Nitrate nitrogen anion no3n
+4107,p
+4107,spacing
+4107,vertical
+4107,volume
+4109,deltad of h2o
+4122,water potential
+4123,bulk electrical conductivity ms
+4123,volumetric water content
+4129,aluminum umol/l
+4129,alkalinity mmol/l Calcium carbonate
+4129,ba mol l1
+4129,calcium umol/l
+4129,chlorine umol/l
+4129,dissolved oxygen mgl
+4129,fluorine umol/l
+4129,iron umol/l
+4129,potasium umol/l
+4129,magnesium umol/l
+4129,manganese umol/l
+4129,sodium umol/l
+4129,nitrate umol/l
+4129,orp mv
+4129,phosphorus mol/l
+4129,silicon umol/l
+4129,sulfate umol/l
+4129,spc ms cm1
+4129,strontium umol l1
+4129,tds mg 1
+4129,temperature degrees celsius
+4129,zinc mol/l
+4130,br
+4130,f
+4130,feii
+4130,ground elevation
+4130,phosphate
+4130,sample name
+4130,sulfate
+4130,water table
+4130,x coordinate
+4130,y coordinate
+4135,antimony dissolved
+4135,barium dissolved
+4135,beryllium dissolved
+4135,bromide dissolved
+4135,cadmium dissolved
+4135,dissolved calcium
+4135,carbon dissolved inorganic
+4135,cerium dissolved
+4135,chloride dissolved
+4135,cobalt dissolved
+4135,delta13c of dic
+4135,delta18o of h2o
+4135,delta1d of h2o
+4135,dysprosium dissolved
+4135,erbium dissolved
+4135,europium dissolved
+4135,fluorescence index
+4135,fluoride dissolved
+4135,gadolinium dissolved
+4135,germanium dissolved
+4135,holmium dissolved
+4135,humification index
+4135,lanthanum dissolved
+4135,lutetium dissolved
+4135,dissolved magnesium
+4135,mercury dissolved
+4135,molybdenum dissolved
+4135,neodymium dissolved
+4135,nickel dissolved
+4135,nitrogen dissolved nitrate no3
+4135,nitrogen dissolved nitrite no2
+4135,total dissolved nitrogen
+4135,phosphorus dissolved
+4135,dissolved potassium
+4135,praseodymium dissolved
+4135,samarium dissolved
+4135,selenium dissolved
+4135,silicon dissolved
+4135,silver dissolved
+4135,dissolved sodium
+4135,strontium dissolved
+4135,sulfate dissolved
+4135,Specific ultraviolet absorbance-280
+4135,terbium dissolved
+4135,thallium dissolved
+4135,thulium dissolved
+4135,tin dissolved
+4135,titanium dissolved
+4135,uranium dissolved
+4135,ultra violet absorbance 254
+4135,ultra violet absorbance 280
+4135,vanadium dissolved
+4135,ytterbium dissolved
+4135,yttrium dissolved
+4135,zirconium dissolved
+4148,depth in cm
+4148,soil temperature degrees celsius
+4155,1
+4155,2
+4155,3
+4155,4
+4155,5
+4155,horizontal distance pit center to rootwad
+4155,inclination downslope
+4155,inclination upslope
+4155,latitude degrees
+4155,latitude minutes
+4155,long axis
+4155,longitude degrees
+4155,longitude minutes
+4155,notes
+4155,orientation downslope
+4155,orientation upslope
+4155,region
+4155,relative age
+4155,short axis
+4155,tree azimuth
+4155,tree girth 15m
+4155,tree number
+4155,tree type
+4165, diff charge bal
+4165,air temperature degrees celsius
+4165,ancmgl
+4165,ancueql
+4165,calcium ueql
+4165,charge bal
+4165,cloud cover
+4165,chlorine ppm
+4165,clueql
+4165,collection date
+4165,collection time
+4165,d18 1sigma
+4165,d18o permill
+4165,deuterium d permill
+4165,dissolved organic nitrogen uml
+4165,dissolved organic phosphorous uml
+4165,field conductivity
+4165,inuml
+4165,ipuml
+4165,potasium ppm
+4165,potassium ueql
+4165,lab conductivity
+4165,location
+4165,major ions and sihueql cappm
+4165,magnesium ppm
+4165,magnesium ueql
+4165,sodium ppm
+4165,sodium microequivalents per liter 
+4165,ammonium microequivalents per liter 
+4165,nitrate ppm
+4165,nitrate microequivalents per liter
+4165,nutrientsdoc mg cl
+4165,phaeophytinugl
+4165,phosphorus um/l (pnuml)
+4165,ppuml
+4165,silicon icp centrifuge ppm
+4165,silicon icp ppm
+4165,silicon dioxide colorimetricuml
+4165,silicon dioxide (sio2) icp  centrifuge ppm
+4165,silicon dioxide (sio2) icp ppm
+4165,sulfate ppm
+4165,sulfate ueql
+4165,sum
+4165,tdnuml
+4165,total dissolved phosphorus uml
+4165,tnuml
+4165,total phosphorus uml
+4165,tritium 1sigma
+4165,tritium
+4165,water isotopes dexcessmill
+4165,water temperature celsius
+4165,wind
+4174,antistokes scatter nm
+4174,length m
+4174,stokes scatter nm
+4174,temperature degrees celsius
+4182,point cloud
+4324,raster image data
+4606,and number of return from ground nground
+4606,average return height avgh
+4606,average scan angle avgscanangle
+4606,canopy cover cov
+4606,canopy density dns
+4606,elevation
+4606,fic
+4606,latitude lat
+4606,latynad83 utm 17n
+4606,lidar return height percentiles p05 top90
+4606,longitude long
+4606,longxnad83 utm 17n
+4606,maximum return height maxh
+4606,maximum scan angle maxscan
+4606,minimum return heightminh
+4606,minimum scan angle minscan
+4606,number of returns from vegetatation nveg
+4606,number of returns nreturns
+4606,see detail below
+4606,see details below
+4606,see details below
+4606,standard deviation of all returns stdh
+4608,barometric pressure
+4608,radiation incoming
+4608,radiation incoming photosynthetically active radiation
+4608,temperature
+4608,wind direction
+4608,wind speed
+4610,discharge m3day
+4610,evapotranspiration spatial average mday
+4610,groundwater level spatial average m
+4610,precipitation mday
+4610,snow depth spatial average m
+4610,soil moisture spatial average in top 10 cm m3m3
+4611,precipitation total for previous date mm
+4611,time of wind speed max for previous date
+4611,wind speed max for previous date m s1
+4612,longwave downwelling  temperaturecorrected wm2
+4612,longwave net wm2
+4612,longwave upwelling  temperaturecorrected wm2
+4612,mean radiation net wm2
+4612,shortwave downwelling wm2
+4612,shortwave net wm2
+4612,shortwave upwelling wm2
+4614,age years
+4614,bearing from plot center degrees
+4614,date measured
+4614,diameter at breast height
+4614,distance from plot center m
+4614,height m
+4614,species code
+4614,tree
+4618,basal area cm2
+4618,diameter at breast height
+4618,distance from transect line m
+4618,distance on transect m
+4618,end
+4618,start
+4618,topo position
+4618,transect number
+4618,tree tag number
+4620,degrees 2 theta
+4620,intensity
+4637,13csoilrespiredco2
+4637,acid phosphatase activity
+4637,dry mass incubated soil
+4637,extractable organic carbon concentration
+4637,extractable organic carbon concentration
+4637,fresh massincubatedsoil
+4637,glucosidaseactivity
+4637,microbialbiomassconcentration
+4637,nacetyl glucosaminidase activity
+4637,nitrateconconcentration
+4637,phenoloxidaseactivity
+4637,soilch4produtcionrate
+4637,soilco2productionrate
+4637,soil nitrous oxide production rate
+4637,soilph
+4658,05m carbon dioxide
+4658,temperature degrees celsius (5m)
+4658,05mh2o
+4658,05mo2
+4658,15m carbon dioxide
+4658,temperature degrees celsius (15m)
+4658,15mh2o
+4658,15mo2
+4658,site
+4658,surf degree celsius
+4658,time
+4659,precent carbon dioxide
+4659,gcch4ppm
+4659,gcco2pct
+4659,gcn2oppm
+4659,oxygen percent
+4660,aggregatestability file2 site
+4660,bulk density
+4660, clay
+4660,depth
+4660,file1 site
+4660,invertebrate functional group
+4660,invertebrate genus
+4660,invertebrates pp
+4660,ksat
+4660,litterormineral soil
+4660, silt
+4660,treatment
+4665,agent
+4665,asses and mules
+4665,barley bushels
+4665,beeswax and honey lbs
+4665,buckwheat bushels
+4665,butter lbs
+4665,cane sugar hhds of 1000 lbs
+4665,cash value of farm
+4665,cheese lbs
+4665,clover seed bushels
+4665,flax lbs
+4665,flaxseed bushels
+4665,ginned cotton bales of 400 lbs each
+4665,hay tons
+4665,hemp  dew rotted tons
+4665,hemp  water rotted tons
+4665,hops lbs
+4665,horses
+4665,improved acres of land
+4665,indian corn bushels
+4665,irish potatoes bushels
+4665,manager of the farm
+4665,maple sugar lbs
+4665,milch cows
+4665,molasses gallons
+4665,name owner
+4665,oats bushels
+4665,other cattle
+4665,other grass seeds bushels
+4665,peas  beans bushels
+4665,rice lbs
+4665,rye bushels
+4665,sheep
+4665,silk cocoons lbs
+4665,sweet potatoes bushels
+4665,swine
+4665,tobacco lbs
+4665,unimproved acres of land
+4665,value of animals slaughtered
+4665,value of farming implements and machinery
+4665,value of homemade manufactures
+4665,value of live stock
+4665,value of orchard products dollars
+4665,value of produce of market gardens
+4665,wheat bushels
+4665,wine gallons
+4665,wool lbs
+4665,working oxen
+4671,2 esri format 1m dem from ground classified points
+4671,3 esri format 1m hillshade raster from ground classified points
+4671,4 esri format 1m dem from all points canopy included
+4671,5 esri format 1m hillshade raster from all points canopy included
+4673,10bemeteoric
+4673,beryllium
+4673,calcium
+4673,carbon
+4673,freeberyllium
+4673,freeiron
+4673,iron
+4673,magnesium
+4673,manganese
+4673,nitrogen
+4673,phosphorus
+4673,potassium
+4673,silicon
+4673,sodium
+4673,soil exchangeable calcium 
+4673,soil exchangeable potassium 
+4673,soil exchangeable magnesium
+4673,soil exchangeable sodium
+4673,soil kcl acidity
+4673,soilphcacl2
+4673,soilphwater
+4673,soiltexture
+4673,titanium
+4673,zirconium
+4674,specific conductance soil conductivity
+4677,apparent electrical resistivity ohmm
+4677,depth in soil m
+4677,distance on surface m
+4678,intensity counts
+4678,velocity mms
+4679,difn
+4679,direction
+4679,lai
+4679,mta
+4679,se lai
+4679,se mta
+4679,smp
+4680,discharge cfs
+4680,rainfall inch
+4680,water level ft
+4681,gully boundaries acquired as separate points and aposteriori transformed in polylines
+4683, clay
+4683, sand
+4683, silt
+4683,sample id
+4684,electrical conductivity
+4684,measured stage
+4684,specific conductance
+4684,stage height at vnotch
+4684,water temperature
+4686,date and time
+4686,depth to water table
+4686,offset
+4686,water level
+4687,fagr
+4687,list
+4687,litu
+4687,nf
+4687,oh
+4687,other
+4687,piec
+4687,pine g
+4687,pita
+4687,plot
+4687,qual
+4687,qufa
+4687,qumo
+4687,quru
+4687,qust
+4687,quve
+4687,total g
+4703,dew point temperature
+4703,vapor pressure
+4730,electrical resistivity imaging
+4730,ground penetrating radar
+4730,terrain conductivity
+4734,reservoir height
+4739,ground water depth
+4741,bulk electrical conductivity
+4742,dissolved calcium
+4742,dissolved magnesium
+4742,dissolved potassium
+4742,silica dissolved
+4742,dissolved sodium
+4743,discharge
+4743,gage height
+4828,level mm
+4829,weights by sieve opening
+4851,alkalinity meql caco3
+4851,alumoll
+4851,ammonium  mgl
+4851,bromide mgl
+4851,caumoll
+4851,chloride mgl
+4851,electrical conductivity sm
+4851,iron-54 umol/l
+4851,iron-57 umol/l
+4851,flowno flow
+4851,fluoride mgl
+4851,kumoll
+4851,mgumoll
+4851,manganese umol/l
+4851,sodium umol/l
+4851,nitrate mgl
+4851,nitrite mgl
+4851,phosphate mgl
+4851,sample location
+4851,sulfate mgl
+4851,technetium mgl
+4851,tn mgl
+4871,air temperature degrees celsius
+4871,depth mm
+4871,discharge cfs
+4871,discharge m3s
+4871,electrical conductivity scm
+4871,air temperature degrees celsius
+4940,minimum battery voltage
+4940,leaf wetness 30 cm understory mv
+4940,precipitation running total for current day mm
+4940,precipitation total for previous 10 minutes mm
+4940,relative humidity
+4940,snow depth centimeter
+4940,temperature hmp45c degc
+4940,temperature judd degc
+4940,wind direction average degress
+4940,wind direction stdev degress
+4940,wind speed average for previous 10 minutes m s1
+4982,absolute pressure
+4982,acid phosphatase
+4982,al  ammonium oxalateextractable
+4982,al  citrateascorbateextractable
+4982,aluminum  citrateditihionite extractable
+4982,aluminum in 05 m hcl
+4982,alphanacetylglucosaminidase
+4982,beta glucosidase
+4982,carbon percent in live fine roots
+4982,cdom
+4982,cellobiohydrolase
+4982,cn
+4982,carbon dioxide
+4982,dead fine roots
+4982,dissolved oxygen
+4982,dissolved organic carbon in 05m hcl extractions
+4982,dissolved organic carbon in deionized water extractions
+4982,iron ammonium oxalateextractable
+4982,iron citrateascorbate extractable
+4982,iron citratedithionite extractable
+4982,feiii in 05 m hcl
+4982,light intensity
+4982,live fine roots
+4982,mass
+4982,manganese  citrateascorbateextractable
+4982,mn  in 05m hcl extraction
+4982,nitrogen percent in live fine roots
+4982,ph  soil
+4982,silica  ammonium oxalateextractable
+4982,silica  citrateascorbateextractable
+4982,silica in 05 m hcl
+4982,soil carbon
+4982,soil n
+4982,soluble phenolics in deionized water extractions
+4982,xylosidase
+4997,time of turbidity maximum within last 15 minutes
+4997,time of turbidity minimum within last 15 minutes
+4997,turbidity average during last 15 minutes ntu
+4997,turbidity maximum ntu
+4997,turbidity minimum ntu
+5107,effective energy and mass transfer
+5131,agcsum
+5131,area
+5131,aspect
+5131,cata
+5131,dem
+5131,eqdiam
+5131,evtboulder
+5131,genc
+5131,ht
+5131,id
+5131,majax
+5131,maxht
+5131,mean height
+5131,midslp
+5131,minax
+5131,mean height
+5131,nrmht
+5131,planc
+5131,pred
+5131,profc
+5131,slope
+5131,slpht
+5131,stdht
+5131,stennum
+5131,tpi
+5131,twi
+5131,utme
+5131,utmn
+5131,vllydpth
+5131,x
+5131,x maximum
+5131,x minimum
+5131,y
+5131,y maximum
+5131,y minimum
+5139,carbon dioxide
+5139,oxygen
+5140,bulk electrical conductivity
+5189,ag gl
+5189,aluminum
+5189,cd
+5189,field label
+5189,internal laboratory control number
+5189,li
+5189,sample type
+5189,se
+5189,silicon
+5189,zirconium all elemental concentrations gl
+5190,dbh cm diameter at breast height where applicable
+5190,diameter cm at root collar
+5190,distance m along transect where the subplot was located
+5190,line transect name starting point  first letter in transect name
+5190,species label 4 letter species code for each shrub stem labeled with first two letters of latin genus name followed by first two letters of latin species name
+5198,reduction potential
+5203,solar radiation
+5203,stream discharge
+5203,wind speed and direction
+5272, oxygen at depth
+5272, oxygen at depth
+5272,partial pressure of carbon dioxide at depth 1
+5272,partial pressure of carbon dioxide at depth2
+5272,site lrms leading ridge midslope or tmms tussey mtn midslope
+5273,filter number
+5273,filter size
+5273,nickel ugml
+5274,aluminum ugml
+5274,ba ugml
+5274,calcium ugml
+5274,iron ugml
+5274,potassium ugml
+5274,magnesium ugml
+5274,manganese ugml
+5274,sodium ugml
+5274,phosphorus ugml
+5274,rundate
+5274,sample
+5274,sampling date
+5274,sampling time
+5274,silicon ugml
+5274,strontium ugml
+5274,titanium ugml
+5274,zinc ugml
+5277,degc
+5277,recnum
+5277,soil electric conductivity 10cm sm
+5277,soil electric conductivity 20cm sm
+5277,soil electric conductivity 40cm sm
+5277,soil moisture 10cm m3m3
+5277,soil moisture 20cm m3m3
+5277,soil moisture 40cm m3m3
+5277,soil temperature degrees celsius at 10 centimeter depth
+5277,soil temperature degrees celsius at 20 centimeter depth
+5277,soil temperature degrees celsius at 40 centimeter depth
+5277,time stamp
+5278,imagdiel 10cm
+5278,imagdiel 20cm
+5278,imagdiel 40cm
+5278,realdiel 10cm
+5278,realdiel 20cm
+5278,realdiel 40cm
+5278,temperaturecorrectedimagdiel 10cm
+5278,temperaturecorrectedimagdiel 20cm
+5278,temperaturecorrectedimagdiel 40cm
+5278,temperaturecorrectedrealdiel 10cm
+5278,temperaturecorrectedrealdiel 20cm
+5278,temperaturecorrectedrealdiel 40cm
+5280,date
+5280,dry weight g
+5280,macroplot
+5280,mass per unit area gm2
+5281,area cm2
+5281,count intersections
+5281,intersectionarea intersectionscm2
+5281,slope position
+5281,transect
+5285,cz20
+5285,cz21
+5285,cz22
+5285,cz23
+5285,cz24
+5285,cz25
+5285,cz26
+5285,cz27
+5285,cz28
+5285,cz29
+5285,cz35
+5285,cz36
+5285,tmstamp yyyymmdd hhmmss
+5292,humidity
+5300,corr
+5300,inten
+5300,mod
+5300,n1ctsmod
+5300,n1etsec
+5300,n1rh
+5300,n1tc
+5300,n2ctsbare
+5300,n2etsec
+5300,n2rh
+5300,n2tc
+5300,p1mb
+5300,press
+5300,probe
+5300,record number
+5300,relative humidity
+5300,sanpe
+5300,scale
+5300,t1c
+5300,vbat
+5324,absolute pressure
+5324,airt
+5324,barometric pressure
+5324,stage height cm
+5324,stage height diff
+5324,time stamp
+5324,w temperature
+5326,electrical conductivity
+5326,stage height m
+5329,gw2wtemp
+5329,lvl2
+5329,lvl9
+5446,1 point cloud in las format version 12
+5446,2 esri float format 10m dem from ground classified points
+5446,3 esri raster format 10m hillshade raster from ground classified points
+5446,4 esri float format 10m dem from first return points
+5446,5 esri raster format 10m hillshade raster first return points
+5446,classified as ground or nonground
+5446,in 1 km square tiles
+5460,basket identification code
+5460,days since last collection
+5460,leaf litter material
+5460,miscellaneous material
+5460,seeds and flowers
+5460,total litter collected
+5460,woody material
+5484,water potential
+5485,deuterium
+5486,
+5486,hydrogen 2 stable isotope ratio delta
+5486,oxygen18
+5486,precipitation
+5488,biota
+5496,volumetric water content
+5497,relative humidity
+5497,temperature sensor
+5498,ground water
+5498,ground water depth
+5498,ground water temperature
+5498,water depth
+5512,aluminum
+5512,amphibole
+5512,bulk density
+5512,chroma
+5512,clinoptilolite
+5512,cristobalite
+5512,hue
+5512,kaolinite
+5512,loss on ignition
+5512,mica
+5512,montmorillonite
+5512,niobium
+5512,organic carbon
+5512,organic nitrogen
+5512,plagioclase
+5512,potassium feldspar
+5512,quartz
+5512,rock fragments
+5512,value
+5512,zinc
+5531,albite
+5531,apophylite
+5531,augelite
+5531,dickite
+5531,gibbsite
+5531,goethite
+5531,haolloysite
+5531,melanovanadite
+5531,metavariscite
+5531,nacrite
+5531,orthhoclase
+5531,tsargorodtsevite
+5531,vermiculite
+5533,cm left
+5533,cm right
+5533,coordinates wgs1984
+5533,horizons  depths cm left
+5533,photo name
+5564,depth centimeter
+5668,hydrogen isotopes
+5668,mineralogy
+5668,oxygen isotopes
+5668,stream water chemistry
+5668,suspended load
+5714,curvature
+5714,soil depth
+5714,thickness of mobile regolith tmr
+5751,dbh
+5751,diameter breast height
+5751,dna
+5751,litter decomposition
+5751,litterfall
+5751,soil trace gases
+5817,depth centimeter
+5817,pressurepsi
+5817,seconds
+5817,tmstamp  eastern daylight savings
+5817,water temperature celsius
+5821,carbon dioxide concentration
+5821,carbon dioxide flux
+5821,ground heat flux
+5821,latent heat flux
+5821,radiation incoming longwave
+5821,radiation incoming par
+5821,radiation incoming shortwave
+5821,net radiation
+5821,radiation outgoing longwave
+5821,radiation outgoing shortwave
+5821,sensible heat flux
+5821,skin temperature
+5821,water vapor concentration
+5821,wind direction
+5821,wind speed
+5933,13ceoc
+5933,13csoc
+5933,15nson
+5933,cn ratio
+5933,d13cco2
+5933,fine roots
+5933,g eoc g1
+5933,g soil organic carbon g1
+5933,g soil organic nitrogen g1
+5933,ng co2c g1 h1
+5933,pg ch4c g1 h1
+5933,pg dna g1
+5933,pg n2on g1 h1
+5933,pmol ap g1 h1
+5933,pmol bg g1 h1
+5933,pmol nag g1 h1
+5933,pmol po g1 h1
+5982,aspect degree
+5982,depth to bt
+5982,emi
+5982,landscape position
+5982,tile push probe depth cm
+5986,ag
+5986,aluminum oxide
+5986,as
+5986,ba
+5986,be
+5986,bi
+5986,cao
+5986,ce
+5986,co
+5986,cr
+5986,cs
+5986,copper
+5986,dy
+5986,er
+5986,eu
+5986,fe2o3t
+5986,ga
+5986,gd
+5986,ge
+5986,hf
+5986,ho
+5986,in
+5986,potassium oxide
+5986,la
+5986,loi
+5986,lu
+5986,mgo
+5986,mno
+5986,mo
+5986,sodium oxide
+5986,nb
+5986,nd
+5986,ni
+5986,phosphorus pentoxide
+5986,lead
+5986,pr
+5986,rb
+5986,sb
+5986,sc
+5986,sm
+5986,sn
+5986,strontium
+5986,ta
+5986,terbium
+5986,th
+5986,titanium oxide
+5986,tl
+5986,tm
+5986,u
+5986,v
+5986,w
+5986,ytterbium
+5986,zinc
+5986,zirconium
+6026,pn
+6026,poc
+6026,rainfall
+6026,ss
+6118,rain gage locations
+6118,watershed outlines
+6292,acidity ueql
+6292,acid neutralizing capacity ueql
+6292,aluminum mgl
+6292,aluminum-27 mgl
+6292,alkalinity mgl
+6292,alkalinity mmol/l Calcium carbonate
+6292,alkalinity ueql
+6292,analyzed material
+6292,anion sum
+6292,badfilters na
+6292,br mgl
+6292,calcium mgl
+6292,calcium-43 ugl
+6292,calcium-44 ugl
+6292,cation sum
+6292,ce140 ngl
+6292,charge balance
+6292,chemical treatment na
+6292,chlorine mgl
+6292,cobalt-59 ugl
+6292,cr52 ugl
+6292,copper-63 ugl
+6292,date collected yyyymmdd
+6292,date na
+6292,day na
+6292,delta deuterium per mill
+6292,delta deuterium std dev
+6292,delta oxygen18 per mill
+6292,delta oxygen18 std dev
+6292,descp no na
+6292,deuterium excess per mill
+6292,dissolved inorganic c mgl
+6292,dissolved org carbon mgl
+6292,dissolved org carbon mgl
+6292,dissolved org nitrogen mgl
+6292,dissolved org phosphorus ugl
+6292,dissolved oxygen
+6292,dissolved oxygen mgl
+6292,dy164 ngl
+6292,electrical conductivity uscm
+6292,er166 ngl
+6292,europium-153 ngl
+6292,evaporated na
+6292,f mgl
+6292,iron mgl
+6292,fe56 ugl
+6292,filter poresize na
+6292,gage height
+6292,gd157 ngl
+6292,h mgl
+6292,ho165 ngl
+6292,hour na
+6292,id na
+6292,inorganic nitrogen mgl
+6292,inorganic phosphorus ugl
+6292,potassium mgl
+6292,lanthanum-139 ngl
+6292,location na
+6292,lutetium-175 ngl
+6292,method na
+6292,method code
+6292,magnesium mgl
+6292,magnesium-25 ugl
+6292,minute na
+6292,manganese mgl
+6292,manganese-55 micrograms per liter
+6292,month na
+6292,sodium mgl
+6292,sodium-23 micrograms per liter
+6292,nd145 ngl
+6292,ammonium  mgl
+6292,nickel-60 micrograms per liter
+6292,nitrogen dioxide mgl
+6292,nitrate mgl
+6292,particulate n mgl
+6292,particulate org c mgl
+6292,particulate p ugl
+6292,lead-208 ugl
+6292,ph
+6292,phosphate mgl
+6292,praseodymium-141 ngl
+6292,record count na
+6292,sample id na
+6292,sample preparation na
+6292,sample code
+6292,sample date
+6292,sampletype na
+6292,sampling date jd na
+6292,sampling method na
+6292,samplingnote na
+6292,silicon mgl
+6292,silicon-28 mgl
+6292,silicon-28 ugl
+6292,silica mgl
+6292,sitecode
+6292,samarium-147 ngl
+6292,sulfate mgl
+6292,specific conductivity scm
+6292,strontium mgl
+6292,storagetimedays na
+6292,terbium-159 ngl
+6292,temperature degrees celsius
+6292,time collected hhmm
+6292,time na
+6292,tm169 ngl
+6292,total dissolved nitrogen mgl
+6292,total dissolved phosphorus ugl
+6292,total dissolved phosphorus ugl
+6292,total inorganic c mgl
+6292,total nitrogen mgl
+6292,total organic carbon mgl
+6292,total phosphorus ugl
+6292,total suspended sediment mgl
+6292,tritium std dev
+6292,tritium
+6292,Yttrium-89 ngl
+6292,ytterbium-174 ngl
+6292,year na
+6292,zinc-64 ugl
+6421,precipitation mm
+6421,time stamp
+6470,discharge ls
+6470,runoff mmhr
+6475,gis layer with canopy height m
+6486,eddy covariance measurements
+6487,ndvi
+6488,coarse fraction
+6488,soil organic carbon
+6488,soil thickness
+6488,topography
+6521,air temperature maximum
+6521,minimum air temperature
+6521,et evapotranspiration
+6521,total solar radiation
+6522,precipitation
+6522,qcode
+6522,maximum relative humidity
+6522,minimum relative humidity
+6522,solradposs
+6522,stationcode
+6522,maximum wind speed
+6522,wsscalavg
+6523,qdays qualifying days
+6524,average air temperature
+6524,date
+6524,hour
+6524,julian day
+6524,average relative humidity
+6524,year
+6526,airtcavg
+6526,airtcmax
+6526,airtcmin
+6526,minimum battery voltage
+6526,cnrwm2avg
+6526,datetime
+6526,dtavg
+6526,nrwm2avg
+6526,rain mm total
+6526,record number
+6526,relative humidity
+6526,soileb
+6526,soil electrical conductivity
+6526,soilt
+6526,soilvwc
+6526,tcdtavg
+6526,wind direction
+6526,average windspeed ms 
+6526,maximum wind speed meters per second
+6526,minimum wind speed meters per second
+6541,none
+6565,common name
+6565,depositional habitat
+6565,erosional habitat
+6565,family
+6565,genusspecies
+6565,group
+6568,latitude
+6568,longitude
