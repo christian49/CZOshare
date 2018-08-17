@@ -1,0 +1,1880 @@
+,Variable,Unit,Aggregation,czo_id,Discipline
+0,chlorophyll a corrected for pheophytin,,NaN,2400,Biology / Ecology
+1,pheophytin,,NaN,2400,Biology / Ecology
+2,alkalinity,,total,2407,Water Chemistry
+3,aluminum dissolved,,NaN,2407,Water Chemistry
+4,arsenic dissolved,,NaN,2407,Water Chemistry
+5,boron dissolved,,NaN,2407,Water Chemistry
+6,dissolved organic carbon,,NaN,2407,Water Chemistry
+7,chromium dissolved,,NaN,2407,Water Chemistry
+8,copper dissolved,,NaN,2407,Water Chemistry
+9,iron dissolved,,NaN,2407,Water Chemistry
+10,lead dissolved,,NaN,2407,Water Chemistry
+11,manganese dissolved,,NaN,2407,Water Chemistry
+12,nitrogen nh4,,NaN,2407,Water Chemistry
+13,organic nitrogen,,NaN,2407,Water Chemistry
+14,nitrogen kjeldahl,,total,2407,Water Chemistry
+15,phosphorus phosphate po4,,NaN,2407,Water Chemistry
+16,phosphorus,,total,2407,Water Chemistry
+17,dissolved phosphorus,,total,2407,Water Chemistry
+18,sulfur dissolved,,NaN,2407,Water Chemistry
+19,specific ultraviolet absorbance-254,,NaN,2407,Water Chemistry
+20,zinc dissolved,,NaN,2407,Water Chemistry
+21,barometric pressure,,NaN,2414,Climatology / Meteorology
+22,battery voltage,,NaN,2414,Climatology / Meteorology
+23,dew point temperature,,NaN,2414,Climatology / Meteorology
+24,relative humidity,,NaN,2414,Climatology / Meteorology
+25,water flux,,NaN,2415,Biology / Ecology|Climatology / Meteorology
+26,air temperature,degreescelsius,NaN,2423,Climatology / Meteorology
+27,snow depth centimeter,,NaN,2423,Climatology / Meteorology
+28,ecosystem respiration,,NaN,2425,Biology / Ecology|Climatology / Meteorology
+29,friction velocity,,NaN,2425,Biology / Ecology|Climatology / Meteorology
+30,gross primary productivity,,NaN,2425,Biology / Ecology|Climatology / Meteorology
+31,vapor pressure deficit,,NaN,2425,Biology / Ecology|Climatology / Meteorology
+32,soil moisture content,,NaN,2426,Soil Science / Pedology
+33,soil temperature,degreescelsius,NaN,2426,Soil Science / Pedology
+34,snow depth,,NaN,2430,Climatology / Meteorology
+35,snow depth centimeter,,NaN,2431,Climatology / Meteorology
+36,density layer,,NaN,2433,Hydrology
+37,stratigraphy,,NaN,2433,Hydrology
+38,air temperature,,timeofmaximum,2435,Climatology / Meteorology
+39,air temperature at 10m,,timeofminimum,2435,Climatology / Meteorology
+40,air temperature,,timeofmaximum,2435,Climatology / Meteorology
+41,air temperature at 2m,,timeofminimum,2435,Climatology / Meteorology
+42,air temperature 10m,degreescelsius,avg,2435,Climatology / Meteorology
+43,air temperature 10m,degreescelsius,maximum,2435,Climatology / Meteorology
+44,air temperature 10m,degreescelsius,minimum,2435,Climatology / Meteorology
+45,air temperature 2m,degreescelsius,avg,2435,Climatology / Meteorology
+46,air temperature 2m,degreescelsius,maximum,2435,Climatology / Meteorology
+47,air temperature 2m,degreescelsius,minimum,2435,Climatology / Meteorology
+48,barometric pressure mbar,,NaN,2435,Climatology / Meteorology
+49,in sw rad5mmax time,,NaN,2435,Climatology / Meteorology
+50,in sw rad5mmin time,,NaN,2435,Climatology / Meteorology
+51,in sw radmjm25mtotal,,NaN,2435,Climatology / Meteorology
+52,in sw radwm25mmax,,NaN,2435,Climatology / Meteorology
+53,in sw radwm25mmin,,NaN,2435,Climatology / Meteorology
+54,incoming shortwave radiation in sw radwm25mavg,,NaN,2435,Climatology / Meteorology
+55,relative humidity (10m),,NaN,2435,Climatology / Meteorology
+56,relative humidity 10m,,maximum,2435,Climatology / Meteorology
+57,relative humidity 10m,,timeofmaximum,2435,Climatology / Meteorology
+58,relative humidity (10m),,minimum,2435,Climatology / Meteorology
+59,relative humidity 10m,,timeofminimum,2435,Climatology / Meteorology
+60,relative humidity (2m),,NaN,2435,Climatology / Meteorology
+61,relative humidity 2m,,maximum,2435,Climatology / Meteorology
+62,relative humidity 2m,,timeofmaximum,2435,Climatology / Meteorology
+63,relative humidity (2m),,minimum,2435,Climatology / Meteorology
+64,rm young 52202 heated tipping bucket,mm,NaN,2435,Climatology / Meteorology
+65,soil heat fluxwm215cm,,NaN,2435,Climatology / Meteorology
+66,soil temperature at 15 cm,degreescelsius,NaN,2435,Climatology / Meteorology
+67,soil volumetric water content at 15,cm,NaN,2435,Climatology / Meteorology
+68,strandard deviation of wind direction degrees (10m),,NaN,2435,Climatology / Meteorology
+69,wind direction degrees,,NaN,2435,Climatology / Meteorology
+70,strandard deviation of wind direction degrees (2m),,NaN,2435,Climatology / Meteorology
+71,wind direction degrees,,NaN,2435,Climatology / Meteorology
+72,wind speed10mmax time,,NaN,2435,Climatology / Meteorology
+73,wind speed 2m,,timeofmaximum,2435,Climatology / Meteorology
+74,windspeed,meterspersecond,average,2435,Climatology / Meteorology
+75,windspeed,meterspersecond,maximum,2435,Climatology / Meteorology
+76,windspeed,meterspersecond,average,2435,Climatology / Meteorology
+77,windspeed,meterspersecond,maximum,2435,Climatology / Meteorology
+78,datetime,,NaN,2436,Hydrology
+79,density,,NaN,2436,Hydrology
+80,grain shape,,NaN,2436,Hydrologyf
+81,grain size,,NaN,2436,Hydrology
+82,layer,,NaN,2436,Hydrology
+83,layer hardness,,NaN,2436,Hydrology
+84,snow temperature,,NaN,2436,Hydrology
+85,surface hardness,,NaN,2436,Hydrology
+86,snow depths,,NaN,2448,Hydrology
+87,soil temperature,,average,2451,Climatology / Meteorology
+88,soil volumetric moisture,,average,2451,Climatology / Meteorology
+89,barometric pressure,,maximum,2451,Climatology / Meteorology
+90,relative humidity,,maximum,2451,Climatology / Meteorology
+91,soil temperature,,maximum,2451,Climatology / Meteorology
+92,soil volumetric moisture,,maximum,2451,Climatology / Meteorology
+93,solar radiation,,maximum,2451,Climatology / Meteorology
+94,temperature,,maximum,2451,Climatology / Meteorology
+95,wind speed,,maximum,2451,Climatology / Meteorology
+96,mean barometric pressure,,NaN,2451,Climatology / Meteorology
+97,mean relative humidity,,NaN,2451,Climatology / Meteorology
+98,mean solar radiation,,NaN,2451,Climatology / Meteorology
+99,mean temperature,,NaN,2451,Climatology / Meteorology
+100,mean wind direction,,NaN,2451,Climatology / Meteorology
+101,barometric pressure,,minimum,2451,Climatology / Meteorology
+102,relative humidity,,minimum,2451,Climatology / Meteorology
+103,soil temperature,,minimum,2451,Climatology / Meteorology
+104,soil volumetric moisture,,minimum,2451,Climatology / Meteorology
+105,solar radiation,,minimum,2451,Climatology / Meteorology
+106,temperature,,minimum,2451,Climatology / Meteorology
+107,wind speed,,minimum,2451,Climatology / Meteorology
+108,wind speed,,scalarmean,2451,Climatology / Meteorology
+109,wind direction,,standarddeviationofmean,2451,Climatology / Meteorology
+110,barometric pressure,,timeofmaximum,2451,Climatology / Meteorology
+111,relative humidity,,timeofmaximum,2451,Climatology / Meteorology
+112,soil temperature,,timeofmaximum,2451,Climatology / Meteorology
+113,soil volumetric moisture,,timeofmaximum,2451,Climatology / Meteorology
+114,solar radiation,,timeofmaximum,2451,Climatology / Meteorology
+115,temperature,,timeofmaximum,2451,Climatology / Meteorology
+116,wind speed,,timeofmaximum,2451,Climatology / Meteorology
+117,barometric pressure,,timeofminimum,2451,Climatology / Meteorology
+118,relative humidity,,timeofminimum,2451,Climatology / Meteorology
+119,soil temperature,,timeofminimum,2451,Climatology / Meteorology
+120,soil volumetric moisture,,timeofminimum,2451,Climatology / Meteorology
+121,solar radiation,,timeofminimum,2451,Climatology / Meteorology
+122,temperature,,timeofminimum,2451,Climatology / Meteorology
+123,wind speed,,timeofminimum,2451,Climatology / Meteorology
+124,solar radiation,,total,2451,Climatology / Meteorology
+125,wind speed,,vectormean,2451,Climatology / Meteorology
+126,soil temperature depth 15 cm,degreescelsius,NaN,2452,Soil Science / Pedology
+127,soil volumetric water content depth 15,cm,NaN,2452,Soil Science / Pedology
+128,soil temperature depth 15 cm,degreescelsius,NaN,2452,Soil Science / Pedology
+129,soil volumetric water content depth 15,cm,NaN,2452,Soil Science / Pedology
+130,soil temperature depth 15 cm,degreescelsius,NaN,2452,Soil Science / Pedology
+131,soil volumetric water content depth 15,cm,NaN,2452,Soil Science / Pedology
+132,soil temperature depth 11 cm,degreescelsius,NaN,2452,Soil Science / Pedology
+133,soil volumetric water content depth 11,cm,NaN,2452,Soil Science / Pedology
+134,soil temperature depth 12 cm,degreescelsius,NaN,2452,Soil Science / Pedology
+135,soil volumetric water content depth 12,cm,NaN,2452,Soil Science / Pedology
+136,land use type,,NaN,2459,Biology / Ecology
+137,land classification,,NaN,2460,Biology / Ecology
+138,land use,,NaN,2461,Biology / Ecology
+139,time lapse camera pictures,,NaN,2467,Data Management / CyberInfrastructure 
+140,carbon particulate organic,,NaN,2474,Water Chemistry|Geomorphology|Biogeochemistry|Hydrology|Geochemistry / Mineralogy
+141,carbon to nitrogen molar ratio,,NaN,2474,Water Chemistry|Geomorphology|Biogeochemistry|Hydrology|Geochemistry / Mineralogy
+142,nitrogen particulate organic,,NaN,2474,Water Chemistry|Geomorphology|Biogeochemistry|Hydrology|Geochemistry / Mineralogy
+143,nitrogen15 stable isotope ratio delta,,NaN,2474,Water Chemistry|Geomorphology|Biogeochemistry|Hydrology|Geochemistry / Mineralogy
+144,solids suspended,,total,2474,Water Chemistry|Geomorphology|Biogeochemistry|Hydrology|Geochemistry / Mineralogy
+145,albedo,,NaN,2475,Climatology / Meteorology
+146,net shortwave radiation,,NaN,2475,Climatology / Meteorology
+147,radiation net longwave,,NaN,2475,Climatology / Meteorology
+148,wind,,std,2491,Climatology / Meteorology|Hydrology
+149,net radiation,,NaN,2494,Climatology / Meteorology
+150,pressure gauge,,NaN,2497,Hydrology
+151,radiation incoming,,NaN,2501,Climatology / Meteorology|Hydrology
+152,temperature infrared,,NaN,2501,Climatology / Meteorology|Hydrology
+153,stream flow,,NaN,2504,Hydrology
+154,dissolved oxygen,,NaN,2514,Climatology / Meteorology|Hydrology|Water Chemistry
+155,turbidity,,NaN,2514,Climatology / Meteorology|Hydrology|Water Chemistry
+156,acid neutralizing capacity,,NaN,2515,Biology / Ecology|Water Chemistry
+157,boron,,NaN,2515,Biology / Ecology|Water Chemistry
+158,chloride,,NaN,2515,Biology / Ecology|Water Chemistry
+159,fluoride,,NaN,2515,Biology / Ecology|Water Chemistry
+160,nitrogen nh3,,NaN,2515,Biology / Ecology|Water Chemistry
+161,nitrogen nitrate no3,,NaN,2515,Biology / Ecology|Water Chemistry
+162,nitrogen nitrite no2,,NaN,2515,Biology / Ecology|Water Chemistry
+163,phosphorus orthophosphate dissolved,,NaN,2515,Biology / Ecology|Water Chemistry
+164,silica,,NaN,2515,Biology / Ecology|Water Chemistry
+165,sulfate,,NaN,2515,Biology / Ecology|Water Chemistry
+166,ground water depth,,NaN,2516,Hydrology
+167,velocity,,NaN,2517,Biology / Ecology
+168,nitrogen,,total,2544,Climatology / Meteorology|Hydrology|Water Chemistry
+169,salinity,,NaN,2544,Climatology / Meteorology|Hydrology|Water Chemistry
+170,flux density,,average,2551,Biogeochemistry
+171,bedrock,,NaN,2551,Biogeochemistry
+172,catena,,NaN,2551,Biogeochemistry
+173,hclp,,NaN,2551,Biogeochemistry
+174,iron oxide,,NaN,2551,Biogeochemistry
+175,mean annual precipitation,,NaN,2551,Biogeochemistry
+176,mean elevation,,NaN,2551,Biogeochemistry
+177,inorganic phosphorus,,NaN,2551,Biogeochemistry
+178,organic phosphorus (nahco3po),,NaN,2551,Biogeochemistry
+179,nahco3pt,,NaN,2551,Biogeochemistry
+180,naohpi,,NaN,2551,Biogeochemistry
+181,naohpo,,NaN,2551,Biogeochemistry
+182,naohpt,,NaN,2551,Biogeochemistry
+183,residual p,,NaN,2551,Biogeochemistry
+184,residual to,,total,2551,Biogeochemistry
+185,tau p,,NaN,2551,Biogeochemistry
+186,phosphorus,,total,2551,Biogeochemistry
+187,correlation,,NaN,2556,Climatology / Meteorology|Hydrology
+188,device,,NaN,2556,Climatology / Meteorology|Hydrology
+189,precipitation type hourly data only,,NaN,2556,Climatology / Meteorology|Hydrology
+190,precipitation,mm,total,2556,Climatology / Meteorology|Hydrology
+191,calendar year,,NaN,2558,Climatology / Meteorology
+192,carbon dioxide concentration mgm3,,NaN,2558,Climatology / Meteorology
+193,carbon dioxide flux,umolm2,NaN,2558,Climatology / Meteorology
+194,decimal day  local time,,NaN,2558,Climatology / Meteorology
+195,friction velocity,ms,NaN,2558,Climatology / Meteorology
+196,horizontal wind speed,ms,NaN,2558,Climatology / Meteorology
+197,julian day,,NaN,2558,Climatology / Meteorology
+198,latent heat flux,wm2,NaN,2558,Climatology / Meteorology
+199,local time est,,NaN,2558,Climatology / Meteorology
+200,sensible heat flux,wm2,NaN,2558,Climatology / Meteorology
+201,vertical wind speed,ms,NaN,2558,Climatology / Meteorology
+202,water vapor concentration,gm3,NaN,2558,Climatology / Meteorology
+203,recorder code,,NaN,2568,Biology / Ecology
+204,filtered bare earth dem,,NaN,2570,GIS / Remote Sensing
+205,filtered bare earth hillshade,,NaN,2570,GIS / Remote Sensing
+206,unfiltered first return dem,,NaN,2570,GIS / Remote Sensing
+207,unfiltered first return hillshade,,NaN,2570,GIS / Remote Sensing
+208,canopy cover,,NaN,2571,Biology / Ecology|GIS / Remote Sensing
+209,diameter at breast height,,NaN,2571,Biology / Ecology|GIS / Remote Sensing
+210,height to live canopy base,,NaN,2571,Biology / Ecology|GIS / Remote Sensing
+211,leaf area index,,NaN,2571,Biology / Ecology|GIS / Remote Sensing
+212,height,,max,2571,Biology / Ecology|GIS / Remote Sensing
+213,mean height,,NaN,2571,Biology / Ecology|GIS / Remote Sensing
+214,gis geospatial database,,NaN,2572,GIS / Remote Sensing
+215,description,,NaN,2573,GIS / Remote Sensing
+216,easting,,NaN,2573,GIS / Remote Sensing
+217,northing,,NaN,2573,GIS / Remote Sensing
+218,point number,,NaN,2573,GIS / Remote Sensing
+219,ground surface elevation,,NaN,2574,Geomorphology|GIS / Remote Sensing
+220,x coordinate,,NaN,2574,Geomorphology|GIS / Remote Sensing
+221,y coordinate,,NaN,2574,Geomorphology|GIS / Remote Sensing
+222,concentration,,NaN,2578,Geochemistry / Mineralogy|Water Chemistry|Hydrology
+223,acetate m,,NaN,2580,Biogeochemistry|Water Chemistry|Hydrology
+224,alkalinity,meql1,NaN,2580,Biogeochemistry|Water Chemistry|Hydrology
+225,formate m,,NaN,2580,Biogeochemistry|Water Chemistry|Hydrology
+226,nickel m,,NaN,2580,Biogeochemistry|Water Chemistry|Hydrology
+227,phosphate m,,NaN,2580,Biogeochemistry|Water Chemistry|Hydrology
+228,sample date,,NaN,2580,Biogeochemistry|Water Chemistry|Hydrology
+229,v m,,NaN,2580,Biogeochemistry|Water Chemistry|Hydrology
+230,water temperature,celsius,NaN,2580,Biogeochemistry|Water Chemistry|Hydrology
+231,zinc m,,NaN,2580,Biogeochemistry|Water Chemistry|Hydrology
+232,air temperature,degreescelsius,NaN,2583,Soil Science / Pedology
+233,decimal time of day,,NaN,2583,Soil Science / Pedology
+234,rainfall,mm,NaN,2584,Soil Science / Pedology|Climatology / Meteorology
+235,reflectivity dbz,,NaN,2585,Soil Science / Pedology
+236,water table mm or,cm,NaN,2586,Soil Science / Pedology
+237,water table raw,mv,NaN,2586,Soil Science / Pedology
+238,well summary data only,,NaN,2586,Soil Science / Pedology
+239,temperature,degreescelsius,NaN,2587,Soil Science / Pedology
+240,soil moisture m3m3,,NaN,2588,Soil Science / Pedology
+241,gamma,,count,2591,Geophysics
+242,date of event mdyy,,NaN,2593,Water Chemistry|Hydrology|Climatology / Meteorology
+243,date sample collected mdyy,,NaN,2593,Water Chemistry|Hydrology|Climatology / Meteorology
+244,duration of collection hrmm,,NaN,2593,Water Chemistry|Hydrology|Climatology / Meteorology
+245,precipitation amount from disdrometer,mm,NaN,2593,Water Chemistry|Hydrology|Climatology / Meteorology
+246,start  end of collection,,NaN,2593,Water Chemistry|Hydrology|Climatology / Meteorology
+247,time event began,,NaN,2593,Water Chemistry|Hydrology|Climatology / Meteorology
+248,discharge cmd,,NaN,2594,Water Chemistry|Hydrology
+249,18o reportable value,permil,NaN,2599,Water Chemistry|Hydrology
+250,18o,permil,standarddeviation,2599,Water Chemistry|Hydrology
+251,2h reportable value,permil,NaN,2599,Water Chemistry|Hydrology
+252,2h,permil,standarddeviation,2599,Water Chemistry|Hydrology
+253,calendar season,,NaN,2599,Water Chemistry|Hydrology
+254,date,,NaN,2599,Water Chemistry|Hydrology
+255,depth to water table m,,NaN,2599,Water Chemistry|Hydrology
+256,elevation of water table m,,NaN,2599,Water Chemistry|Hydrology
+257,empty,,NaN,2599,Water Chemistry|Hydrology
+258,time collected,,NaN,2599,Water Chemistry|Hydrology
+259,depth of sample,cm,NaN,2600,Water Chemistry|Hydrology
+260,253matricpotential,kpa,NaN,2601,Soil Science / Pedology
+261,electrical conductivity dsm,,NaN,2602,Soil Science / Pedology
+262,mps matric potential,kpa,NaN,2606,Soil Science / Pedology
+263,imaginary dielectric constant,,NaN,2607,Soil Science / Pedology
+264,real dielectric constant,,NaN,2608,Soil Science / Pedology
+265,analysis date,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+266,city,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+267,collection method,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+268,country,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+269,depth to bedrock,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+270,erosion rate,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+271,exposure age,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+272,institutions,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+273,laboratory conducting analysis,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+274,mean annual temperature,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+275,method of analysis,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+276,method of preparation,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+277,numeric information,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+278,parent lithology,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+279,persons,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+280,publications,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+281,sample medium,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+282,sampling date and time,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+283,sampling depth,cm,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+284,slope degree,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+285,soil taxonomy,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+286,ssurgoid,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+287,state,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+288,textual information,,NaN,2609,Geochemistry / Mineralogy|Biogeochemistry
+289,digital surface model,,NaN,2613,GIS / Remote Sensing
+290,shaded relief,,NaN,2613,GIS / Remote Sensing
+291,classified point cloud,,NaN,2615,Geomorphology|GIS / Remote Sensing
+292,digital elevation model,,NaN,2615,Geomorphology|GIS / Remote Sensing
+293,air temperature,degreescelsius,NaN,2617,Climatology / Meteorology
+294,instantaneous radiation,,average,2617,Climatology / Meteorology
+295,par radiation,,average,2617,Climatology / Meteorology
+296,photosynthetic flux density,,average,2617,Climatology / Meteorology
+297,relative humidity,,average,2617,Climatology / Meteorology
+298,temperature,,average,2617,Climatology / Meteorology
+299,unit vector wind direction,,average,2617,Climatology / Meteorology
+300,wind vector direction,,average,2617,Climatology / Meteorology
+301,global radiation mjmeter2,,NaN,2617,Climatology / Meteorology
+302,instantaneous photo synthetic flux density moles,,NaN,2617,Climatology / Meteorology
+303,wind direction degree,,meanofmean,2617,Climatology / Meteorology
+304,mean wind speed,,NaN,2617,Climatology / Meteorology
+305,reflected radiation par,,NaN,2617,Climatology / Meteorology
+306,instantaneous radiation,,standarddeviation,2617,Climatology / Meteorology
+307,global radiation,,standarddeviationof,2617,Climatology / Meteorology
+308,photon flux density pfd,,standarddeviationof,2617,Climatology / Meteorology
+309,reflected radiation,,standarddeviationof,2617,Climatology / Meteorology
+310,relative humidity,,standarddeviationof,2617,Climatology / Meteorology
+311,temperature,,standarddeviationof,2617,Climatology / Meteorology
+312,wind speed,,standarddeviationof,2617,Climatology / Meteorology
+313,flux density solar radiation,,total,2617,Climatology / Meteorology
+314,photosynthetic flux density,,total,2617,Climatology / Meteorology
+315,incoming solar radiation,,NaN,2619,Climatology / Meteorology
+316,precipitation horizontal,,NaN,2619,Climatology / Meteorology
+317,o3,,average,2620,Climatology / Meteorology
+318,external temperature,,NaN,2620,Climatology / Meteorology
+319,internal temperature,,NaN,2620,Climatology / Meteorology
+320,ozone,,maximum,2620,Climatology / Meteorology
+321,ozone,,minimum,2620,Climatology / Meteorology
+322,ozone,,standarddeviation,2620,Climatology / Meteorology
+323,instantaneous radiation moles,,average,2622,Climatology / Meteorology
+324,photosynthetic flux density moles,,average,2622,Climatology / Meteorology
+325,instantaneous radiation moles,,NaN,2622,Climatology / Meteorology
+326,par density,,standarddeviationof,2622,Climatology / Meteorology
+327,mean albedo,,NaN,2624,Climatology / Meteorology
+328,mean global radiation,,NaN,2624,Climatology / Meteorology
+329,temperature,,meanofmaximum,2624,Climatology / Meteorology
+330,temperature,,meanofminimum,2624,Climatology / Meteorology
+331,relative humidity,,meanofmaximum,2624,Climatology / Meteorology
+332,windspeed,,meanofmaximum,2624,Climatology / Meteorology
+333,unit wind vector,,meanofmean,2624,Climatology / Meteorology
+334,wind speeds,,meanofmean,2624,Climatology / Meteorology
+335,relative humidity,,meanofminimum,2624,Climatology / Meteorology
+336,wind speed,,meanofminimum,2624,Climatology / Meteorology
+337,of wind speed direction,,meanofstandarddeviation,2624,Climatology / Meteorology
+338,mean photosynthetic flux density (ppfd),,NaN,2624,Climatology / Meteorology
+339,mean precipitation,,NaN,2624,Climatology / Meteorology
+340,mean shortwave radiation inbound,,NaN,2624,Climatology / Meteorology
+341,mean shortwave radiation outbound,,NaN,2624,Climatology / Meteorology
+342,incoming shortwave radiation,,meanstandarddeviationof,2624,Climatology / Meteorology
+343,outgoing shortwave radiation,,meanstandarddeviationof,2624,Climatology / Meteorology
+344,meantimeofmaximum relative humidity,,NaN,2624,Climatology / Meteorology
+345,meantimeofmaximum temperature,,NaN,2624,Climatology / Meteorology
+346,meantimeofmaximum wind speed,,NaN,2624,Climatology / Meteorology
+347,meantimeofminimum relative humidity,,NaN,2624,Climatology / Meteorology
+348,meantimeofminimum temperature,,NaN,2624,Climatology / Meteorology
+349,meantimeofminimum wind speed,,NaN,2624,Climatology / Meteorology
+350,albedo,,median,2624,Climatology / Meteorology
+351,global radiation,,median,2624,Climatology / Meteorology
+352,temperature,,medianmaximum,2624,Climatology / Meteorology
+353,relative humidity,,medianofmaximum,2624,Climatology / Meteorology
+354,wind speed,,medianofmaximum,2624,Climatology / Meteorology
+355,wind direction degree,,medianofmean,2624,Climatology / Meteorology
+356,wind speed,,medianofmean,2624,Climatology / Meteorology
+357,relative humidity values,,medianofminimum,2624,Climatology / Meteorology
+358,temperature,,medianofminimum,2624,Climatology / Meteorology
+359,wind speed,,medianofminimum,2624,Climatology / Meteorology
+360,shortwave radiation inbound,,medianof,2624,Climatology / Meteorology
+361,shortwave radiation outbound,,medianof,2624,Climatology / Meteorology
+362,medianoftimeofmaximum temperature,,NaN,2624,Climatology / Meteorology
+363,photosynthetic flux density (ppfd),,median,2624,Climatology / Meteorology
+364,precipitation,,median,2624,Climatology / Meteorology
+365,relative humidity,,mediantimeofmaximum,2624,Climatology / Meteorology
+366,wind speed,,mediantimeofmaximum,2624,Climatology / Meteorology
+367,relative humidity,,mediantimeofminimum,2624,Climatology / Meteorology
+368,temperature,,mediantimeofminimum,2624,Climatology / Meteorology
+369,wind speed,,mediantimeofminimum,2624,Climatology / Meteorology
+370,calcium,,NaN,2626,Water Chemistry
+371,chlorine,,NaN,2626,Water Chemistry
+372,conductivity,,NaN,2626,Water Chemistry
+373,potassium,,NaN,2626,Water Chemistry
+374, ,mg,NaN,2626,Water Chemistry
+375,sodium,,NaN,2626,Water Chemistry
+376,ammonia cation nh4n,,NaN,2626,Water Chemistry
+377,nitrate,,NaN,2626,Water Chemistry
+378,ph,,NaN,2626,Water Chemistry
+379,phosphate,,NaN,2626,Water Chemistry
+380,silica,,NaN,2626,Water Chemistry
+381,sulfate,,NaN,2626,Water Chemistry
+382,dissolved nitrogen,,total,2626,Water Chemistry
+383,throughfall precipitation mmday,,NaN,2626,Water Chemistry
+384,i,,NaN,2627,Water Chemistry
+385,c mass,,NaN,2628,Biogeochemistry|Geochemistry / Mineralogy
+386,calcium,ppm,NaN,2628,Biogeochemistry|Geochemistry / Mineralogy
+387,magnesium,ppm,NaN,2628,Biogeochemistry|Geochemistry / Mineralogy
+388,n,,NaN,2628,Biogeochemistry|Geochemistry / Mineralogy
+389,nitrogen mass,,NaN,2628,Biogeochemistry|Geochemistry / Mineralogy
+390,potassium,,NaN,2628,Biogeochemistry|Geochemistry / Mineralogy
+391,potasium,ppm,NaN,2628,Biogeochemistry|Geochemistry / Mineralogy
+392,needsvariables,,NaN,2632,Climatology / Meteorology
+393,tagged tracers with positions overtime additional documentation is presented within the dataset file,,NaN,2633,Geomorphology
+394,sap flux,,NaN,2639,Hydrology|Biology / Ecology
+395,particle counts,,NaN,2641,Climatology / Meteorology
+396,18o,,NaN,2645,Water Chemistry|Hydrology
+397,2h,,NaN,2645,Water Chemistry|Hydrology
+398,al3 m,,NaN,2645,Water Chemistry|Hydrology
+399,ba m,,NaN,2645,Water Chemistry|Hydrology
+400,calcium (ca2) moles,,NaN,2645,Water Chemistry|Hydrology
+401,chlorine m,,NaN,2645,Water Chemistry|Hydrology
+402,dissolved organic carbon,ppm,NaN,2645,Water Chemistry|Hydrology
+403,f m,,NaN,2645,Water Chemistry|Hydrology
+404,Ferric cation fe-3 m,,NaN,2645,Water Chemistry|Hydrology
+405,potasium moles,,NaN,2645,Water Chemistry|Hydrology
+406,mg2 m,,NaN,2645,Water Chemistry|Hydrology
+407,manganese m,,NaN,2645,Water Chemistry|Hydrology
+408,sodium m,,NaN,2645,Water Chemistry|Hydrology
+409,nitrate m,,NaN,2645,Water Chemistry|Hydrology
+410,p m,,NaN,2645,Water Chemistry|Hydrology
+411,sample number,,NaN,2645,Water Chemistry|Hydrology
+412,silicon m,,NaN,2645,Water Chemistry|Hydrology
+413,site name,,NaN,2645,Water Chemistry|Hydrology
+414,sulfate 2 m,,NaN,2645,Water Chemistry|Hydrology
+415,strontium m,,NaN,2645,Water Chemistry|Hydrology
+416,atmospheric pressure mb,,NaN,2646,Geophysics|Hydrology
+417,atmospheric temperature,degc,NaN,2646,Geophysics|Hydrology
+418,battery voltage v,,NaN,2646,Geophysics|Hydrology
+419,boxcarfiltered 12hour effective measurement depth,cm,NaN,2646,Geophysics|Hydrology
+420,boxcarfiltered 12hour soil moisture  volumetric,,NaN,2646,Geophysics|Hydrology
+421,interval end date,,count,2646,Geophysics|Hydrology
+422,interval end time,,count,2646,Geophysics|Hydrology
+423,effective measurement depth,cm,NaN,2646,Geophysics|Hydrology
+424,fast neutron hr,,count,2646,Geophysics|Hydrology
+425,soil moisture  volumetric,,NaN,2646,Geophysics|Hydrology
+426,thermal neutron hr,,count,2646,Geophysics|Hydrology
+427,crown class,,NaN,2648,Biology / Ecology
+428,lai pcc,,NaN,2649,Biology / Ecology
+429,lai,,average,2650,Biology / Ecology
+430,pcc,,NaN,2650,Biology / Ecology
+431,site,,standarddeviation,2650,Biology / Ecology
+432,site standard error,,NaN,2650,Biology / Ecology
+433,growth,cm,NaN,2651,Biology / Ecology
+434,litter,g,NaN,2651,Biology / Ecology
+435,trap id,,NaN,2651,Biology / Ecology
+436,carbon dioxide concentration n2o concentration,ppm,NaN,2652,Geochemistry / Mineralogy
+437,carbon dioxide flux,molm2s1,NaN,2652,Geochemistry / Mineralogy
+438,elevation error m,,NaN,2652,Geochemistry / Mineralogy
+439,elevation m,,NaN,2652,Geochemistry / Mineralogy
+440,field tech,,NaN,2652,Geochemistry / Mineralogy
+441,local time of day est,,NaN,2652,Geochemistry / Mineralogy
+442,partial pressure of carbon dioxide ppmv,,NaN,2652,Geochemistry / Mineralogy
+443,sample label,,NaN,2652,Geochemistry / Mineralogy
+444,soil depth m,,NaN,2652,Geochemistry / Mineralogy
+445,soil temperature at 7 centimeter depth,degreescelsius,NaN,2652,Geochemistry / Mineralogy
+446,cps,,count,2653,Geophysics
+447,circumference,cm,NaN,2654,Biology / Ecology|Hydrology
+448,data logger id a port,,NaN,2654,Biology / Ecology|Hydrology
+449,data logger id b port,,NaN,2654,Biology / Ecology|Hydrology
+450,deuterium mass,g,NaN,2654,Biology / Ecology|Hydrology
+451,diff1avg1	differential degrees c,,NaN,2654,Biology / Ecology|Hydrology
+452,injected deuterium mass,g,NaN,2654,Biology / Ecology|Hydrology
+453,injection date,,NaN,2654,Biology / Ecology|Hydrology
+454,injection finish time,,NaN,2654,Biology / Ecology|Hydrology
+455,injection start time,,NaN,2654,Biology / Ecology|Hydrology
+456,record id number for sap flux datalogger,,NaN,2654,Biology / Ecology|Hydrology
+457,sampling date tree id,,NaN,2654,Biology / Ecology|Hydrology
+458,sap flux time,,NaN,2654,Biology / Ecology|Hydrology
+459,sap flux id,,NaN,2654,Biology / Ecology|Hydrology
+460,species name,,NaN,2654,Biology / Ecology|Hydrology
+461,tower number,,NaN,2654,Biology / Ecology|Hydrology
+462,tree group,,NaN,2654,Biology / Ecology|Hydrology
+463,tree species,,NaN,2654,Biology / Ecology|Hydrology
+464,2h,permil,NaN,2655,Biology / Ecology|Hydrology
+465,d18o,permil,NaN,2655,Biology / Ecology|Hydrology
+466,tree id,,NaN,2655,Biology / Ecology|Hydrology
+467,distance,,NaN,2658,Hydrology
+468,radiationshortwave,,NaN,2659,Climatology / Meteorology
+469,sap flow,,NaN,2661,Biology / Ecology|Hydrology
+470,volumetric water content,,NaN,2666,Soil Science / Pedology
+471,air temperature,degreescelsius,NaN,2692,Climatology / Meteorology|Hydrology
+472,wind speed,ms,average,2692,Climatology / Meteorology|Hydrology
+473,ground temperature,degc,NaN,2692,Climatology / Meteorology|Hydrology
+474,record,,NaN,2692,Climatology / Meteorology|Hydrology
+475,solar radiation,wm2,NaN,2692,Climatology / Meteorology|Hydrology
+476,volumetric water content,,NaN,2692,Climatology / Meteorology|Hydrology
+477,wind speed,meterspersecond,NaN,2692,Climatology / Meteorology|Hydrology
+478,absolute pressure,,NaN,2695,Hydrology
+479,barometric pressure,,NaN,2695,Hydrology
+480,specific uv absorbance,,NaN,2742,Water Chemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+481,ultra violet absorbance,,NaN,2742,Water Chemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+482,hmp virtual temperature,degc,average,2752,Climatology / Meteorology
+483,hmp water vapor concentration,gm3,average,2752,Climatology / Meteorology
+484,irga surface pressure,kpa,average,2752,Climatology / Meteorology
+485,irga water vapor concentration,gm3,average,2752,Climatology / Meteorology
+486,net radiation,wm2,average,2752,Climatology / Meteorology
+487,photosynthetically active radiation,molm2s1,average,2752,Climatology / Meteorology
+488,est,,NaN,2752,Climatology / Meteorology
+489,hmp relative humidity,,NaN,2752,Climatology / Meteorology
+490,hmp virtual temperature,degc,NaN,2752,Climatology / Meteorology
+491,leaf wetness sensor voltage output,mv,NaN,2752,Climatology / Meteorology
+492,record number,,NaN,2752,Climatology / Meteorology
+493,timestamp utc4,,NaN,2752,Climatology / Meteorology
+494,air temperature,degreescelsius,NaN,2782,Climatology / Meteorology|Hydrology
+495,sensor depth,cm,NaN,2782,Climatology / Meteorology|Hydrology
+496,air temperature,degreescelsius,NaN,2782,Climatology / Meteorology|Hydrology
+497,sensor depth,cm,NaN,2782,Climatology / Meteorology|Hydrology
+498,air temperature,degreescelsius,NaN,2782,Climatology / Meteorology|Hydrology
+499,sensor depth,cm,NaN,2782,Climatology / Meteorology|Hydrology
+500,air temperature,degreescelsius,NaN,2782,Climatology / Meteorology|Hydrology
+501,sensor depth,cm,NaN,2782,Climatology / Meteorology|Hydrology
+502,air temperature,degreescelsius,NaN,2782,Climatology / Meteorology|Hydrology
+503,sensor depth,cm,NaN,2782,Climatology / Meteorology|Hydrology
+504,air temperature,,NaN,2821,Climatology / Meteorology
+505,atmospheric pressure,,NaN,2821,Climatology / Meteorology
+506,rain,,NaN,2821,Climatology / Meteorology
+507,shortwave radiation,,NaN,2821,Climatology / Meteorology
+508,soil moisture,,NaN,2821,Climatology / Meteorology
+509,soil temperature,,NaN,2821,Climatology / Meteorology
+510,depth meter,,NaN,2822,Geophysics
+511,ohmm,,NaN,2822,Geophysics
+512,velocity,meterspersecond,NaN,2822,Geophysics
+513,c,,NaN,2833,Biology / Ecology
+514,soil microbe counts,,NaN,2833,Biology / Ecology
+515,xrd,,NaN,2860,Geochemistry / Mineralogy
+516,xrf,,NaN,2860,Geochemistry / Mineralogy
+517,ash free dry mass (afdm),,NaN,2862,Biology / Ecology|Hydrology
+518,chlorophyll concentration and didymo cell densities,,NaN,2862,Biology / Ecology|Hydrology
+519,didymo rating index dri,,NaN,2862,Biology / Ecology|Hydrology
+520, ,cm,NaN,2863,Hydrology
+521, ,cm3persecond,NaN,2863,Hydrology
+522,gage height,,NaN,2864,Hydrology
+523,ammonium,,NaN,2865,Water Chemistry
+524,calcium,,NaN,2865,Water Chemistry
+525,chloride,,NaN,2865,Water Chemistry
+526,delta 18o,,NaN,2865,Water Chemistry
+527,delta deuterium,,NaN,2865,Water Chemistry
+528,magnesium,,NaN,2865,Water Chemistry
+529,nitrate,,NaN,2865,Water Chemistry
+530,nonpurgeable organic carbon npoc,,NaN,2865,Water Chemistry
+531,orthophosphate po4,,NaN,2865,Water Chemistry
+532,potassium,,NaN,2865,Water Chemistry
+533,sodium,,NaN,2865,Water Chemistry
+534,sulfate so4,,NaN,2865,Water Chemistry
+535,dissolved nitrogen,,total,2865,Water Chemistry
+536,dissolved phosphorus,,total,2865,Water Chemistry
+537,dems,,NaN,2866,GIS / Remote Sensing
+538,gis,,NaN,2866,GIS / Remote Sensing
+539,kml,,NaN,2866,GIS / Remote Sensing
+540,lidar,,NaN,2866,GIS / Remote Sensing
+541,shape files,,NaN,2866,GIS / Remote Sensing
+542,air temperature 25m,degreescelsius,avg,2889,Climatology / Meteorology
+543,in sw radmjm225mtotal,,NaN,2889,Climatology / Meteorology
+544,in sw radwm225mavg,,NaN,2889,Climatology / Meteorology
+545,net radiation corrwm225m,,NaN,2889,Climatology / Meteorology
+546,net radiation watts per square meter (25m),,NaN,2889,Climatology / Meteorology
+547,rain gage,mm,NaN,2889,Climatology / Meteorology
+548,relative humidity,,NaN,2889,Climatology / Meteorology
+549,relative humidity,,maximum,2889,Climatology / Meteorology
+550,relative humidity time,,maximum,2889,Climatology / Meteorology
+551,relative humidity,,minimum,2889,Climatology / Meteorology
+552,relative humidity,,timeofminimum,2889,Climatology / Meteorology
+553,soil temperature at 22 cm,degreescelsius,NaN,2889,Climatology / Meteorology
+554,soil volumetric water content at 22,cm,NaN,2889,Climatology / Meteorology
+555,wind speed 25m,,timeofmaximum,2889,Climatology / Meteorology
+556,windspeed,meterspersecond,average,2889,Climatology / Meteorology
+557,windspeed,meterspersecond,maximum,2889,Climatology / Meteorology
+558,windspeed,meterspersecond,minimum,2889,Climatology / Meteorology
+559,dsm,,NaN,2915,GIS / Remote Sensing
+560,discharge,m3s,NaN,2918,Hydrology
+561,discharge,m3s,NaN,2919,Hydrology
+562,ascii,,NaN,2921,GIS / Remote Sensing
+563,las,,NaN,2921,GIS / Remote Sensing
+564,laz,,NaN,2921,GIS / Remote Sensing
+565,al	total aluminum,,NaN,2952,Water Chemistry
+566,anc	ancalkalinity,,NaN,2952,Water Chemistry
+567,calcium,,NaN,2952,Water Chemistry
+568,chloride,,NaN,2952,Water Chemistry
+569,co3	carbonate,,NaN,2952,Water Chemistry
+570,conductivity,,NaN,2952,Water Chemistry
+571,dic	dissolved inorganic carbon,,NaN,2952,Water Chemistry
+572,dkn	dissolved kjeldahl nitrogen,,NaN,2952,Water Chemistry
+573,dissolved organic carbon,,NaN,2952,Water Chemistry
+574,dissolved organic nitrogen,,NaN,2952,Water Chemistry
+575,f	fluoride,,NaN,2952,Water Chemistry
+576,hardness	hardness,,NaN,2952,Water Chemistry
+577,hco3	bicarbonate,,NaN,2952,Water Chemistry
+578,potassium,,NaN,2952,Water Chemistry
+579,magnesium,,NaN,2952,Water Chemistry
+580,sodium,,NaN,2952,Water Chemistry
+581,ammonium,,NaN,2952,Water Chemistry
+582,nh4n	ammoniumn,,NaN,2952,Water Chemistry
+583,nitrite anion no2n,,NaN,2952,Water Chemistry
+584,nitrate,,NaN,2952,Water Chemistry
+585,nitrate anion no3n,,NaN,2952,Water Chemistry
+586,no3nno2n	nitraten  nitriten,,NaN,2952,Water Chemistry
+587,no3no2	nitrate  nitrite,,NaN,2952,Water Chemistry
+588,ph,,NaN,2952,Water Chemistry
+589,po4ic	orthophosphate by ic,,NaN,2952,Water Chemistry
+590,poc	particulate organic carbon,,NaN,2952,Water Chemistry
+591,si	silica,,NaN,2952,Water Chemistry
+592,so4s	sulfate,,NaN,2952,Water Chemistry
+593,srp	soluble reactive phosphorus,,NaN,2952,Water Chemistry
+594,tdn	total dissolved nitrogen,,NaN,2952,Water Chemistry
+595,tdp	total dissolved phosphorus,,NaN,2952,Water Chemistry
+596,tknunf	total kjeldahl nitrogen unfiltered,,NaN,2952,Water Chemistry
+597,tnunf	total nitrogen unfiltered,,NaN,2952,Water Chemistry
+598,toc	total organic carbon,,NaN,2952,Water Chemistry
+599,tpunf	total phosphorus unfiltered,,NaN,2952,Water Chemistry
+600,iron ferrous,,NaN,2974,Biogeochemistry|Climatology / Meteorology|Geochemistry / Mineralogy|Hydrology|Soil Science / Pedology
+601,sulfur,,NaN,2974,Biogeochemistry|Climatology / Meteorology|Geochemistry / Mineralogy|Hydrology|Soil Science / Pedology
+602,volumetric soil water content,m3,NaN,3001,Hydrology|Soil Science / Pedology|Biology / Ecology
+603,x easting m,,NaN,3001,Hydrology|Soil Science / Pedology|Biology / Ecology
+604,y northing m,,NaN,3001,Hydrology|Soil Science / Pedology|Biology / Ecology
+605,bicarp	nahco3 extractable phosphorus,mgkg,NaN,3029,Biogeochemistry
+606,carbon concentration soil,mgg,NaN,3029,Biogeochemistry
+607,cn c  n ratio,,NaN,3029,Biogeochemistry
+608,cp catena position choose one ridge slope valley,,NaN,3029,Biogeochemistry
+609,d depth interval,cm,NaN,3029,Biogeochemistry
+610,date date assay conducted,,NaN,3029,Biogeochemistry
+611,forest type tabonuco or colorado,ft,NaN,3029,Biogeochemistry
+612,ka vm  1,kmhr,NaN,3029,Biogeochemistry
+613,km michaelisconstant,moll1,NaN,3029,Biogeochemistry
+614,naohp naoh extractable phosphorus,mgkg,NaN,3029,Biogeochemistry
+615,nit nitrogen concentration soil,mg,NaN,3029,Biogeochemistry
+616,p soil pit p1  p20,,NaN,3029,Biogeochemistry
+617,ph soil ph in water,,NaN,3029,Biogeochemistry
+618,phos extractable phosphorus nahco3  naoh,mgkg,total,3029,Biogeochemistry
+619,so soil order oxisol or inceptisol,,NaN,3029,Biogeochemistry
+620,vm reaction velocity for phosphatase nmol h1 g1 soil,,maximum,3029,Biogeochemistry
+621,water fraction of water content by mass,,NaN,3029,Biogeochemistry
+622,deuterium dd,,NaN,3365,Climatology / Meteorology|Geochemistry / Mineralogy|Hydrology|Water Chemistry
+623,oxygen18 d18o,,NaN,3365,Climatology / Meteorology|Geochemistry / Mineralogy|Hydrology|Water Chemistry
+624,barium,,NaN,3422,Geochemistry / Mineralogy
+625,cobalt,,NaN,3422,Geochemistry / Mineralogy
+626,copper,,NaN,3422,Geochemistry / Mineralogy
+627,iron,,NaN,3422,Geochemistry / Mineralogy
+628,manganese,,NaN,3422,Geochemistry / Mineralogy
+629,rubidium,,NaN,3422,Geochemistry / Mineralogy
+630,strontium,,NaN,3422,Geochemistry / Mineralogy
+631,titanium,,NaN,3422,Geochemistry / Mineralogy
+632,absolute pressure,,NaN,3590,Biology / Ecology|Hydrology|Water Chemistry
+633,dissolved oxygen,,NaN,3590,Biology / Ecology|Hydrology|Water Chemistry
+634,discharge,m3day,NaN,3613,Hydrology
+635,water depth m,,NaN,3614,Hydrology
+636,volumetric water content,,NaN,3615,Hydrology
+637,id number,,NaN,3621,Biology / Ecology
+638,increment height m,,NaN,3621,Biology / Ecology
+639,increment volume,m3,NaN,3621,Biology / Ecology
+640,length,mm,NaN,3621,Biology / Ecology
+641,root density mm3,,NaN,3621,Biology / Ecology
+642,sample id,,NaN,3621,Biology / Ecology
+643,geology,,NaN,3622,All Disciplines
+644,land cover,,NaN,3622,All Disciplines
+645,soils,,NaN,3622,All Disciplines
+646,vegetation,,NaN,3622,All Disciplines
+647,groundwater meteorological,,NaN,3623,All Disciplines
+648,stream flow,,NaN,3623,All Disciplines
+649,water quality,,NaN,3623,All Disciplines
+650,hydrology,,NaN,3625,All Disciplines
+651,land cover,,NaN,3625,All Disciplines
+652,landslides,,NaN,3625,All Disciplines
+653,municipalities,,NaN,3625,All Disciplines
+654,barometric pressure,,NaN,3642,Hydrology|Water Chemistry
+655,ldo,,NaN,3642,Hydrology|Water Chemistry
+656,nitrate,,NaN,3642,Hydrology|Water Chemistry
+657,precipitation frequency,,NaN,3648,Climatology / Meteorology
+658,precipitation intensity,,NaN,3648,Climatology / Meteorology
+659,eddy covariance,,NaN,3654,Climatology / Meteorology|Biology / Ecology
+660,radiation,,NaN,3654,Climatology / Meteorology|Biology / Ecology
+661,many,,NaN,3665,All Disciplines|Biology / Ecology
+662,seismic refraction,,NaN,3676,Geomorphology|Geophysics
+663,surface wave analyses,,NaN,3676,Geomorphology|Geophysics
+664,soil type,,NaN,3722,Biology / Ecology|Geology / Chronology|Soil Science / Pedology
+665,vegetation type,,NaN,3722,Biology / Ecology|Geology / Chronology|Soil Science / Pedology
+666,timedate,,NaN,3731,Climatology / Meteorology
+667,drainage,,NaN,3732,Biology / Ecology|Soil Science / Pedology
+668,runoff,,NaN,3732,Biology / Ecology|Soil Science / Pedology
+669,water volume,,NaN,3732,Biology / Ecology|Soil Science / Pedology
+670,time lapse camera,,NaN,3737,Data Management / CyberInfrastructure 
+671,water depth,cm,NaN,3742,Hydrology
+672,water temperature,celsius,NaN,3742,Hydrology
+673,voltage,,NaN,3790,Hydrology|Soil Science / Pedology
+674,18o,,NaN,3850,Hydrology|Water Chemistry|Climatology / Meteorology
+675,2h,,NaN,3850,Hydrology|Water Chemistry|Climatology / Meteorology
+676,circularity,,NaN,3857,Geomorphology
+677,mean curvature,,NaN,3857,Geomorphology
+678,perimeter,,NaN,3857,Geomorphology
+679,roundness,,NaN,3857,Geomorphology
+680,stand deviation of curvature,,NaN,3857,Geomorphology
+681,baseflow,m3day,NaN,3868,Hydrology
+682,discharge,m3day,NaN,3868,Hydrology
+683,evaporation m,,NaN,3868,Hydrology
+684,groundwater m,,NaN,3868,Hydrology
+685,interception loss m,,NaN,3868,Hydrology
+686,precipitation m,,NaN,3868,Hydrology
+687,quickflow,m3day,NaN,3868,Hydrology
+688,recharge mday,,NaN,3868,Hydrology
+689,te mday,,NaN,3868,Hydrology
+690,transpiration m,,NaN,3868,Hydrology
+691,unsaturated m,,NaN,3868,Hydrology
+692,hail diameter 1min,mm,max,3869,Hydrology|Climatology / Meteorology
+693,liquid precip intensity 1min mmhr,,NaN,3869,Hydrology|Climatology / Meteorology
+694,lpm id,,NaN,3869,Hydrology|Climatology / Meteorology
+695,measuring quality 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+696,metar 4678 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+697,metar 4678 5min,,avg,3869,Hydrology|Climatology / Meteorology
+698,precip amount,mm,NaN,3869,Hydrology|Climatology / Meteorology
+699,precipitation intensity 10min mmhr,,avg,3869,Hydrology|Climatology / Meteorology
+700,precipitation intensity 5min mmhr,,avg,3869,Hydrology|Climatology / Meteorology
+701,precipitation intensity of 1 minute values mmhr,,max,3869,Hydrology|Climatology / Meteorology
+702,radar reflectivity 1min dbz,,NaN,3869,Hydrology|Climatology / Meteorology
+703,solid precip intensity 1min mmhr,,NaN,3869,Hydrology|Climatology / Meteorology
+704,synop 4677 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+705,synop 4677 5min,,avg,3869,Hydrology|Climatology / Meteorology
+706,synop 4680 10min,,max,3869,Hydrology|Climatology / Meteorology
+707,synop 4677 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+708,synop 4677 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+709,synop 4677 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+710,synop 4677 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+711,synop 4677 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+712,synop 4677 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+713,synop 4677 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+714,synop 4677 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+715,synop 4677 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+716,synop 4677 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+717,synop 4680 5min,,avg,3869,Hydrology|Climatology / Meteorology
+718,synop 4677 1min,,NaN,3869,Hydrology|Climatology / Meteorology
+719,temperature interior,degreescelsius,NaN,3869,Hydrology|Climatology / Meteorology
+720,precip intensity 1min mmhr,,total,3869,Hydrology|Climatology / Meteorology
+721,visibility in precip 1min m,,NaN,3869,Hydrology|Climatology / Meteorology
+722,datetime date in format of monthdayyear 24hourminute,,NaN,3884,Soil Science / Pedology
+723,lat latitude in decimal degrees,,NaN,3884,Soil Science / Pedology
+724,location czo site identifier,,NaN,3884,Soil Science / Pedology
+725,long longitude in decimal degrees,,NaN,3884,Soil Science / Pedology
+726,plot unique identifying integer,,NaN,3884,Soil Science / Pedology
+727,rs instantaneous soil respiration micro moles c per square meter per second over three locations per site,,average,3884,Soil Science / Pedology
+728,rsse standard error of soil respiration n3,,NaN,3884,Soil Science / Pedology
+729,soilt soil temperature from one location adjacent to soil chamber,degreescelsius,NaN,3884,Soil Science / Pedology
+730,swc soil moisture  volumetric averaged from 3 locations adjacent to soil chamber,,NaN,3884,Soil Science / Pedology
+731,horizontal hydraulic conductivity,,NaN,3886,Hydrology|Modeling / Computational Science|Soil Science / Pedology
+732,saturated vertical hydraulic conductivity,,NaN,3886,Hydrology|Modeling / Computational Science|Soil Science / Pedology
+733,soil horizon,,NaN,3886,Hydrology|Modeling / Computational Science|Soil Science / Pedology
+734,porosity,,total,3886,Hydrology|Modeling / Computational Science|Soil Science / Pedology
+735,van genuchten alpha,,NaN,3886,Hydrology|Modeling / Computational Science|Soil Science / Pedology
+736,van genuchten beta,,NaN,3886,Hydrology|Modeling / Computational Science|Soil Science / Pedology
+737,foliar delta13c ooo,,NaN,3888,Biology / Ecology
+738,foliar nitrogen content,,NaN,3888,Biology / Ecology
+739,plot name,,NaN,3888,Biology / Ecology
+740,species,,NaN,3888,Biology / Ecology
+741,tree diameter at breast height dbh,cm,NaN,3888,Biology / Ecology
+742,tree ring width,mm,NaN,3888,Biology / Ecology
+743,a254nm,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+744,bix,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+745,components c1docc8doc,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+746,components ggsq1ggp2,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+747,day of year,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+748,fi,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+749,ftot,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+750,ftotdoc,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+751,ggp1ggp1ggp2,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+752,ggp1ggp1ggp2doc,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+753,hix,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+754,emission at 370nm,,max,3894,Biogeochemistry|Hydrology|Water Chemistry
+755,percent ggsq1 percent ggp2doc,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+756,percent protein,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+757,percent protein dissolved organic carbon,,NaN,3894,Biogeochemistry|Hydrology|Water Chemistry
+758,point cloud returns,,NaN,3932,GIS / Remote Sensing
+759,elevation m msl,,NaN,3935,GIS / Remote Sensing
+760,latitude,deg,NaN,3935,GIS / Remote Sensing
+761,longitude,deg,NaN,3935,GIS / Remote Sensing
+762,method,,NaN,3969,Hydrology
+763,q,m3s,NaN,3969,Hydrology
+764,site id,,NaN,3969,Hydrology
+765,acid phosphatase activity,,NaN,3970,Biogeochemistry
+766,acid phosphatase activity per unit biomass,,NaN,3970,Biogeochemistry
+767,acid phosphatase activity per unit soil c,,NaN,3970,Biogeochemistry
+768,act  ana  gramn  gramp,,NaN,3970,Biogeochemistry
+769,actinobacteria biomass,,NaN,3970,Biogeochemistry
+770,agbgbxcbhapnag  bionmol represents enzyme activity normalized to biomass,,total,3970,Biogeochemistry
+771,agbgbxcbhapnagrepresents extracellular enzyme activity,,total,3970,Biogeochemistry
+772,alpha glucosidase activity per unit biomass,,NaN,3970,Biogeochemistry
+773,alphia glucosidase activity,,NaN,3970,Biogeochemistry
+774,alphia glucosidase activity per unit soil c,,NaN,3970,Biogeochemistry
+775,anaerobic bacteria biomass,,NaN,3970,Biogeochemistry
+776,arbuscular mycorhizal fungi biomass,,NaN,3970,Biogeochemistry
+777,beta glucosidase activity,,NaN,3970,Biogeochemistry
+778,beta glucosidase activity per unit biomass,,NaN,3970,Biogeochemistry
+779,beta glucosidase activity per unit soil c,,NaN,3970,Biogeochemistry
+780,beta xylosidase activity,,NaN,3970,Biogeochemistry
+781,beta xylosidase activity per unit biomass,,NaN,3970,Biogeochemistry
+782,beta xylosidase activity per unit soil c,,NaN,3970,Biogeochemistry
+783,carbon concentration,,NaN,3970,Biogeochemistry
+784,carbondegrading enzyme activity per unit biomass,,NaN,3970,Biogeochemistry
+785,carbondegradizing enzyme activity agbgbxcbh,,NaN,3970,Biogeochemistry
+786,catena position,,NaN,3970,Biogeochemistry
+787,cellobiohydrolase activity,,NaN,3970,Biogeochemistry
+788,cellobiohyrolase activity per unit biomass,,NaN,3970,Biogeochemistry
+789,cellobiohyrolase activity per unit soil c,,NaN,3970,Biogeochemistry
+790,eukaryote biomass nonfungal,,NaN,3970,Biogeochemistry
+791,forest type,,NaN,3970,Biogeochemistry
+792,fung  amf,,NaN,3970,Biogeochemistry
+793,fungal biomass nonamf,,NaN,3970,Biogeochemistry
+794,general biomarkers biomass nonspecific to a certain group,,NaN,3970,Biogeochemistry
+795,gram negative bacteria biomass,,NaN,3970,Biogeochemistry
+796,gram positive bacteria biomass,,NaN,3970,Biogeochemistry
+797,log  nag  ag  bgbxcbh1 represents ratio of nc enzyme activity,,NaN,3970,Biogeochemistry
+798,logagbgbxcbhap1 represents ratio of cp enzyme activity,,NaN,3970,Biogeochemistry
+799,lognagap1,,NaN,3970,Biogeochemistry
+800,nacetyl glucosaminidase activity,,NaN,3970,Biogeochemistry
+801,nacetyl glucosaminidase activity per unit biomass,,NaN,3970,Biogeochemistry
+802,nacetyl glucosaminidase activity per unit soil c,,NaN,3970,Biogeochemistry
+803,naoh extractable phosphorus,,NaN,3970,Biogeochemistry
+804,nitrogen concentration,,NaN,3970,Biogeochemistry
+805,nmol act c  bionmol,,NaN,3970,Biogeochemistry
+806,nmol amf c  bionmol,,NaN,3970,Biogeochemistry
+807,nmol ana c  bionmol,,NaN,3970,Biogeochemistry
+808,nmol euk c  bionmol,,NaN,3970,Biogeochemistry
+809,nmol fung c  bionmol,,NaN,3970,Biogeochemistry
+810,nmol gramn c  bionmol,,NaN,3970,Biogeochemistry
+811,nmol gramp c  bionmol,,NaN,3970,Biogeochemistry
+812,pit,,NaN,3970,Biogeochemistry
+813,bicarbonate and sodium hydroxide p,ppm,sumof,3970,Biogeochemistry
+814,sodium bicarbonate extractable p,,NaN,3970,Biogeochemistry
+815,soil order,,NaN,3970,Biogeochemistry
+816,soil ph 110 soil  di water,,NaN,3970,Biogeochemistry
+817,extractable phosphorus,,total,3970,Biogeochemistry
+818,water content,,NaN,3970,Biogeochemistry
+819,topographic wetness index,,NaN,3972,GIS / Remote Sensing
+820,10be 108 atmg,,NaN,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+821,bulk density,gcm3,NaN,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+822,c,,NaN,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+823,clay,,NaN,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+824,depth meter,,NaN,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+825,effective base saturation,,NaN,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+826,effective cation exchange capacity cmolkg,,NaN,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+827,hhe 9be ugg,,NaN,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+828,hhe iron,mgg,NaN,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+829,horizon,,NaN,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+830,sand,,NaN,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+831,strain,,NaN,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+832,9be ugg,,total,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+833,aluminum,mgg,total,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+834,calcium,mgg,total,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+835,iron,mgg,total,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+836,zr,mgg,total,4018,Soil Science / Pedology|Geochemistry / Mineralogy
+837,soil co2,ppm,NaN,4032,Soil Science / Pedology|Biogeochemistry
+838,2008 ag biomass kg,,NaN,4033,Biology / Ecology
+839,2008 dbh,cm,NaN,4033,Biology / Ecology
+840,2012 ag biomass kg,,NaN,4033,Biology / Ecology
+841,2012 dbh,cm,NaN,4033,Biology / Ecology
+842,xcoordinate m,,NaN,4033,Biology / Ecology
+843,y coordinate m,,NaN,4033,Biology / Ecology
+844,ksat cv,,NaN,4106,Soil Science / Pedology|Hydrology
+845,ksat mean,,NaN,4106,Soil Science / Pedology|Hydrology
+846,ksat sd,,NaN,4106,Soil Science / Pedology|Hydrology
+847,aluminum cation al3,,NaN,4107,Soil Science / Pedology|Water Chemistry
+848,alk,,NaN,4107,Soil Science / Pedology|Water Chemistry
+849,block,,NaN,4107,Soil Science / Pedology|Water Chemistry
+850,conductivity,,NaN,4107,Soil Science / Pedology|Water Chemistry
+851,dissolved organic carbon,,NaN,4107,Soil Science / Pedology|Water Chemistry
+852,Nitrate nitrogen anion no3n,,NaN,4107,Soil Science / Pedology|Water Chemistry
+853,p,,NaN,4107,Soil Science / Pedology|Water Chemistry
+854,spacing,,NaN,4107,Soil Science / Pedology|Water Chemistry
+855,vertical,,NaN,4107,Soil Science / Pedology|Water Chemistry
+856,volume,,NaN,4107,Soil Science / Pedology|Water Chemistry
+857,deltad of h2o,,NaN,4109,Geochemistry / Mineralogy|Water Chemistry
+858,water potential,,NaN,4122,Soil Science / Pedology
+859,bulk electrical conductivity,ms,NaN,4123,Soil Science / Pedology
+860,volumetric water content,,NaN,4123,Soil Science / Pedology
+861,aluminum,umol/l,NaN,4129,Hydrology|Water Chemistry
+862,alkalinity mmol/l Calcium carbonate,,NaN,4129,Hydrology|Water Chemistry
+863,ba,moll1,NaN,4129,Hydrology|Water Chemistry
+864,calcium,umol/l,NaN,4129,Hydrology|Water Chemistry
+865,chlorine,umol/l,NaN,4129,Hydrology|Water Chemistry
+866,dissolved oxygen,mgl,NaN,4129,Hydrology|Water Chemistry
+867,fluorine,umol/l,NaN,4129,Hydrology|Water Chemistry
+868,iron,umol/l,NaN,4129,Hydrology|Water Chemistry
+869,potasium,umol/l,NaN,4129,Hydrology|Water Chemistry
+870,magnesium,umol/l,NaN,4129,Hydrology|Water Chemistry
+871,manganese,umol/l,NaN,4129,Hydrology|Water Chemistry
+872,sodium,umol/l,NaN,4129,Hydrology|Water Chemistry
+873,nitrate,umol/l,NaN,4129,Hydrology|Water Chemistry
+874,orp,mv,NaN,4129,Hydrology|Water Chemistry
+875,phosphorus,mol/l,NaN,4129,Hydrology|Water Chemistry
+876,silicon,umol/l,NaN,4129,Hydrology|Water Chemistry
+877,sulfate,umol/l,NaN,4129,Hydrology|Water Chemistry
+878,spc cm1,ms,NaN,4129,Hydrology|Water Chemistry
+879,strontium umol l1,,NaN,4129,Hydrology|Water Chemistry
+880,tds 1,mg,NaN,4129,Hydrology|Water Chemistry
+881,temperature,degreescelsius,NaN,4129,Hydrology|Water Chemistry
+882,zinc,mol/l,NaN,4129,Hydrology|Water Chemistry
+883,br,,NaN,4130,Hydrology|Water Chemistry
+884,f,,NaN,4130,Hydrology|Water Chemistry
+885,feii,,NaN,4130,Hydrology|Water Chemistry
+886,ground elevation,,NaN,4130,Hydrology|Water Chemistry
+887,phosphate,,NaN,4130,Hydrology|Water Chemistry
+888,sample name,,NaN,4130,Hydrology|Water Chemistry
+889,sulfate,,NaN,4130,Hydrology|Water Chemistry
+890,water table,,NaN,4130,Hydrology|Water Chemistry
+891,x coordinate,,NaN,4130,Hydrology|Water Chemistry
+892,y coordinate,,NaN,4130,Hydrology|Water Chemistry
+893,antimony dissolved,,NaN,4135,Water Chemistry
+894,barium dissolved,,NaN,4135,Water Chemistry
+895,beryllium dissolved,,NaN,4135,Water Chemistry
+896,bromide dissolved,,NaN,4135,Water Chemistry
+897,cadmium dissolved,,NaN,4135,Water Chemistry
+898,dissolved calcium,,NaN,4135,Water Chemistry
+899,carbon dissolved inorganic,,NaN,4135,Water Chemistry
+900,cerium dissolved,,NaN,4135,Water Chemistry
+901,chloride dissolved,,NaN,4135,Water Chemistry
+902,cobalt dissolved,,NaN,4135,Water Chemistry
+903,delta13c of dic,,NaN,4135,Water Chemistry
+904,delta18o of h2o,,NaN,4135,Water Chemistry
+905,delta1d of h2o,,NaN,4135,Water Chemistry
+906,dysprosium dissolved,,NaN,4135,Water Chemistry
+907,erbium dissolved,,NaN,4135,Water Chemistry
+908,europium dissolved,,NaN,4135,Water Chemistry
+909,fluorescence index,,NaN,4135,Water Chemistry
+910,fluoride dissolved,,NaN,4135,Water Chemistry
+911,gadolinium dissolved,,NaN,4135,Water Chemistry
+912,germanium dissolved,,NaN,4135,Water Chemistry
+913,holmium dissolved,,NaN,4135,Water Chemistry
+914,humification index,,NaN,4135,Water Chemistry
+915,lanthanum dissolved,,NaN,4135,Water Chemistry
+916,lutetium dissolved,,NaN,4135,Water Chemistry
+917,dissolved magnesium,,NaN,4135,Water Chemistry
+918,mercury dissolved,,NaN,4135,Water Chemistry
+919,molybdenum dissolved,,NaN,4135,Water Chemistry
+920,neodymium dissolved,,NaN,4135,Water Chemistry
+921,nickel dissolved,,NaN,4135,Water Chemistry
+922,nitrogen dissolved nitrate no3,,NaN,4135,Water Chemistry
+923,nitrogen dissolved nitrite no2,,NaN,4135,Water Chemistry
+924,dissolved nitrogen,,total,4135,Water Chemistry
+925,phosphorus dissolved,,NaN,4135,Water Chemistry
+926,dissolved potassium,,NaN,4135,Water Chemistry
+927,praseodymium dissolved,,NaN,4135,Water Chemistry
+928,samarium dissolved,,NaN,4135,Water Chemistry
+929,selenium dissolved,,NaN,4135,Water Chemistry
+930,silicon dissolved,,NaN,4135,Water Chemistry
+931,silver dissolved,,NaN,4135,Water Chemistry
+932,dissolved sodium,,NaN,4135,Water Chemistry
+933,strontium dissolved,,NaN,4135,Water Chemistry
+934,sulfate dissolved,,NaN,4135,Water Chemistry
+935,Specific ultraviolet absorbance-280,,NaN,4135,Water Chemistry
+936,terbium dissolved,,NaN,4135,Water Chemistry
+937,thallium dissolved,,NaN,4135,Water Chemistry
+938,thulium dissolved,,NaN,4135,Water Chemistry
+939,tin dissolved,,NaN,4135,Water Chemistry
+940,titanium dissolved,,NaN,4135,Water Chemistry
+941,uranium dissolved,,NaN,4135,Water Chemistry
+942,ultra violet absorbance 254,,NaN,4135,Water Chemistry
+943,ultra violet absorbance 280,,NaN,4135,Water Chemistry
+944,vanadium dissolved,,NaN,4135,Water Chemistry
+945,ytterbium dissolved,,NaN,4135,Water Chemistry
+946,yttrium dissolved,,NaN,4135,Water Chemistry
+947,zirconium dissolved,,NaN,4135,Water Chemistry
+948,depth in,cm,NaN,4148,Biogeochemistry|Climatology / Meteorology|Soil Science / Pedology
+949,soil temperature,degreescelsius,NaN,4148,Biogeochemistry|Climatology / Meteorology|Soil Science / Pedology
+950,1,,NaN,4155,Geomorphology|Biology / Ecology
+951,2,,NaN,4155,Geomorphology|Biology / Ecology
+952,3,,NaN,4155,Geomorphology|Biology / Ecology
+953,4,,NaN,4155,Geomorphology|Biology / Ecology
+954,5,,NaN,4155,Geomorphology|Biology / Ecology
+955,horizontal distance pit center to rootwad,,NaN,4155,Geomorphology|Biology / Ecology
+956,inclination downslope,,NaN,4155,Geomorphology|Biology / Ecology
+957,inclination upslope,,NaN,4155,Geomorphology|Biology / Ecology
+958,latitude degrees,,NaN,4155,Geomorphology|Biology / Ecology
+959,latitude minutes,,NaN,4155,Geomorphology|Biology / Ecology
+960,long axis,,NaN,4155,Geomorphology|Biology / Ecology
+961,longitude degrees,,NaN,4155,Geomorphology|Biology / Ecology
+962,longitude minutes,,NaN,4155,Geomorphology|Biology / Ecology
+963,notes,,NaN,4155,Geomorphology|Biology / Ecology
+964,orientation downslope,,NaN,4155,Geomorphology|Biology / Ecology
+965,orientation upslope,,NaN,4155,Geomorphology|Biology / Ecology
+966,region,,NaN,4155,Geomorphology|Biology / Ecology
+967,relative age,,NaN,4155,Geomorphology|Biology / Ecology
+968,short axis,,NaN,4155,Geomorphology|Biology / Ecology
+969,tree azimuth,,NaN,4155,Geomorphology|Biology / Ecology
+970,tree girth 15m,,NaN,4155,Geomorphology|Biology / Ecology
+971,tree number,,NaN,4155,Geomorphology|Biology / Ecology
+972,tree type,,NaN,4155,Geomorphology|Biology / Ecology
+973,diff charge bal,,NaN,4165,Water Chemistry
+974,air temperature,degreescelsius,NaN,4165,Water Chemistry
+975,ancmgl,,NaN,4165,Water Chemistry
+976,ancueql,,NaN,4165,Water Chemistry
+977,calcium,ueql,NaN,4165,Water Chemistry
+978,charge bal,,NaN,4165,Water Chemistry
+979,cloud cover,,NaN,4165,Water Chemistry
+980,chlorine,ppm,NaN,4165,Water Chemistry
+981,clueql,,NaN,4165,Water Chemistry
+982,collection date,,NaN,4165,Water Chemistry
+983,collection time,,NaN,4165,Water Chemistry
+984,d18 1sigma,,NaN,4165,Water Chemistry
+985,d18o permill,,NaN,4165,Water Chemistry
+986,deuterium d permill,,NaN,4165,Water Chemistry
+987,dissolved organic nitrogen uml,,NaN,4165,Water Chemistry
+988,dissolved organic phosphorous uml,,NaN,4165,Water Chemistry
+989,field conductivity,,NaN,4165,Water Chemistry
+990,inuml,,NaN,4165,Water Chemistry
+991,ipuml,,NaN,4165,Water Chemistry
+992,potasium,ppm,NaN,4165,Water Chemistry
+993,potassium,ueql,NaN,4165,Water Chemistry
+994,lab conductivity,,NaN,4165,Water Chemistry
+995,location,,NaN,4165,Water Chemistry
+996,major ions and sihueql cappm,,NaN,4165,Water Chemistry
+997,magnesium,ppm,NaN,4165,Water Chemistry
+998,magnesium,ueql,NaN,4165,Water Chemistry
+999,sodium,ppm,NaN,4165,Water Chemistry
+1000,sodium microequivalents per liter,,NaN,4165,Water Chemistry
+1001,ammonium microequivalents per liter,,NaN,4165,Water Chemistry
+1002,nitrate,ppm,NaN,4165,Water Chemistry
+1003,nitrate microequivalents per liter,,NaN,4165,Water Chemistry
+1004,nutrientsdoc cl,mg,NaN,4165,Water Chemistry
+1005,phaeophytinugl,,NaN,4165,Water Chemistry
+1006,phosphorus um/l (pnuml),,NaN,4165,Water Chemistry
+1007,ppuml,,NaN,4165,Water Chemistry
+1008,silicon icp centrifuge,ppm,NaN,4165,Water Chemistry
+1009,silicon icp,ppm,NaN,4165,Water Chemistry
+1010,silicon dioxide colorimetricuml,,NaN,4165,Water Chemistry
+1011,silicon dioxide (sio2) icp  centrifuge,ppm,NaN,4165,Water Chemistry
+1012,silicon dioxide (sio2) icp,ppm,NaN,4165,Water Chemistry
+1013,sulfate,ppm,NaN,4165,Water Chemistry
+1014,sulfate,ueql,NaN,4165,Water Chemistry
+1015, ,,sum,4165,Water Chemistry
+1016,tdnuml,,NaN,4165,Water Chemistry
+1017,dissolved phosphorus uml,,total,4165,Water Chemistry
+1018,tnuml,,NaN,4165,Water Chemistry
+1019,phosphorus uml,,total,4165,Water Chemistry
+1020,tritium 1sigma,,NaN,4165,Water Chemistry
+1021,tritium,,NaN,4165,Water Chemistry
+1022,water isotopes dexcessmill,,NaN,4165,Water Chemistry
+1023,water temperature,celsius,NaN,4165,Water Chemistry
+1024,wind,,NaN,4165,Water Chemistry
+1025,antistokes scatter,nm,NaN,4174,Hydrology
+1026,length m,,NaN,4174,Hydrology
+1027,stokes scatter,nm,NaN,4174,Hydrology
+1028,temperature,degreescelsius,NaN,4174,Hydrology
+1029,point cloud,,NaN,4182,GIS / Remote Sensing|Geomorphology
+1030,raster image data,,NaN,4324,GIS / Remote Sensing
+1031,and number of return from ground nground,,NaN,4606,GIS / Remote Sensing
+1032,return height avgh,,average,4606,GIS / Remote Sensing
+1033,scan angle avgscanangle,,average,4606,GIS / Remote Sensing
+1034,canopy cover cov,,NaN,4606,GIS / Remote Sensing
+1035,canopy density dns,,NaN,4606,GIS / Remote Sensing
+1036,elevation,,NaN,4606,GIS / Remote Sensing
+1037,fic,,NaN,4606,GIS / Remote Sensing
+1038,latitude lat,,NaN,4606,GIS / Remote Sensing
+1039,latynad83 utm 17n,,NaN,4606,GIS / Remote Sensing
+1040,lidar return height percentiles p05 top90,,NaN,4606,GIS / Remote Sensing
+1041,longitude long,,NaN,4606,GIS / Remote Sensing
+1042,longxnad83 utm 17n,,NaN,4606,GIS / Remote Sensing
+1043,return height maxh,,maximum,4606,GIS / Remote Sensing
+1044,scan angle maxscan,,maximum,4606,GIS / Remote Sensing
+1045,return heightminh,,minimum,4606,GIS / Remote Sensing
+1046,scan angle minscan,,minimum,4606,GIS / Remote Sensing
+1047,number of returns from vegetatation nveg,,NaN,4606,GIS / Remote Sensing
+1048,number of returns nreturns,,NaN,4606,GIS / Remote Sensing
+1049,see detail below,,NaN,4606,GIS / Remote Sensing
+1050,see details below,,NaN,4606,GIS / Remote Sensing
+1051,see details below,,NaN,4606,GIS / Remote Sensing
+1052,all returns stdh,,standarddeviationof,4606,GIS / Remote Sensing
+1053,barometric pressure,,NaN,4608,Climatology / Meteorology
+1054,radiation incoming,,NaN,4608,Climatology / Meteorology
+1055,radiation incoming photosynthetically active radiation,,NaN,4608,Climatology / Meteorology
+1056,temperature,,NaN,4608,Climatology / Meteorology
+1057,wind direction,,NaN,4608,Climatology / Meteorology
+1058,wind speed,,NaN,4608,Climatology / Meteorology
+1059,discharge,m3day,NaN,4610,Hydrology|Modeling / Computational Science
+1060,evapotranspiration spatial mday,,average,4610,Hydrology|Modeling / Computational Science
+1061,groundwater level spatial m,,average,4610,Hydrology|Modeling / Computational Science
+1062,precipitation mday,,NaN,4610,Hydrology|Modeling / Computational Science
+1063,snow depth spatial m,,average,4610,Hydrology|Modeling / Computational Science
+1064,soil moisture spatial in top 10 m3m3,cm,average,4610,Hydrology|Modeling / Computational Science
+1065,precipitation for previous date,mm,total,4611,Climatology / Meteorology|Hydrology
+1066,time of wind speed for previous date,,max,4611,Climatology / Meteorology|Hydrology
+1067,wind speed for previous date,ms1,max,4611,Climatology / Meteorology|Hydrology
+1068,longwave downwelling  temperaturecorrected,wm2,NaN,4612,Climatology / Meteorology
+1069,longwave net,wm2,NaN,4612,Climatology / Meteorology
+1070,longwave upwelling  temperaturecorrected,wm2,NaN,4612,Climatology / Meteorology
+1071,mean radiation net,wm2,NaN,4612,Climatology / Meteorology
+1072,shortwave downwelling,wm2,NaN,4612,Climatology / Meteorology
+1073,shortwave net,wm2,NaN,4612,Climatology / Meteorology
+1074,shortwave upwelling,wm2,NaN,4612,Climatology / Meteorology
+1075,age years,,NaN,4614,Biology / Ecology
+1076,bearing from plot center degrees,,NaN,4614,Biology / Ecology
+1077,date measured,,NaN,4614,Biology / Ecology
+1078,diameter at breast height,,NaN,4614,Biology / Ecology
+1079,distance from plot center m,,NaN,4614,Biology / Ecology
+1080,height m,,NaN,4614,Biology / Ecology
+1081,species code,,NaN,4614,Biology / Ecology
+1082,tree,,NaN,4614,Biology / Ecology
+1083,basal area,cm2,NaN,4618,Biology / Ecology
+1084,diameter at breast height,,NaN,4618,Biology / Ecology
+1085,distance from transect line m,,NaN,4618,Biology / Ecology
+1086,distance on transect m,,NaN,4618,Biology / Ecology
+1087,end,,NaN,4618,Biology / Ecology
+1088,start,,NaN,4618,Biology / Ecology
+1089,topo position,,NaN,4618,Biology / Ecology
+1090,transect number,,NaN,4618,Biology / Ecology
+1091,tree tag number,,NaN,4618,Biology / Ecology
+1092,degrees 2 theta,,NaN,4620,Soil Science / Pedology
+1093,intensity,,NaN,4620,Soil Science / Pedology
+1094,13csoilrespiredco2,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1095,acid phosphatase activity,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1096,dry mass incubated soil,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1097,extractable organic carbon concentration,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1098,extractable organic carbon concentration,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1099,fresh massincubatedsoil,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1100,glucosidaseactivity,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1101,microbialbiomassconcentration,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1102,nacetyl glucosaminidase activity,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1103,nitrateconconcentration,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1104,phenoloxidaseactivity,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1105,soilch4produtcionrate,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1106,soilco2productionrate,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1107,soil nitrous oxide production rate,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1108,soilph,,NaN,4637,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1109,05m carbon dioxide,,NaN,4658,Biogeochemistry|Soil Science / Pedology|Hydrology
+1110,temperature (5m),degreescelsius,NaN,4658,Biogeochemistry|Soil Science / Pedology|Hydrology
+1111,05mh2o,,NaN,4658,Biogeochemistry|Soil Science / Pedology|Hydrology
+1112,05mo2,,NaN,4658,Biogeochemistry|Soil Science / Pedology|Hydrology
+1113,15m carbon dioxide,,NaN,4658,Biogeochemistry|Soil Science / Pedology|Hydrology
+1114,temperature (15m),degreescelsius,NaN,4658,Biogeochemistry|Soil Science / Pedology|Hydrology
+1115,15mh2o,,NaN,4658,Biogeochemistry|Soil Science / Pedology|Hydrology
+1116,15mo2,,NaN,4658,Biogeochemistry|Soil Science / Pedology|Hydrology
+1117,site,,NaN,4658,Biogeochemistry|Soil Science / Pedology|Hydrology
+1118,surf,degreecelsius,NaN,4658,Biogeochemistry|Soil Science / Pedology|Hydrology
+1119,time,,NaN,4658,Biogeochemistry|Soil Science / Pedology|Hydrology
+1120,precent carbon dioxide,,NaN,4659,Biogeochemistry|Soil Science / Pedology
+1121,gcch4ppm,,NaN,4659,Biogeochemistry|Soil Science / Pedology
+1122,gcco2pct,,NaN,4659,Biogeochemistry|Soil Science / Pedology
+1123,gcn2oppm,,NaN,4659,Biogeochemistry|Soil Science / Pedology
+1124,oxygen percent,,NaN,4659,Biogeochemistry|Soil Science / Pedology
+1125,aggregatestability file2 site,,NaN,4660,Soil Science / Pedology|Biology / Ecology
+1126,bulk density,,NaN,4660,Soil Science / Pedology|Biology / Ecology
+1127,clay,,NaN,4660,Soil Science / Pedology|Biology / Ecology
+1128,depth,,NaN,4660,Soil Science / Pedology|Biology / Ecology
+1129,file1 site,,NaN,4660,Soil Science / Pedology|Biology / Ecology
+1130,invertebrate functional group,,NaN,4660,Soil Science / Pedology|Biology / Ecology
+1131,invertebrate genus,,NaN,4660,Soil Science / Pedology|Biology / Ecology
+1132,invertebrates pp,,NaN,4660,Soil Science / Pedology|Biology / Ecology
+1133,ksat,,NaN,4660,Soil Science / Pedology|Biology / Ecology
+1134,litterormineral soil,,NaN,4660,Soil Science / Pedology|Biology / Ecology
+1135,silt,,NaN,4660,Soil Science / Pedology|Biology / Ecology
+1136,treatment,,NaN,4660,Soil Science / Pedology|Biology / Ecology
+1137,agent,,NaN,4665,Social Science
+1138,asses and mules,,NaN,4665,Social Science
+1139,barley bushels,,NaN,4665,Social Science
+1140,beeswax and honey,lbs,NaN,4665,Social Science
+1141,buckwheat bushels,,NaN,4665,Social Science
+1142,butter,lbs,NaN,4665,Social Science
+1143,cane sugar hhds of 1000,lbs,NaN,4665,Social Science
+1144,cash value of farm,,NaN,4665,Social Science
+1145,cheese,lbs,NaN,4665,Social Science
+1146,clover seed bushels,,NaN,4665,Social Science
+1147,flax,lbs,NaN,4665,Social Science
+1148,flaxseed bushels,,NaN,4665,Social Science
+1149,ginned cotton bales of 400 each,lbs,NaN,4665,Social Science
+1150,hay tons,,NaN,4665,Social Science
+1151,hemp  dew rotted tons,,NaN,4665,Social Science
+1152,hemp  water rotted tons,,NaN,4665,Social Science
+1153,hops,lbs,NaN,4665,Social Science
+1154,horses,,NaN,4665,Social Science
+1155,improved acres of land,,NaN,4665,Social Science
+1156,indian corn bushels,,NaN,4665,Social Science
+1157,irish potatoes bushels,,NaN,4665,Social Science
+1158,manager of the farm,,NaN,4665,Social Science
+1159,maple sugar,lbs,NaN,4665,Social Science
+1160,milch cows,,NaN,4665,Social Science
+1161,molasses gallons,,NaN,4665,Social Science
+1162,name owner,,NaN,4665,Social Science
+1163,oats bushels,,NaN,4665,Social Science
+1164,other cattle,,NaN,4665,Social Science
+1165,other grass seeds bushels,,NaN,4665,Social Science
+1166,peas  beans bushels,,NaN,4665,Social Science
+1167,rice,lbs,NaN,4665,Social Science
+1168,rye bushels,,NaN,4665,Social Science
+1169,sheep,,NaN,4665,Social Science
+1170,silk cocoons,lbs,NaN,4665,Social Science
+1171,sweet potatoes bushels,,NaN,4665,Social Science
+1172,swine,,NaN,4665,Social Science
+1173,tobacco,lbs,NaN,4665,Social Science
+1174,unimproved acres of land,,NaN,4665,Social Science
+1175,value of animals slaughtered,,NaN,4665,Social Science
+1176,value of farming implements and machinery,,NaN,4665,Social Science
+1177,value of homemade manufactures,,NaN,4665,Social Science
+1178,value of live stock,,NaN,4665,Social Science
+1179,value of orchard products dollars,,NaN,4665,Social Science
+1180,value of produce of market gardens,,NaN,4665,Social Science
+1181,wheat bushels,,NaN,4665,Social Science
+1182,wine gallons,,NaN,4665,Social Science
+1183,wool,lbs,NaN,4665,Social Science
+1184,working oxen,,NaN,4665,Social Science
+1185,2 esri format 1m dem from ground classified points,,NaN,4671,GIS / Remote Sensing
+1186,3 esri format 1m hillshade raster from ground classified points,,NaN,4671,GIS / Remote Sensing
+1187,4 esri format 1m dem from all points canopy included,,NaN,4671,GIS / Remote Sensing
+1188,5 esri format 1m hillshade raster from all points canopy included,,NaN,4671,GIS / Remote Sensing
+1189,10bemeteoric,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1190,beryllium,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1191,calcium,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1192,carbon,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1193,freeberyllium,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1194,freeiron,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1195,iron,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1196,magnesium,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1197,manganese,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1198,nitrogen,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1199,phosphorus,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1200,potassium,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1201,silicon,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1202,sodium,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1203,soil exchangeable calcium,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1204,soil exchangeable potassium,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1205,soil exchangeable magnesium,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1206,soil exchangeable sodium,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1207,soil kcl acidity,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1208,soilphcacl2,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1209,soilphwater,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1210,soiltexture,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1211,titanium,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1212,zirconium,,NaN,4673,Biogeochemistry|Geochemistry / Mineralogy|Soil Science / Pedology
+1213,specific conductance soil conductivity,,NaN,4674,Biogeochemistry|Soil Science / Pedology
+1214,apparent electrical resistivity ohmm,,NaN,4677,Geophysics
+1215,depth in soil m,,NaN,4677,Geophysics
+1216,distance on surface m,,NaN,4677,Geophysics
+1217,intensity counts,,NaN,4678,Biogeochemistry|Soil Science / Pedology
+1218,velocity mms,,NaN,4678,Biogeochemistry|Soil Science / Pedology
+1219,difn,,NaN,4679,Biology / Ecology
+1220,direction,,NaN,4679,Biology / Ecology
+1221,lai,,NaN,4679,Biology / Ecology
+1222,mta,,NaN,4679,Biology / Ecology
+1223,se lai,,NaN,4679,Biology / Ecology
+1224,se mta,,NaN,4679,Biology / Ecology
+1225,smp,,NaN,4679,Biology / Ecology
+1226,discharge,cfs,NaN,4680,Hydrology|Climatology / Meteorology
+1227,rainfall inch,,NaN,4680,Hydrology|Climatology / Meteorology
+1228,water level,ft,NaN,4680,Hydrology|Climatology / Meteorology
+1229,gully boundaries acquired as separate points and aposteriori transformed in polylines,,NaN,4681,Geomorphology|Hydrology
+1230,clay,,NaN,4683,Soil Science / Pedology
+1231,sand,,NaN,4683,Soil Science / Pedology
+1232,silt,,NaN,4683,Soil Science / Pedology
+1233,sample id,,NaN,4683,Soil Science / Pedology
+1234,electrical conductivity,,NaN,4684,Hydrology
+1235,measured stage,,NaN,4684,Hydrology
+1236,specific conductance,,NaN,4684,Hydrology
+1237,stage height at vnotch,,NaN,4684,Hydrology
+1238,water temperature,,NaN,4684,Hydrology
+1239,date and time,,NaN,4686,Hydrology
+1240,depth to water table,,NaN,4686,Hydrology
+1241,offset,,NaN,4686,Hydrology
+1242,water level,,NaN,4686,Hydrology
+1243,fagr,,NaN,4687,Biology / Ecology
+1244,list,,NaN,4687,Biology / Ecology
+1245,litu,,NaN,4687,Biology / Ecology
+1246,nf,,NaN,4687,Biology / Ecology
+1247,oh,,NaN,4687,Biology / Ecology
+1248,other,,NaN,4687,Biology / Ecology
+1249,piec,,NaN,4687,Biology / Ecology
+1250,pine,g,NaN,4687,Biology / Ecology
+1251,pita,,NaN,4687,Biology / Ecology
+1252,plot,,NaN,4687,Biology / Ecology
+1253,qual,,NaN,4687,Biology / Ecology
+1254,qufa,,NaN,4687,Biology / Ecology
+1255,qumo,,NaN,4687,Biology / Ecology
+1256,quru,,NaN,4687,Biology / Ecology
+1257,qust,,NaN,4687,Biology / Ecology
+1258,quve,,NaN,4687,Biology / Ecology
+1259, ,g,total,4687,Biology / Ecology
+1260,dew point temperature,,NaN,4703,Climatology / Meteorology
+1261,vapor pressure,,NaN,4703,Climatology / Meteorology
+1262,electrical resistivity imaging,,NaN,4730,Geophysics
+1263,ground penetrating radar,,NaN,4730,Geophysics
+1264,terrain conductivity,,NaN,4730,Geophysics
+1265,reservoir height,,NaN,4734,Hydrology|Soil Science / Pedology
+1266,ground water depth,,NaN,4739,Hydrology
+1267,bulk electrical conductivity,,NaN,4741,Geomorphology|Hydrology|Soil Science / Pedology
+1268,dissolved calcium,,NaN,4742,Water Chemistry
+1269,dissolved magnesium,,NaN,4742,Water Chemistry
+1270,dissolved potassium,,NaN,4742,Water Chemistry
+1271,silica dissolved,,NaN,4742,Water Chemistry
+1272,dissolved sodium,,NaN,4742,Water Chemistry
+1273,discharge,,NaN,4743,Hydrology
+1274,gage height,,NaN,4743,Hydrology
+1275,level,mm,NaN,4828,Hydrology
+1276,weights by sieve opening,,NaN,4829,Hydrology|Soil Science / Pedology
+1277,alkalinity caco3,meql,NaN,4851,Water Chemistry
+1278,alumoll,,NaN,4851,Water Chemistry
+1279,ammonium,mgl,NaN,4851,Water Chemistry
+1280,bromide,mgl,NaN,4851,Water Chemistry
+1281,caumoll,,NaN,4851,Water Chemistry
+1282,chloride,mgl,NaN,4851,Water Chemistry
+1283,electrical conductivity sm,,NaN,4851,Water Chemistry
+1284,iron-54,umol/l,NaN,4851,Water Chemistry
+1285,iron-57,umol/l,NaN,4851,Water Chemistry
+1286,flowno flow,,NaN,4851,Water Chemistry
+1287,fluoride,mgl,NaN,4851,Water Chemistry
+1288,kumoll,,NaN,4851,Water Chemistry
+1289,mgumoll,,NaN,4851,Water Chemistry
+1290,manganese,umol/l,NaN,4851,Water Chemistry
+1291,sodium,umol/l,NaN,4851,Water Chemistry
+1292,nitrate,mgl,NaN,4851,Water Chemistry
+1293,nitrite,mgl,NaN,4851,Water Chemistry
+1294,phosphate,mgl,NaN,4851,Water Chemistry
+1295,sample location,,NaN,4851,Water Chemistry
+1296,sulfate,mgl,NaN,4851,Water Chemistry
+1297,technetium,mgl,NaN,4851,Water Chemistry
+1298,tn,mgl,NaN,4851,Water Chemistry
+1299,air temperature,degreescelsius,NaN,4871,Hydrology
+1300,depth,mm,NaN,4871,Hydrology
+1301,discharge,cfs,NaN,4871,Hydrology
+1302,discharge,m3s,NaN,4871,Hydrology
+1303,electrical conductivity scm,,NaN,4871,Hydrology
+1304,air temperature,degreescelsius,NaN,4871,Hydrology
+1305,battery voltage,,minimum,4940,Climatology / Meteorology|Hydrology
+1306,leaf wetness 30 understory mv,cm,NaN,4940,Climatology / Meteorology|Hydrology
+1307,precipitation running for current day,mm,total,4940,Climatology / Meteorology|Hydrology
+1308,precipitation for previous 10 minutes,mm,total,4940,Climatology / Meteorology|Hydrology
+1309,relative humidity,,NaN,4940,Climatology / Meteorology|Hydrology
+1310,snow depth centimeter,,NaN,4940,Climatology / Meteorology|Hydrology
+1311,temperature hmp45c,degc,NaN,4940,Climatology / Meteorology|Hydrology
+1312,temperature judd,degc,NaN,4940,Climatology / Meteorology|Hydrology
+1313,wind direction degress,,average,4940,Climatology / Meteorology|Hydrology
+1314,wind direction degress,,stdev,4940,Climatology / Meteorology|Hydrology
+1315,wind speed for previous 10 minutes,ms1,average,4940,Climatology / Meteorology|Hydrology
+1316,absolute pressure,,NaN,4982,All Disciplines
+1317,acid phosphatase,,NaN,4982,All Disciplines
+1318,al  ammonium oxalateextractable,,NaN,4982,All Disciplines
+1319,al  citrateascorbateextractable,,NaN,4982,All Disciplines
+1320,aluminum  citrateditihionite extractable,,NaN,4982,All Disciplines
+1321,aluminum in 05 m hcl,,NaN,4982,All Disciplines
+1322,alphanacetylglucosaminidase,,NaN,4982,All Disciplines
+1323,beta glucosidase,,NaN,4982,All Disciplines
+1324,carbon percent in live fine roots,,NaN,4982,All Disciplines
+1325,cdom,,NaN,4982,All Disciplines
+1326,cellobiohydrolase,,NaN,4982,All Disciplines
+1327,cn,,NaN,4982,All Disciplines
+1328,carbon dioxide,,NaN,4982,All Disciplines
+1329,dead fine roots,,NaN,4982,All Disciplines
+1330,dissolved oxygen,,NaN,4982,All Disciplines
+1331,dissolved organic carbon in 05m hcl extractions,,NaN,4982,All Disciplines
+1332,dissolved organic carbon in deionized water extractions,,NaN,4982,All Disciplines
+1333,iron ammonium oxalateextractable,,NaN,4982,All Disciplines
+1334,iron citrateascorbate extractable,,NaN,4982,All Disciplines
+1335,iron citratedithionite extractable,,NaN,4982,All Disciplines
+1336,feiii in 05 m hcl,,NaN,4982,All Disciplines
+1337,light intensity,,NaN,4982,All Disciplines
+1338,live fine roots,,NaN,4982,All Disciplines
+1339,mass,,NaN,4982,All Disciplines
+1340,manganese  citrateascorbateextractable,,NaN,4982,All Disciplines
+1341,mn  in 05m hcl extraction,,NaN,4982,All Disciplines
+1342,nitrogen percent in live fine roots,,NaN,4982,All Disciplines
+1343,ph  soil,,NaN,4982,All Disciplines
+1344,silica  ammonium oxalateextractable,,NaN,4982,All Disciplines
+1345,silica  citrateascorbateextractable,,NaN,4982,All Disciplines
+1346,silica in 05 m hcl,,NaN,4982,All Disciplines
+1347,soil carbon,,NaN,4982,All Disciplines
+1348,soil n,,NaN,4982,All Disciplines
+1349,soluble phenolics in deionized water extractions,,NaN,4982,All Disciplines
+1350,xylosidase,,NaN,4982,All Disciplines
+1351,time of turbidity within last 15 minutes,,maximum,4997,Hydrology
+1352,time of turbidity within last 15 minutes,,minimum,4997,Hydrology
+1353,turbidity during last 15 minutes ntu,,average,4997,Hydrology
+1354,turbidity ntu,,maximum,4997,Hydrology
+1355,turbidity ntu,,minimum,4997,Hydrology
+1356,effective energy and mass transfer,,NaN,5107,Biology / Ecology|Climatology / Meteorology|GIS / Remote Sensing|Hydrology
+1357,agcsum,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1358,area,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1359,aspect,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1360,cata,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1361,dem,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1362,eqdiam,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1363,evtboulder,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1364,genc,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1365,ht,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1366,id,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1367,majax,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1368,maxht,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1369,mean height,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1370,midslp,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1371,minax,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1372,mean height,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1373,nrmht,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1374,planc,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1375,pred,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1376,profc,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1377,slope,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1378,slpht,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1379,stdht,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1380,stennum,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1381,tpi,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1382,twi,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1383,utme,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1384,utmn,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1385,vllydpth,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1386,x,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1387,x,,maximum,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1388,x,,minimum,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1389,y,,NaN,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1390,y,,maximum,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1391,y,,minimum,5131,GIS / Remote Sensing|Biology / Ecology|Geomorphology|Hydrology
+1392,carbon dioxide,,NaN,5139,Climatology / Meteorology|Soil Science / Pedology|Biogeochemistry|Biology / Ecology
+1393,oxygen,,NaN,5139,Climatology / Meteorology|Soil Science / Pedology|Biogeochemistry|Biology / Ecology
+1394,bulk electrical conductivity,,NaN,5140,Hydrology|Soil Science / Pedology
+1395,ag,gl,NaN,5189,Geochemistry / Mineralogy
+1396,aluminum,,NaN,5189,Geochemistry / Mineralogy
+1397,cd,,NaN,5189,Geochemistry / Mineralogy
+1398,field label,,NaN,5189,Geochemistry / Mineralogy
+1399,internal laboratory control number,,NaN,5189,Geochemistry / Mineralogy
+1400,li,,NaN,5189,Geochemistry / Mineralogy
+1401,sample type,,NaN,5189,Geochemistry / Mineralogy
+1402,se,,NaN,5189,Geochemistry / Mineralogy
+1403,silicon,,NaN,5189,Geochemistry / Mineralogy
+1404,zirconium all elemental concentrations,gl,NaN,5189,Geochemistry / Mineralogy
+1405,dbh diameter at breast height where applicable,cm,NaN,5190,Biology / Ecology
+1406,diameter at root collar,cm,NaN,5190,Biology / Ecology
+1407,distance m along transect where the subplot was located,,NaN,5190,Biology / Ecology
+1408,line transect name starting point  first letter in transect name,,NaN,5190,Biology / Ecology
+1409,species label 4 letter species code for each shrub stem labeled with first two letters of latin genus name followed by first two letters of latin species name,,NaN,5190,Biology / Ecology
+1410,reduction potential,,NaN,5198,Soil Science / Pedology|Geochemistry / Mineralogy
+1411,solar radiation,,NaN,5203,Biology / Ecology|Climatology / Meteorology|Hydrology|Soil Science / Pedology
+1412,stream discharge,,NaN,5203,Biology / Ecology|Climatology / Meteorology|Hydrology|Soil Science / Pedology
+1413,wind speed and direction,,NaN,5203,Biology / Ecology|Climatology / Meteorology|Hydrology|Soil Science / Pedology
+1414,oxygen at depth,,NaN,5272,Geochemistry / Mineralogy|Soil Science / Pedology
+1415,oxygen at depth,,NaN,5272,Geochemistry / Mineralogy|Soil Science / Pedology
+1416,partial pressure of carbon dioxide at depth 1,,NaN,5272,Geochemistry / Mineralogy|Soil Science / Pedology
+1417,partial pressure of carbon dioxide at depth2,,NaN,5272,Geochemistry / Mineralogy|Soil Science / Pedology
+1418,site lrms leading ridge midslope or tmms tussey mtn midslope,,NaN,5272,Geochemistry / Mineralogy|Soil Science / Pedology
+1419,filter number,,NaN,5273,Geochemistry / Mineralogy|Water Chemistry
+1420,filter size,,NaN,5273,Geochemistry / Mineralogy|Water Chemistry
+1421,nickel,ugml,NaN,5273,Geochemistry / Mineralogy|Water Chemistry
+1422,aluminum,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1423,ba,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1424,calcium,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1425,iron,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1426,potassium,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1427,magnesium,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1428,manganese,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1429,sodium,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1430,phosphorus,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1431,rundate,,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1432,sample,,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1433,sampling date,,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1434,sampling time,,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1435,silicon,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1436,strontium,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1437,titanium,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1438,zinc,ugml,NaN,5274,Geochemistry / Mineralogy|Water Chemistry
+1439, ,degc,NaN,5277,Soil Science / Pedology
+1440,recnum,,NaN,5277,Soil Science / Pedology
+1441,soil electric conductivity 10cm sm,,NaN,5277,Soil Science / Pedology
+1442,soil electric conductivity 20cm sm,,NaN,5277,Soil Science / Pedology
+1443,soil electric conductivity 40cm sm,,NaN,5277,Soil Science / Pedology
+1444,soil moisture 10cm m3m3,,NaN,5277,Soil Science / Pedology
+1445,soil moisture 20cm m3m3,,NaN,5277,Soil Science / Pedology
+1446,soil moisture 40cm m3m3,,NaN,5277,Soil Science / Pedology
+1447,soil temperature at 10 centimeter depth,degreescelsius,NaN,5277,Soil Science / Pedology
+1448,soil temperature at 20 centimeter depth,degreescelsius,NaN,5277,Soil Science / Pedology
+1449,soil temperature at 40 centimeter depth,degreescelsius,NaN,5277,Soil Science / Pedology
+1450,time stamp,,NaN,5277,Soil Science / Pedology
+1451,imagdiel 10cm,,NaN,5278,Soil Science / Pedology
+1452,imagdiel 20cm,,NaN,5278,Soil Science / Pedology
+1453,imagdiel 40cm,,NaN,5278,Soil Science / Pedology
+1454,realdiel 10cm,,NaN,5278,Soil Science / Pedology
+1455,realdiel 20cm,,NaN,5278,Soil Science / Pedology
+1456,realdiel 40cm,,NaN,5278,Soil Science / Pedology
+1457,temperaturecorrectedimagdiel 10cm,,NaN,5278,Soil Science / Pedology
+1458,temperaturecorrectedimagdiel 20cm,,NaN,5278,Soil Science / Pedology
+1459,temperaturecorrectedimagdiel 40cm,,NaN,5278,Soil Science / Pedology
+1460,temperaturecorrectedrealdiel 10cm,,NaN,5278,Soil Science / Pedology
+1461,temperaturecorrectedrealdiel 20cm,,NaN,5278,Soil Science / Pedology
+1462,temperaturecorrectedrealdiel 40cm,,NaN,5278,Soil Science / Pedology
+1463,date,,NaN,5280,Biology / Ecology
+1464,dry weight,g,NaN,5280,Biology / Ecology
+1465,macroplot,,NaN,5280,Biology / Ecology
+1466,mass per unit area,gm2,NaN,5280,Biology / Ecology
+1467,area,cm2,NaN,5281,Biology / Ecology
+1468,intersections,,count,5281,Biology / Ecology
+1469,intersectionarea intersectionscm2,,NaN,5281,Biology / Ecology
+1470,slope position,,NaN,5281,Biology / Ecology
+1471,transect,,NaN,5281,Biology / Ecology
+1472,cz20,,NaN,5285,Hydrology
+1473,cz21,,NaN,5285,Hydrology
+1474,cz22,,NaN,5285,Hydrology
+1475,cz23,,NaN,5285,Hydrology
+1476,cz24,,NaN,5285,Hydrology
+1477,cz25,,NaN,5285,Hydrology
+1478,cz26,,NaN,5285,Hydrology
+1479,cz27,,NaN,5285,Hydrology
+1480,cz28,,NaN,5285,Hydrology
+1481,cz29,,NaN,5285,Hydrology
+1482,cz35,,NaN,5285,Hydrology
+1483,cz36,,NaN,5285,Hydrology
+1484,tmstamp yyyymmdd hhmmss,,NaN,5285,Hydrology
+1485,humidity,,NaN,5292,Climatology / Meteorology
+1486,corr,,NaN,5300,Soil Science / Pedology
+1487,inten,,NaN,5300,Soil Science / Pedology
+1488,mod,,NaN,5300,Soil Science / Pedology
+1489,n1ctsmod,,NaN,5300,Soil Science / Pedology
+1490,n1etsec,,NaN,5300,Soil Science / Pedology
+1491,n1rh,,NaN,5300,Soil Science / Pedology
+1492,n1tc,,NaN,5300,Soil Science / Pedology
+1493,n2ctsbare,,NaN,5300,Soil Science / Pedology
+1494,n2etsec,,NaN,5300,Soil Science / Pedology
+1495,n2rh,,NaN,5300,Soil Science / Pedology
+1496,n2tc,,NaN,5300,Soil Science / Pedology
+1497,p1mb,,NaN,5300,Soil Science / Pedology
+1498,press,,NaN,5300,Soil Science / Pedology
+1499,probe,,NaN,5300,Soil Science / Pedology
+1500,record number,,NaN,5300,Soil Science / Pedology
+1501,relative humidity,,NaN,5300,Soil Science / Pedology
+1502,sanpe,,NaN,5300,Soil Science / Pedology
+1503,scale,,NaN,5300,Soil Science / Pedology
+1504,t1c,,NaN,5300,Soil Science / Pedology
+1505,vbat,,NaN,5300,Soil Science / Pedology
+1506,absolute pressure,,NaN,5324,Hydrology
+1507,airt,,NaN,5324,Hydrology
+1508,barometric pressure,,NaN,5324,Hydrology
+1509,stage height,cm,NaN,5324,Hydrology
+1510,stage height diff,,NaN,5324,Hydrology
+1511,time stamp,,NaN,5324,Hydrology
+1512,w temperature,,NaN,5324,Hydrology
+1513,electrical conductivity,,NaN,5326,Hydrology
+1514,stage height m,,NaN,5326,Hydrology
+1515,gw2wtemp,,NaN,5329,Hydrology
+1516,lvl2,,NaN,5329,Hydrology
+1517,lvl9,,NaN,5329,Hydrology
+1518,1 point cloud in las format version 12,,NaN,5446,GIS / Remote Sensing
+1519,2 esri float format 10m dem from ground classified points,,NaN,5446,GIS / Remote Sensing
+1520,3 esri raster format 10m hillshade raster from ground classified points,,NaN,5446,GIS / Remote Sensing
+1521,4 esri float format 10m dem from first return points,,NaN,5446,GIS / Remote Sensing
+1522,5 esri raster format 10m hillshade raster first return points,,NaN,5446,GIS / Remote Sensing
+1523,classified as ground or nonground,,NaN,5446,GIS / Remote Sensing
+1524,in 1 tiles,km3,NaN,5446,GIS / Remote Sensing
+1525,basket identification code,,NaN,5460,Biology / Ecology
+1526,days since last collection,,NaN,5460,Biology / Ecology
+1527,leaf litter material,,NaN,5460,Biology / Ecology
+1528,miscellaneous material,,NaN,5460,Biology / Ecology
+1529,seeds and flowers,,NaN,5460,Biology / Ecology
+1530,litter collected,,total,5460,Biology / Ecology
+1531,woody material,,NaN,5460,Biology / Ecology
+1532,water potential,,NaN,5484,Biology / Ecology
+1533,deuterium,,NaN,5485,Biogeochemistry|Biology / Ecology|Climatology / Meteorology|Geomorphology
+1534, ,,NaN,5486,Biogeochemistry|Water Chemistry
+1535,hydrogen 2 stable isotope ratio delta,,NaN,5486,Biogeochemistry|Water Chemistry
+1536,oxygen18,,NaN,5486,Biogeochemistry|Water Chemistry
+1537,precipitation,,NaN,5486,Biogeochemistry|Water Chemistry
+1538,biota,,NaN,5488,Biology / Ecology
+1539,volumetric water content,,NaN,5496,Geomorphology
+1540,relative humidity,,NaN,5497,Climatology / Meteorology
+1541,temperature sensor,,NaN,5497,Climatology / Meteorology
+1542,ground water,,NaN,5498,Hydrology|Geochemistry / Mineralogy
+1543,ground water depth,,NaN,5498,Hydrology|Geochemistry / Mineralogy
+1544,ground water temperature,,NaN,5498,Hydrology|Geochemistry / Mineralogy
+1545,water depth,,NaN,5498,Hydrology|Geochemistry / Mineralogy
+1546,aluminum,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1547,amphibole,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1548,bulk density,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1549,chroma,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1550,clinoptilolite,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1551,cristobalite,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1552,hue,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1553,kaolinite,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1554,loss on ignition,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1555,mica,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1556,montmorillonite,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1557,niobium,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1558,organic carbon,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1559,organic nitrogen,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1560,plagioclase,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1561,potassium feldspar,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1562,quartz,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1563,rock fragments,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1564,value,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1565,zinc,,NaN,5512,Geochemistry / Mineralogy|Soil Science / Pedology|Geomorphology
+1566,albite,,NaN,5531,Geochemistry / Mineralogy
+1567,apophylite,,NaN,5531,Geochemistry / Mineralogy
+1568,augelite,,NaN,5531,Geochemistry / Mineralogy
+1569,dickite,,NaN,5531,Geochemistry / Mineralogy
+1570,gibbsite,,NaN,5531,Geochemistry / Mineralogy
+1571,goethite,,NaN,5531,Geochemistry / Mineralogy
+1572,haolloysite,,NaN,5531,Geochemistry / Mineralogy
+1573,melanovanadite,,NaN,5531,Geochemistry / Mineralogy
+1574,metavariscite,,NaN,5531,Geochemistry / Mineralogy
+1575,nacrite,,NaN,5531,Geochemistry / Mineralogy
+1576,orthhoclase,,NaN,5531,Geochemistry / Mineralogy
+1577,tsargorodtsevite,,NaN,5531,Geochemistry / Mineralogy
+1578,vermiculite,,NaN,5531,Geochemistry / Mineralogy
+1579,left,cm,NaN,5533,Soil Science / Pedology
+1580,right,cm,NaN,5533,Soil Science / Pedology
+1581,coordinates wgs1984,,NaN,5533,Soil Science / Pedology
+1582,horizons  depths left,cm,NaN,5533,Soil Science / Pedology
+1583,photo name,,NaN,5533,Soil Science / Pedology
+1584,depth centimeter,,NaN,5564,Soil Science / Pedology
+1585,hydrogen isotopes,,NaN,5668,Hydrology|Water Chemistry|Biogeochemistry|Geochemistry / Mineralogy
+1586,mineralogy,,NaN,5668,Hydrology|Water Chemistry|Biogeochemistry|Geochemistry / Mineralogy
+1587,oxygen isotopes,,NaN,5668,Hydrology|Water Chemistry|Biogeochemistry|Geochemistry / Mineralogy
+1588,stream water chemistry,,NaN,5668,Hydrology|Water Chemistry|Biogeochemistry|Geochemistry / Mineralogy
+1589,suspended load,,NaN,5668,Hydrology|Water Chemistry|Biogeochemistry|Geochemistry / Mineralogy
+1590,curvature,,NaN,5714,Soil Science / Pedology
+1591,soil depth,,NaN,5714,Soil Science / Pedology
+1592,thickness of mobile regolith tmr,,NaN,5714,Soil Science / Pedology
+1593,dbh,,NaN,5751,Biology / Ecology
+1594,diameter breast height,,NaN,5751,Biology / Ecology
+1595,dna,,NaN,5751,Biology / Ecology
+1596,litter decomposition,,NaN,5751,Biology / Ecology
+1597,litterfall,,NaN,5751,Biology / Ecology
+1598,soil trace gases,,NaN,5751,Biology / Ecology
+1599,depth centimeter,,NaN,5817,Hydrology
+1600,pressurepsi,,NaN,5817,Hydrology
+1601,seconds,,NaN,5817,Hydrology
+1602,tmstamp  eastern daylight savings,,NaN,5817,Hydrology
+1603,water temperature,celsius,NaN,5817,Hydrology
+1604,carbon dioxide concentration,,NaN,5821,Climatology / Meteorology
+1605,carbon dioxide flux,,NaN,5821,Climatology / Meteorology
+1606,ground heat flux,,NaN,5821,Climatology / Meteorology
+1607,latent heat flux,,NaN,5821,Climatology / Meteorology
+1608,radiation incoming longwave,,NaN,5821,Climatology / Meteorology
+1609,radiation incoming par,,NaN,5821,Climatology / Meteorology
+1610,radiation incoming shortwave,,NaN,5821,Climatology / Meteorology
+1611,net radiation,,NaN,5821,Climatology / Meteorology
+1612,radiation outgoing longwave,,NaN,5821,Climatology / Meteorology
+1613,radiation outgoing shortwave,,NaN,5821,Climatology / Meteorology
+1614,sensible heat flux,,NaN,5821,Climatology / Meteorology
+1615,skin temperature,,NaN,5821,Climatology / Meteorology
+1616,water vapor concentration,,NaN,5821,Climatology / Meteorology
+1617,wind direction,,NaN,5821,Climatology / Meteorology
+1618,wind speed,,NaN,5821,Climatology / Meteorology
+1619,13ceoc,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1620,13csoc,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1621,15nson,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1622,cn ratio,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1623,d13cco2,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1624,fine roots,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1625,eoc g1,g,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1626,soil organic carbon g1,g,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1627,soil organic nitrogen g1,g,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1628,ng co2c g1 h1,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1629,pg ch4c g1 h1,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1630,pg dna g1,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1631,pg n2on g1 h1,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1632,pmol ap g1 h1,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1633,pmol bg g1 h1,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1634,pmol nag g1 h1,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1635,pmol po g1 h1,,NaN,5933,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
+1636,aspect degree,,NaN,5982,Soil Science / Pedology
+1637,depth to bt,,NaN,5982,Soil Science / Pedology
+1638,emi,,NaN,5982,Soil Science / Pedology
+1639,landscape position,,NaN,5982,Soil Science / Pedology
+1640,tile push probe depth,cm,NaN,5982,Soil Science / Pedology
+1641,ag,,NaN,5986,Geochemistry / Mineralogy
+1642,aluminum oxide,,NaN,5986,Geochemistry / Mineralogy
+1643,as,,NaN,5986,Geochemistry / Mineralogy
+1644,ba,,NaN,5986,Geochemistry / Mineralogy
+1645,be,,NaN,5986,Geochemistry / Mineralogy
+1646,bi,,NaN,5986,Geochemistry / Mineralogy
+1647,cao,,NaN,5986,Geochemistry / Mineralogy
+1648,ce,,NaN,5986,Geochemistry / Mineralogy
+1649,co,,NaN,5986,Geochemistry / Mineralogy
+1650,cr,,NaN,5986,Geochemistry / Mineralogy
+1651,cs,,NaN,5986,Geochemistry / Mineralogy
+1652,copper,,NaN,5986,Geochemistry / Mineralogy
+1653,dy,,NaN,5986,Geochemistry / Mineralogy
+1654,er,,NaN,5986,Geochemistry / Mineralogy
+1655,eu,,NaN,5986,Geochemistry / Mineralogy
+1656,fe2o3t,,NaN,5986,Geochemistry / Mineralogy
+1657,ga,,NaN,5986,Geochemistry / Mineralogy
+1658,gd,,NaN,5986,Geochemistry / Mineralogy
+1659,ge,,NaN,5986,Geochemistry / Mineralogy
+1660,hf,,NaN,5986,Geochemistry / Mineralogy
+1661,ho,,NaN,5986,Geochemistry / Mineralogy
+1662,in,,NaN,5986,Geochemistry / Mineralogy
+1663,potassium oxide,,NaN,5986,Geochemistry / Mineralogy
+1664,la,,NaN,5986,Geochemistry / Mineralogy
+1665,loi,,NaN,5986,Geochemistry / Mineralogy
+1666,lu,,NaN,5986,Geochemistry / Mineralogy
+1667,mgo,,NaN,5986,Geochemistry / Mineralogy
+1668,mno,,NaN,5986,Geochemistry / Mineralogy
+1669,mo,,NaN,5986,Geochemistry / Mineralogy
+1670,sodium oxide,,NaN,5986,Geochemistry / Mineralogy
+1671,nb,,NaN,5986,Geochemistry / Mineralogy
+1672,nd,,NaN,5986,Geochemistry / Mineralogy
+1673,ni,,NaN,5986,Geochemistry / Mineralogy
+1674,phosphorus pentoxide,,NaN,5986,Geochemistry / Mineralogy
+1675,lead,,NaN,5986,Geochemistry / Mineralogy
+1676,pr,,NaN,5986,Geochemistry / Mineralogy
+1677,rb,,NaN,5986,Geochemistry / Mineralogy
+1678,sb,,NaN,5986,Geochemistry / Mineralogy
+1679,sc,,NaN,5986,Geochemistry / Mineralogy
+1680,sm,,NaN,5986,Geochemistry / Mineralogy
+1681,sn,,NaN,5986,Geochemistry / Mineralogy
+1682,strontium,,NaN,5986,Geochemistry / Mineralogy
+1683,ta,,NaN,5986,Geochemistry / Mineralogy
+1684,terbium,,NaN,5986,Geochemistry / Mineralogy
+1685,th,,NaN,5986,Geochemistry / Mineralogy
+1686,titanium oxide,,NaN,5986,Geochemistry / Mineralogy
+1687,tl,,NaN,5986,Geochemistry / Mineralogy
+1688,tm,,NaN,5986,Geochemistry / Mineralogy
+1689,u,,NaN,5986,Geochemistry / Mineralogy
+1690,v,,NaN,5986,Geochemistry / Mineralogy
+1691,w,,NaN,5986,Geochemistry / Mineralogy
+1692,ytterbium,,NaN,5986,Geochemistry / Mineralogy
+1693,zinc,,NaN,5986,Geochemistry / Mineralogy
+1694,zirconium,,NaN,5986,Geochemistry / Mineralogy
+1695,pn,,NaN,6026,Biogeochemistry|Hydrology|Climatology / Meteorology
+1696,poc,,NaN,6026,Biogeochemistry|Hydrology|Climatology / Meteorology
+1697,rainfall,,NaN,6026,Biogeochemistry|Hydrology|Climatology / Meteorology
+1698,ss,,NaN,6026,Biogeochemistry|Hydrology|Climatology / Meteorology
+1699,rain gage locations,,NaN,6118,Climatology / Meteorology|GIS / Remote Sensing
+1700,watershed outlines,,NaN,6118,Climatology / Meteorology|GIS / Remote Sensing
+1701,acidity,ueql,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1702,acid neutralizing capacity,ueql,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1703,aluminum,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1704,aluminum-27,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1705,alkalinity,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1706,alkalinity mmol/l Calcium carbonate,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1707,alkalinity,ueql,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1708,analyzed material,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1709,anion,,sum,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1710,badfilters na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1711,br,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1712,calcium,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1713,calcium-43,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1714,calcium-44,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1715,cation,,sum,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1716,ce140,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1717,charge balance,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1718,chemical treatment na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1719,chlorine,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1720,cobalt-59,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1721,cr52,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1722,copper-63,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1723,date collected yyyymmdd,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1724,date na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1725,day na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1726,delta deuterium per mill,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1727,delta deuterium,,stddev,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1728,delta oxygen18 per mill,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1729,delta oxygen18,,stddev,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1730,descp no na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1731,deuterium excess per mill,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1732,dissolved inorganic c,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1733,dissolved org carbon,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1734,dissolved org carbon,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1735,dissolved org nitrogen,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1736,dissolved org phosphorus,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1737,dissolved oxygen,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1738,dissolved oxygen,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1739,dy164,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1740,electrical conductivity,uscm,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1741,er166,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1742,europium-153,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1743,evaporated na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1744,f,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1745,iron,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1746,fe56,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1747,filter poresize na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1748,gage height,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1749,gd157,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1750,h,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1751,ho165,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1752,hour na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1753,id na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1754,inorganic nitrogen,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1755,inorganic phosphorus,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1756,potassium,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1757,lanthanum-139,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1758,location na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1759,lutetium-175,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1760,method na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1761,method code,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1762,magnesium,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1763,magnesium-25,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1764,minute na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1765,manganese,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1766,manganese-55 micrograms per liter,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1767,month na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1768,sodium,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1769,sodium-23 micrograms per liter,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1770,nd145,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1771,ammonium,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1772,nickel-60 micrograms per liter,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1773,nitrogen dioxide,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1774,nitrate,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1775,particulate n,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1776,particulate org c,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1777,particulate p,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1778,lead-208,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1779,ph,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1780,phosphate,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1781,praseodymium-141,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1782,record na,,count,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1783,sample id na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1784,sample preparation na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1785,sample code,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1786,sample date,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1787,sampletype na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1788,sampling date jd na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1789,sampling method na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1790,samplingnote na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1791,silicon,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1792,silicon-28,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1793,silicon-28,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1794,silica,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1795,sitecode,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1796,samarium-147,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1797,sulfate,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1798,specific conductivity scm,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1799,strontium,mgl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1800,storagetimedays na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1801,terbium-159,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1802,temperature,degreescelsius,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1803,time collected hhmm,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1804,time na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1805,tm169,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1806,dissolved nitrogen,mgl,total,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1807,dissolved phosphorus,ugl,total,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1808,dissolved phosphorus,ugl,total,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1809,inorganic c,mgl,total,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1810,nitrogen,mgl,total,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1811,organic carbon,mgl,total,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1812,phosphorus,ugl,total,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1813,suspended sediment,mgl,total,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1814,tritium,,stddev,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1815,tritium,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1816,Yttrium-89,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1817,ytterbium-174,ngl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1818,year na,,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1819,zinc-64,ugl,NaN,6292,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1820,precipitation,mm,NaN,6421,Climatology / Meteorology|Hydrology
+1821,time stamp,,NaN,6421,Climatology / Meteorology|Hydrology
+1822,discharge,ls,NaN,6470,Hydrology
+1823,runoff mmhr,,NaN,6470,Hydrology
+1824,gis layer with canopy height m,,NaN,6475,GIS / Remote Sensing|Biology / Ecology
+1825,eddy covariance measurements,,NaN,6486,Climatology / Meteorology|Biogeochemistry
+1826,ndvi,,NaN,6487,Biogeochemistry|Soil Science / Pedology
+1827,coarse fraction,,NaN,6488,Biogeochemistry|Soil Science / Pedology
+1828,soil organic carbon,,NaN,6488,Biogeochemistry|Soil Science / Pedology
+1829,soil thickness,,NaN,6488,Biogeochemistry|Soil Science / Pedology
+1830,topography,,NaN,6488,Biogeochemistry|Soil Science / Pedology
+1831,air temperature,,maximum,6521,Climatology / Meteorology
+1832,air temperature,,minimum,6521,Climatology / Meteorology
+1833,et evapotranspiration,,NaN,6521,Climatology / Meteorology
+1834,solar radiation,,total,6521,Climatology / Meteorology
+1835,precipitation,,NaN,6522,Climatology / Meteorology
+1836,qcode,,NaN,6522,Climatology / Meteorology
+1837,relative humidity,,maximum,6522,Climatology / Meteorology
+1838,relative humidity,,minimum,6522,Climatology / Meteorology
+1839,solradposs,,NaN,6522,Climatology / Meteorology
+1840,stationcode,,NaN,6522,Climatology / Meteorology
+1841,wind speed,,maximum,6522,Climatology / Meteorology
+1842,wsscalavg,,NaN,6522,Climatology / Meteorology
+1843,qdays qualifying days,,NaN,6523,Climatology / Meteorology
+1844,air temperature,,average,6524,Climatology / Meteorology|Hydrology
+1845,date,,NaN,6524,Climatology / Meteorology|Hydrology
+1846,hour,,NaN,6524,Climatology / Meteorology|Hydrology
+1847,julian day,,NaN,6524,Climatology / Meteorology|Hydrology
+1848,relative humidity,,average,6524,Climatology / Meteorology|Hydrology
+1849,year,,NaN,6524,Climatology / Meteorology|Hydrology
+1850,airtcavg,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1851,airtcmax,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1852,airtcmin,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1853,battery voltage,,minimum,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1854,cnrwm2avg,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1855,datetime,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1856,dtavg,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1857,nrwm2avg,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1858,rain,mm,total,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1859,record number,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1860,relative humidity,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1861,soileb,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1862,soil electrical conductivity,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1863,soilt,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1864,soilvwc,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1865,tcdtavg,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1866,wind direction,,NaN,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1867,windspeed,ms,average,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1868,wind speed,meterspersecond,maximum,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1869,wind speed,meterspersecond,minimum,6526,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1870,none,,NaN,6541,Hydrology
+1871,common name,,NaN,6565,Hydrology
+1872,depositional habitat,,NaN,6565,Hydrology
+1873,erosional habitat,,NaN,6565,Hydrology
+1874,family,,NaN,6565,Hydrology
+1875,genusspecies,,NaN,6565,Hydrology
+1876,group,,NaN,6565,Hydrology
+1877,latitude,,NaN,6568,All Disciplines
+1878,longitude,,NaN,6568,All Disciplines

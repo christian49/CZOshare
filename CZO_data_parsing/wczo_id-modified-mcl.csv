@@ -6,7 +6,7 @@ Column,5486
  sand, 4683
  silt, 4683
 05m carbon dioxide, 4658
-temperature degrees celsius (5m), 4658
+temperature degreescelsius (5m), 4658
 05mh2o, 4658
 05mo2, 4658
 1, 4155
@@ -17,7 +17,7 @@ temperature degrees celsius (5m), 4658
 13csoc, 5933
 13csoilrespiredco2, 4637
 15m carbon dioxide, 4658
-temperature degrees celsius (15m), 4658
+temperature degreescelsius (15m), 4658
 15mh2o, 4658
 15mo2, 4658
 15nson, 5933
@@ -70,13 +70,13 @@ agcsum, 5131
 age years, 4614
 agent, 4665
 aggregatestability file2 site, 4660
-	air temperature degrees celsius, 4165
+	air temperature degreescelsius, 4165
 air temperature, 2821
-air temperature degrees celsius, 2617
-air temperature degrees celsius, 2692
-air temperature degrees celsius, 4871
-air temperature degrees celsius, 2583
-air temperature degrees celsius, 2423
+air temperature degreescelsius, 2617
+air temperature degreescelsius, 2692
+air temperature degreescelsius, 4871
+air temperature degreescelsius, 2583
+air temperature degreescelsius, 2423
 airt, 5324
 airtcavg, 6526
 airtcmax, 6526
@@ -86,13 +86,13 @@ time of minimum air temperature at 10m , 2435
 air temperature time of maximum, 2435
 time of minimum air temperature at 2m , 2435
 average air temperature, 6524
-air temperature degrees celsius 10m avg, 2435
-maximum air temperature degrees celsius 10m, 2435
-minimum air temperature degrees celsius 10m, 2435
-air temperature degrees celsius 25m avg, 2889
-air temperature degrees celsius 2m avg, 2435
-maximum air temperature degrees celsius 2m, 2435
-minimum air temperature degrees celsius 2m, 2435
+air temperature degreescelsius 10m avg, 2435
+maximum air temperature degreescelsius 10m, 2435
+minimum air temperature degreescelsius 10m, 2435
+air temperature degreescelsius 25m avg, 2889
+air temperature degreescelsius 2m avg, 2435
+maximum air temperature degreescelsius 2m, 2435
+minimum air temperature degreescelsius 2m, 2435
 air temperature maximum, 6521
 minimum air temperature, 6521
 aluminum, 5189
@@ -152,22 +152,22 @@ aspect degree, 5982
 asses and mules, 4665
 atmospheric pressure, 2821
 atmospheric pressure mb, 2646
-atmospheric temperature deg c, 2646
+atmospheric temperature degc, 2646
 augelite, 5531
 average flux density, 2551
-average hmp virtual temperature deg c, 2752
-average hmp water vapor concentration g m3, 2752
+average hmp virtual temperature degc, 2752
+average hmp water vapor concentration gm3, 2752
 average instantaneous radiation, 2617
 average instantaneous radiation moles, 2622
 average irga surface pressure kpa, 2752
-average irga water vapor concentration g m3, 2752
+average irga water vapor concentration gm3, 2752
 average lai, 2650
-average net radiation w m2, 2752
+average net radiation wm2, 2752
 average o3, 2620
 average par radiation, 2617
 average photosynthetic flux density, 2617
 average photosynthetic flux density moles, 2622
-average photosynthetically active radiation mol m2 s1, 2752
+average photosynthetically active radiation molm2s1, 2752
 average relative humidity, 2617
 average return height avgh, 4606
 average scan angle avgscanangle, 4606
@@ -179,7 +179,7 @@ average wind speed ms, 2692
 average wind vector direction, 2617
 ba, 5986
 ba m, 2645
-ba mol l1, 4129
+ba moll1, 4129
 ba ugml, 5274
 badfilters na, 6292
 barium, 3422
@@ -316,7 +316,7 @@ clueql, 4165
 cm, 2863
 cm left, 5533
 cm right, 5533
-cm3per second, 2863
+cm3persecond, 2863
 cn, 4982
 cn c  n ratio, 3029
 cn ratio, 5933
@@ -324,7 +324,7 @@ cnrwm2avg, 6526
 co, 5986
 carbon dioxide, 4982
 carbon dioxide concentration mgm3, 2558
-carbon dioxide concentration ppm n2o concentration ppm, 2652
+carbon dioxide concentration ppm, 2652
 carbon dioxide flux molm2s1, 2652
 carbon dioxide flux umolm2, 2558
 precent carbon dioxide, 4659
@@ -638,7 +638,7 @@ ground elevation, 4130
 ground heat flux, 5821
 ground penetrating radar, 4730
 ground surface elevation, 2574
-ground temperature deg c, 2692
+ground temperature degc, 2692
 ground water, 5498
 ground water depth, 5498
 ground water temperature, 5498
@@ -667,7 +667,7 @@ hhe 9be ugg, 4018
 hhe iron mgg, 4018
 hix, 3894
 hmp relative humidity , 2752
-hmp virtual temperature deg c, 2752
+hmp virtual temperature degc, 2752
 ho, 5986
 ho165 ngl, 6292
 holmium dissolved, 4135
@@ -747,9 +747,9 @@ potassium mgl, 6292
 potassium ugml, 5274
 potasium umol/l, 4129
 potassium oxide, 5986
-ka vm  km hr 1, 3029
+ka vm  kmhr 1, 3029
 kaolinite, 5512
-km michaelisconstant mol l1, 3029
+km michaelisconstant moll1, 3029
 kml, 2866
 potasium ppm, 4165
 ksat, 4660
@@ -1157,15 +1157,15 @@ photo name, 5533
 piec, 4687
 pine g, 4687
 pit, 3970
-soil temperature degrees celsius depth 15 cm, 2452
+soil temperature degreescelsius depth 15 cm, 2452
 soil volumetric water content depth 15 cm , 2452
-soil temperature degrees celsius depth 15 cm, 2452
+soil temperature degreescelsius depth 15 cm, 2452
 soil volumetric water content depth 15 cm , 2452
-soil temperature degrees celsius depth 15 cm, 2452
+soil temperature degreescelsius depth 15 cm, 2452
 soil volumetric water content depth 15 cm , 2452
-soil temperature degrees celsius depth 11 cm, 2452
+soil temperature degreescelsius depth 11 cm, 2452
 soil volumetric water content depth 11 cm , 2452
-soil temperature degrees celsius depth 12 cm, 2452
+soil temperature degreescelsius depth 12 cm, 2452
 soil volumetric water content depth 12 cm , 2452
 pita, 4687
 plagioclase, 5512
@@ -1362,15 +1362,15 @@ seismic refraction, 3676
 selenium dissolved, 4135
 sensible heat flux, 5821
 sensible heat flux wm2, 2558
-air temperature degrees celsius, 2782
+air temperature degreescelsius, 2782
 sensor depth cm, 2782
-air temperature degrees celsius, 2782
+air temperature degreescelsius, 2782
 sensor depth cm, 2782
-air temperature degrees celsius, 2782
+air temperature degreescelsius, 2782
 sensor depth cm, 2782
-air temperature degrees celsius, 2782
+air temperature degreescelsius, 2782
 sensor depth cm, 2782
-air temperature degrees celsius, 2782
+air temperature degreescelsius, 2782
 sensor depth cm, 2782
 shaded relief, 2613
 shape files, 2866
@@ -1459,12 +1459,12 @@ soil order, 3970
 soil organic carbon, 6488
 soil ph 110 soil  di water, 3970
 soil taxonomy, 2609
-soil temperature degrees celsius at 15 cm, 2435
-soil temperature degrees celsius at 22 cm, 2889
+soil temperature degreescelsius at 15 cm, 2435
+soil temperature degreescelsius at 22 cm, 2889
 soil temperature, 2821
-soil temperature degrees celsius at 7 centimeter depth , 2652
-soil temperature degrees celsius, 4148
-soil temperature degrees celsius, 2426
+soil temperature degreescelsius at 7 centimeter depth , 2652
+soil temperature degreescelsius, 4148
+soil temperature degreescelsius, 2426
 soil thickness, 6488
 soil trace gases, 5751
 soil type, 3722
@@ -1491,10 +1491,10 @@ soilphcacl2, 4673
 soilphwater, 4673
 soils, 3622
 soilt, 6526
-soilt soil temperature degrees celsius from one location adjacent to soil chamber, 3884
-soil temperature degrees celsius at 10 centimeter depth, 5277
-soil temperature degrees celsius at 20 centimeter depth, 5277
-soil temperature degrees celsius at 40 centimeter depth, 5277
+soilt soil temperature degreescelsius from one location adjacent to soil chamber, 3884
+soil temperature degreescelsius at 10 centimeter depth, 5277
+soil temperature degreescelsius at 20 centimeter depth, 5277
+soil temperature degreescelsius at 40 centimeter depth, 5277
 soiltexture, 4673
 soilvwc, 6526
 solar radiation, 5203
@@ -1518,7 +1518,7 @@ strontium, 5986
 strontium m, 2645
 strontium mgl, 6292
 strontium ugml, 5274
-strontium umol l1, 4129
+strontium umoll1, 4129
 srp	soluble reactive phosphorus, 2952
 ss, 6026
 ssurgoid, 2609
@@ -1563,7 +1563,7 @@ sulfur dissolved, 2407
 sum, 4165
 surface hardness, 2436
 surface wave analyses, 3676
-surf degree celsius, 4658
+surf degreecelsius, 4658
 suspended load, 5668
 specific ultraviolet absorbance-254, 2407
 Specific ultraviolet absorbance-280, 4135
@@ -1600,12 +1600,12 @@ tdp	total dissolved phosphorus, 2952
 total dissolved phosphorus uml, 4165
 tds mg 1, 4129
 te mday, 3868
-temperature degrees celsius interior, 3869
+temperature degreescelsius interior, 3869
 temperature, 4608
-temperature degrees celsius, 6292
-temperature degrees celsius, 4174
-temperature degrees celsius, 4129
-temperature degrees celsius, 2587
+temperature degreescelsius, 6292
+temperature degreescelsius, 4174
+temperature degreescelsius, 4129
+temperature degreescelsius, 2587
 temperature hmp45c degc, 4940
 temperature infrared, 2501
 temperature judd degc, 4940
@@ -1802,7 +1802,7 @@ water potential, 5484
 watershed outlines, 6118
 water temperature celsius, 5817
 weights by sieve opening, 4829
-air temperature degrees celsius, 4871
+air temperature degreescelsius, 4871
 well summary data only, 2586
 wheat bushels, 4665
 wind, 4165

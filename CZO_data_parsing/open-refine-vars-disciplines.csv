@@ -1,4 +1,4 @@
-,czo_id,variable,DISCIPLINES
+open_refine_id,czo_id,variable,DISCIPLINES
 0,2400,chlorophyll a corrected for pheophytin,Biology / Ecology
 1,2400,pheophytin,Biology / Ecology
 2,2407,alkalinity total,Water Chemistry
@@ -25,14 +25,14 @@
 23,2414,dew point temperature,Climatology / Meteorology
 24,2414,relative humidity,Climatology / Meteorology
 25,2415,water flux,Biology / Ecology|Climatology / Meteorology
-26,2423,air temperature degrees celsius,Climatology / Meteorology
+26,2423,air temperature degreescelsius,Climatology / Meteorology
 27,2423,snow depth centimeter,Climatology / Meteorology
 28,2425,ecosystem respiration,Biology / Ecology|Climatology / Meteorology
 29,2425,friction velocity,Biology / Ecology|Climatology / Meteorology
 30,2425,gross primary productivity,Biology / Ecology|Climatology / Meteorology
 31,2425,vapor pressure deficit,Biology / Ecology|Climatology / Meteorology
 32,2426,soil moisture content,Soil Science / Pedology
-33,2426,soil temperature degrees celsius,Soil Science / Pedology
+33,2426,soil temperature degreescelsius,Soil Science / Pedology
 34,2430,snow depth,Climatology / Meteorology
 35,2431,snow depth centimeter,Climatology / Meteorology
 36,2433,density layer,Hydrology
@@ -41,12 +41,12 @@
 39,2435,time of minimum air temperature at 10m ,Climatology / Meteorology
 40,2435,air temperature time of maximum,Climatology / Meteorology
 41,2435,time of minimum air temperature at 2m ,Climatology / Meteorology
-42,2435,air temperature degrees celsius 10m avg,Climatology / Meteorology
-43,2435,maximum air temperature degrees celsius 10m,Climatology / Meteorology
-44,2435,minimum air temperature degrees celsius 10m,Climatology / Meteorology
-45,2435,air temperature degrees celsius 2m avg,Climatology / Meteorology
-46,2435,maximum air temperature degrees celsius 2m,Climatology / Meteorology
-47,2435,minimum air temperature degrees celsius 2m,Climatology / Meteorology
+42,2435,air temperature degreescelsius 10m avg,Climatology / Meteorology
+43,2435,maximum air temperature degreescelsius 10m,Climatology / Meteorology
+44,2435,minimum air temperature degreescelsius 10m,Climatology / Meteorology
+45,2435,air temperature degreescelsius 2m avg,Climatology / Meteorology
+46,2435,maximum air temperature degreescelsius 2m,Climatology / Meteorology
+47,2435,minimum air temperature degreescelsius 2m,Climatology / Meteorology
 48,2435,barometric pressure mbar,Climatology / Meteorology
 49,2435,in sw rad5mmax time,Climatology / Meteorology
 50,2435,in sw rad5mmin time,Climatology / Meteorology
@@ -65,7 +65,7 @@
 63,2435,minimum relative humidity (2m),Climatology / Meteorology
 64,2435,rm young 52202 heated tipping bucket mm,Climatology / Meteorology
 65,2435,soil heat fluxwm215cm,Climatology / Meteorology
-66,2435,soil temperature degrees celsius at 15 cm,Climatology / Meteorology
+66,2435,soil temperature degreescelsius at 15 cm,Climatology / Meteorology
 67,2435,soil volumetric water content at 15 cm,Climatology / Meteorology
 68,2435,strandard deviation of wind direction degrees (10m) ,Climatology / Meteorology
 69,2435,wind direction degrees,Climatology / Meteorology
@@ -73,13 +73,13 @@
 71,2435,wind direction degrees,Climatology / Meteorology
 72,2435,wind speed10mmax time,Climatology / Meteorology
 73,2435,time of maximum wind speed 2m,Climatology / Meteorology
-74,2435,windspeed meters per second average,Climatology / Meteorology
-75,2435,windspeed meters per second maximum,Climatology / Meteorology
-76,2435,windspeed meters per second average,Climatology / Meteorology
-77,2435,windspeed meters per second maximum,Climatology / Meteorology
+74,2435,windspeed meterspersecond average,Climatology / Meteorology
+75,2435,windspeed meterspersecond maximum,Climatology / Meteorology
+76,2435,windspeed meterspersecond average,Climatology / Meteorology
+77,2435,windspeed meterspersecond maximum,Climatology / Meteorology
 78,2436,datetime,Hydrology
 79,2436,density,Hydrology
-80,2436,grain shape,Hydrology
+80,2436,grain shape,Hydrologyf
 81,2436,grain size,Hydrology
 82,2436,layer,Hydrology
 83,2436,layer hardness,Hydrology
@@ -125,15 +125,15 @@
 123,2451,time of minimum wind speed,Climatology / Meteorology
 124,2451,total solar radiation,Climatology / Meteorology
 125,2451,vector mean wind speed,Climatology / Meteorology
-126,2452,soil temperature degrees celsius depth 15 cm,Soil Science / Pedology
+126,2452,soil temperature degreescelsius depth 15 cm,Soil Science / Pedology
 127,2452,soil volumetric water content depth 15 cm ,Soil Science / Pedology
-128,2452,soil temperature degrees celsius depth 15 cm,Soil Science / Pedology
+128,2452,soil temperature degreescelsius depth 15 cm,Soil Science / Pedology
 129,2452,soil volumetric water content depth 15 cm ,Soil Science / Pedology
-130,2452,soil temperature degrees celsius depth 15 cm,Soil Science / Pedology
+130,2452,soil temperature degreescelsius depth 15 cm,Soil Science / Pedology
 131,2452,soil volumetric water content depth 15 cm ,Soil Science / Pedology
-132,2452,soil temperature degrees celsius depth 11 cm,Soil Science / Pedology
+132,2452,soil temperature degreescelsius depth 11 cm,Soil Science / Pedology
 133,2452,soil volumetric water content depth 11 cm ,Soil Science / Pedology
-134,2452,soil temperature degrees celsius depth 12 cm,Soil Science / Pedology
+134,2452,soil temperature degreescelsius depth 12 cm,Soil Science / Pedology
 135,2452,soil volumetric water content depth 12 cm ,Soil Science / Pedology
 136,2459,land use type,Biology / Ecology
 137,2460,land classification,Biology / Ecology
@@ -223,7 +223,7 @@
 221,2574,y coordinate,Geomorphology|GIS / Remote Sensing
 222,2578,concentration,Geochemistry / Mineralogy|Water Chemistry|Hydrology
 223,2580,acetate m,Biogeochemistry|Water Chemistry|Hydrology
-224,2580,alkalinity meq l1,Biogeochemistry|Water Chemistry|Hydrology
+224,2580,alkalinity meql1,Biogeochemistry|Water Chemistry|Hydrology
 225,2580,formate m,Biogeochemistry|Water Chemistry|Hydrology
 226,2580,nickel m,Biogeochemistry|Water Chemistry|Hydrology
 227,2580,phosphate m,Biogeochemistry|Water Chemistry|Hydrology
@@ -231,14 +231,14 @@
 229,2580,v m,Biogeochemistry|Water Chemistry|Hydrology
 230,2580,water temperature celsius,Biogeochemistry|Water Chemistry|Hydrology
 231,2580,zinc m,Biogeochemistry|Water Chemistry|Hydrology
-232,2583,air temperature degrees celsius,Soil Science / Pedology
+232,2583,air temperature degreescelsius,Soil Science / Pedology
 233,2583,decimal time of day,Soil Science / Pedology
 234,2584,rainfall mm,Soil Science / Pedology|Climatology / Meteorology
 235,2585,reflectivity dbz,Soil Science / Pedology
 236,2586,water table mm or cm,Soil Science / Pedology
 237,2586,water table raw mv,Soil Science / Pedology
 238,2586,well summary data only,Soil Science / Pedology
-239,2587,temperature degrees celsius,Soil Science / Pedology
+239,2587,temperature degreescelsius,Soil Science / Pedology
 240,2588,soil moisture m3m3,Soil Science / Pedology
 241,2591,gamma count,Geophysics
 242,2593,date of event mdyy,Water Chemistry|Hydrology|Climatology / Meteorology
@@ -292,7 +292,7 @@
 290,2613,shaded relief,GIS / Remote Sensing
 291,2615,classified point cloud,Geomorphology|GIS / Remote Sensing
 292,2615,digital elevation model,Geomorphology|GIS / Remote Sensing
-293,2617,air temperature degrees celsius,Climatology / Meteorology
+293,2617,air temperature degreescelsius,Climatology / Meteorology
 294,2617,average instantaneous radiation,Climatology / Meteorology
 295,2617,average par radiation,Climatology / Meteorology
 296,2617,average photosynthetic flux density,Climatology / Meteorology
@@ -416,7 +416,7 @@
 414,2645,sulfate 2 m,Water Chemistry|Hydrology
 415,2645,strontium m,Water Chemistry|Hydrology
 416,2646,atmospheric pressure mb,Geophysics|Hydrology
-417,2646,atmospheric temperature deg c,Geophysics|Hydrology
+417,2646,atmospheric temperature degc,Geophysics|Hydrology
 418,2646,battery voltage v,Geophysics|Hydrology
 419,2646,boxcarfiltered 12hour effective measurement depth cm,Geophysics|Hydrology
 420,2646,boxcarfiltered 12hour soil moisture  volumetric,Geophysics|Hydrology
@@ -444,7 +444,7 @@
 442,2652,partial pressure of carbon dioxide ppmv,Geochemistry / Mineralogy
 443,2652,sample label,Geochemistry / Mineralogy
 444,2652,soil depth m,Geochemistry / Mineralogy
-445,2652,soil temperature degrees celsius at 7 centimeter depth ,Geochemistry / Mineralogy
+445,2652,soil temperature degreescelsius at 7 centimeter depth ,Geochemistry / Mineralogy
 446,2653,count cps,Geophysics
 447,2654,circumference cm,Biology / Ecology|Hydrology
 448,2654,data logger id a port,Biology / Ecology|Hydrology
@@ -470,38 +470,38 @@
 468,2659,radiationshortwave,Climatology / Meteorology
 469,2661,sap flow,Biology / Ecology|Hydrology
 470,2666,volumetric water content,Soil Science / Pedology
-471,2692,air temperature degrees celsius,Climatology / Meteorology|Hydrology
+471,2692,air temperature degreescelsius,Climatology / Meteorology|Hydrology
 472,2692,average wind speed ms,Climatology / Meteorology|Hydrology
-473,2692,ground temperature deg c,Climatology / Meteorology|Hydrology
+473,2692,ground temperature degc,Climatology / Meteorology|Hydrology
 474,2692,record,Climatology / Meteorology|Hydrology
 475,2692,solar radiation wm2,Climatology / Meteorology|Hydrology
 476,2692,volumetric water content,Climatology / Meteorology|Hydrology
-477,2692,wind speed meters per second,Climatology / Meteorology|Hydrology
+477,2692,wind speed meterspersecond,Climatology / Meteorology|Hydrology
 478,2695,absolute pressure,Hydrology
 479,2695,barometric pressure,Hydrology
 480,2742,specific uv absorbance,Water Chemistry|Geochemistry / Mineralogy|Soil Science / Pedology
 481,2742,ultra violet absorbance,Water Chemistry|Geochemistry / Mineralogy|Soil Science / Pedology
-482,2752,average hmp virtual temperature deg c,Climatology / Meteorology
-483,2752,average hmp water vapor concentration g m3,Climatology / Meteorology
+482,2752,average hmp virtual temperature degc,Climatology / Meteorology
+483,2752,average hmp water vapor concentration gm3,Climatology / Meteorology
 484,2752,average irga surface pressure kpa,Climatology / Meteorology
-485,2752,average irga water vapor concentration g m3,Climatology / Meteorology
-486,2752,average net radiation w m2,Climatology / Meteorology
-487,2752,average photosynthetically active radiation mol m2 s1,Climatology / Meteorology
+485,2752,average irga water vapor concentration gm3,Climatology / Meteorology
+486,2752,average net radiation wm2,Climatology / Meteorology
+487,2752,average photosynthetically active radiation molm2s1,Climatology / Meteorology
 488,2752,est,Climatology / Meteorology
 489,2752,hmp relative humidity ,Climatology / Meteorology
-490,2752,hmp virtual temperature deg c,Climatology / Meteorology
+490,2752,hmp virtual temperature degc,Climatology / Meteorology
 491,2752,leaf wetness sensor voltage output mv,Climatology / Meteorology
 492,2752,record number,Climatology / Meteorology
 493,2752,timestamp utc4,Climatology / Meteorology
-494,2782,air temperature degrees celsius,Climatology / Meteorology|Hydrology
+494,2782,air temperature degreescelsius,Climatology / Meteorology|Hydrology
 495,2782,sensor depth cm,Climatology / Meteorology|Hydrology
-496,2782,air temperature degrees celsius,Climatology / Meteorology|Hydrology
+496,2782,air temperature degreescelsius,Climatology / Meteorology|Hydrology
 497,2782,sensor depth cm,Climatology / Meteorology|Hydrology
-498,2782,air temperature degrees celsius,Climatology / Meteorology|Hydrology
+498,2782,air temperature degreescelsius,Climatology / Meteorology|Hydrology
 499,2782,sensor depth cm,Climatology / Meteorology|Hydrology
-500,2782,air temperature degrees celsius,Climatology / Meteorology|Hydrology
+500,2782,air temperature degreescelsius,Climatology / Meteorology|Hydrology
 501,2782,sensor depth cm,Climatology / Meteorology|Hydrology
-502,2782,air temperature degrees celsius,Climatology / Meteorology|Hydrology
+502,2782,air temperature degreescelsius,Climatology / Meteorology|Hydrology
 503,2782,sensor depth cm,Climatology / Meteorology|Hydrology
 504,2821,air temperature,Climatology / Meteorology
 505,2821,atmospheric pressure,Climatology / Meteorology
@@ -511,7 +511,7 @@
 509,2821,soil temperature,Climatology / Meteorology
 510,2822,depth meter,Geophysics
 511,2822,ohmm,Geophysics
-512,2822,velocity meters per second,Geophysics
+512,2822,velocity meterspersecond,Geophysics
 513,2833,c,Biology / Ecology
 514,2833,soil microbe counts,Biology / Ecology
 515,2860,xrd,Geochemistry / Mineralogy
@@ -520,7 +520,7 @@
 518,2862,chlorophyll concentration and didymo cell densities,Biology / Ecology|Hydrology
 519,2862,didymo rating index dri,Biology / Ecology|Hydrology
 520,2863,cm,Hydrology
-521,2863,cm3per second,Hydrology
+521,2863,cm3persecond,Hydrology
 522,2864,gage height,Hydrology
 523,2865,ammonium,Water Chemistry
 524,2865,calcium,Water Chemistry
@@ -541,7 +541,7 @@
 539,2866,kml,GIS / Remote Sensing
 540,2866,lidar,GIS / Remote Sensing
 541,2866,shape files,GIS / Remote Sensing
-542,2889,air temperature degrees celsius 25m avg,Climatology / Meteorology
+542,2889,air temperature degreescelsius 25m avg,Climatology / Meteorology
 543,2889,in sw radmjm225mtotal,Climatology / Meteorology
 544,2889,in sw radwm225mavg,Climatology / Meteorology
 545,2889,net radiation corrwm225m,Climatology / Meteorology
@@ -552,12 +552,12 @@
 550,2889,relative humidity maximum time,Climatology / Meteorology
 551,2889,minimum relative humidity,Climatology / Meteorology
 552,2889,time of minimum relative humidity,Climatology / Meteorology
-553,2889,soil temperature degrees celsius at 22 cm,Climatology / Meteorology
+553,2889,soil temperature degreescelsius at 22 cm,Climatology / Meteorology
 554,2889,soil volumetric water content at 22 cm,Climatology / Meteorology
 555,2889,time of maximum wind speed 25m,Climatology / Meteorology
-556,2889,windspeed meters per second average,Climatology / Meteorology
-557,2889,windspeed meters per second maximum,Climatology / Meteorology
-558,2889,windspeed meters per second minimum,Climatology / Meteorology
+556,2889,windspeed meterspersecond average,Climatology / Meteorology
+557,2889,windspeed meterspersecond maximum,Climatology / Meteorology
+558,2889,windspeed meterspersecond minimum,Climatology / Meteorology
 559,2915,dsm,GIS / Remote Sensing
 560,2918,discharge m3s,Hydrology
 561,2919,discharge m3s,Hydrology
@@ -604,20 +604,20 @@
 602,3001,volumetric soil water content m3 m3,Hydrology|Soil Science / Pedology|Biology / Ecology
 603,3001,x easting m,Hydrology|Soil Science / Pedology|Biology / Ecology
 604,3001,y northing m,Hydrology|Soil Science / Pedology|Biology / Ecology
-605,3029,bicarp	nahco3 extractable phosphorus mg  kg,Biogeochemistry
-606,3029,carbon concentration mg  g soil,Biogeochemistry
+605,3029,bicarp	nahco3 extractable phosphorus mgkg,Biogeochemistry
+606,3029,carbon concentration mgg soil,Biogeochemistry
 607,3029,cn c  n ratio,Biogeochemistry
 608,3029,cp catena position choose one ridge slope valley,Biogeochemistry
 609,3029,d depth interval cm,Biogeochemistry
 610,3029,date date assay conducted,Biogeochemistry
 611,3029,ft forest type tabonuco or colorado,Biogeochemistry
-612,3029,ka vm  km hr 1,Biogeochemistry
-613,3029,km michaelisconstant mol l1,Biogeochemistry
-614,3029,naohp naoh extractable phosphorus mg  kg,Biogeochemistry
-615,3029,nit nitrogen concentration mg  g soil,Biogeochemistry
+612,3029,ka vm  kmhr 1,Biogeochemistry
+613,3029,km michaelisconstant moll1,Biogeochemistry
+614,3029,naohp naoh extractable phosphorus mgkg,Biogeochemistry
+615,3029,nit nitrogen concentration mg soil,Biogeochemistry
 616,3029,p soil pit p1  p20,Biogeochemistry
 617,3029,ph soil ph in water,Biogeochemistry
-618,3029,phos total extractable phosphorus nahco3  naoh mg  kg,Biogeochemistry
+618,3029,phos total extractable phosphorus nahco3  naoh mgkg,Biogeochemistry
 619,3029,so soil order oxisol or inceptisol,Biogeochemistry
 620,3029,vm maximum reaction velocity for phosphatase nmol h1 g1 soil,Biogeochemistry
 621,3029,water fraction of water content by mass,Biogeochemistry
@@ -718,7 +718,7 @@
 716,3869,synop 4677 1min,Hydrology|Climatology / Meteorology
 717,3869,synop 4680 5min avg,Hydrology|Climatology / Meteorology
 718,3869,synop 4677 1min,Hydrology|Climatology / Meteorology
-719,3869,temperature degrees celsius interior,Hydrology|Climatology / Meteorology
+719,3869,temperature degreescelsius interior,Hydrology|Climatology / Meteorology
 720,3869,total precip intensity 1min mmhr,Hydrology|Climatology / Meteorology
 721,3869,visibility in precip 1min m,Hydrology|Climatology / Meteorology
 722,3884,datetime date in format of monthdayyear 24hourminute,Soil Science / Pedology
@@ -728,7 +728,7 @@
 726,3884,plot unique identifying integer,Soil Science / Pedology
 727,3884,rs average instantaneous soil respiration micro moles c per square meter per second over three locations per site,Soil Science / Pedology
 728,3884,rsse standard error of soil respiration n3,Soil Science / Pedology
-729,3884,soilt soil temperature degrees celsius from one location adjacent to soil chamber,Soil Science / Pedology
+729,3884,soilt soil temperature degreescelsius from one location adjacent to soil chamber,Soil Science / Pedology
 730,3884,swc soil moisture  volumetric averaged from 3 locations adjacent to soil chamber,Soil Science / Pedology
 731,3886,horizontal hydraulic conductivity,Hydrology|Modeling / Computational Science|Soil Science / Pedology
 732,3886,saturated vertical hydraulic conductivity,Hydrology|Modeling / Computational Science|Soil Science / Pedology
@@ -862,7 +862,7 @@
 860,4123,volumetric water content,Soil Science / Pedology
 861,4129,aluminum umol/l,Hydrology|Water Chemistry
 862,4129,alkalinity mmol/l Calcium carbonate,Hydrology|Water Chemistry
-863,4129,ba mol l1,Hydrology|Water Chemistry
+863,4129,ba moll1,Hydrology|Water Chemistry
 864,4129,calcium umol/l,Hydrology|Water Chemistry
 865,4129,chlorine umol/l,Hydrology|Water Chemistry
 866,4129,dissolved oxygen mgl,Hydrology|Water Chemistry
@@ -880,7 +880,7 @@
 878,4129,spc ms cm1,Hydrology|Water Chemistry
 879,4129,strontium umol l1,Hydrology|Water Chemistry
 880,4129,tds mg 1,Hydrology|Water Chemistry
-881,4129,temperature degrees celsius,Hydrology|Water Chemistry
+881,4129,temperature degreescelsius,Hydrology|Water Chemistry
 882,4129,zinc mol/l,Hydrology|Water Chemistry
 883,4130,br,Hydrology|Water Chemistry
 884,4130,f,Hydrology|Water Chemistry
@@ -948,7 +948,7 @@
 946,4135,yttrium dissolved,Water Chemistry
 947,4135,zirconium dissolved,Water Chemistry
 948,4148,depth in cm,Biogeochemistry|Climatology / Meteorology|Soil Science / Pedology
-949,4148,soil temperature degrees celsius,Biogeochemistry|Climatology / Meteorology|Soil Science / Pedology
+949,4148,soil temperature degreescelsius,Biogeochemistry|Climatology / Meteorology|Soil Science / Pedology
 950,4155,1,Geomorphology|Biology / Ecology
 951,4155,2,Geomorphology|Biology / Ecology
 952,4155,3,Geomorphology|Biology / Ecology
@@ -973,7 +973,7 @@
 971,4155,tree number,Geomorphology|Biology / Ecology
 972,4155,tree type,Geomorphology|Biology / Ecology
 973,4165, diff charge bal,Water Chemistry
-974,4165,air temperature degrees celsius,Water Chemistry
+974,4165,air temperature degreescelsius,Water Chemistry
 975,4165,ancmgl,Water Chemistry
 976,4165,ancueql,Water Chemistry
 977,4165,calcium ueql,Water Chemistry
@@ -1027,7 +1027,7 @@
 1025,4174,antistokes scatter nm,Hydrology
 1026,4174,length m,Hydrology
 1027,4174,stokes scatter nm,Hydrology
-1028,4174,temperature degrees celsius,Hydrology
+1028,4174,temperature degreescelsius,Hydrology
 1029,4182,point cloud,GIS / Remote Sensing|Geomorphology
 1030,4324,raster image data,GIS / Remote Sensing
 1031,4606,and number of return from ground nground,GIS / Remote Sensing
@@ -1066,7 +1066,7 @@
 1064,4610,soil moisture spatial average in top 10 cm m3m3,Hydrology|Modeling / Computational Science
 1065,4611,precipitation total for previous date mm,Climatology / Meteorology|Hydrology
 1066,4611,time of wind speed max for previous date,Climatology / Meteorology|Hydrology
-1067,4611,wind speed max for previous date m s1,Climatology / Meteorology|Hydrology
+1067,4611,wind speed max for previous date ms1,Climatology / Meteorology|Hydrology
 1068,4612,longwave downwelling  temperaturecorrected wm2,Climatology / Meteorology
 1069,4612,longwave net wm2,Climatology / Meteorology
 1070,4612,longwave upwelling  temperaturecorrected wm2,Climatology / Meteorology
@@ -1109,15 +1109,15 @@
 1107,4637,soil nitrous oxide production rate,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
 1108,4637,soilph,Biogeochemistry|Biology / Ecology|Soil Science / Pedology
 1109,4658,05m carbon dioxide,Biogeochemistry|Soil Science / Pedology|Hydrology
-1110,4658,temperature degrees celsius (5m),Biogeochemistry|Soil Science / Pedology|Hydrology
+1110,4658,temperature degreescelsius (5m),Biogeochemistry|Soil Science / Pedology|Hydrology
 1111,4658,05mh2o,Biogeochemistry|Soil Science / Pedology|Hydrology
 1112,4658,05mo2,Biogeochemistry|Soil Science / Pedology|Hydrology
 1113,4658,15m carbon dioxide,Biogeochemistry|Soil Science / Pedology|Hydrology
-1114,4658,temperature degrees celsius (15m),Biogeochemistry|Soil Science / Pedology|Hydrology
+1114,4658,temperature degreescelsius (15m),Biogeochemistry|Soil Science / Pedology|Hydrology
 1115,4658,15mh2o,Biogeochemistry|Soil Science / Pedology|Hydrology
 1116,4658,15mo2,Biogeochemistry|Soil Science / Pedology|Hydrology
 1117,4658,site,Biogeochemistry|Soil Science / Pedology|Hydrology
-1118,4658,surf degree celsius,Biogeochemistry|Soil Science / Pedology|Hydrology
+1118,4658,surf degreecelsius,Biogeochemistry|Soil Science / Pedology|Hydrology
 1119,4658,time,Biogeochemistry|Soil Science / Pedology|Hydrology
 1120,4659,precent carbon dioxide,Biogeochemistry|Soil Science / Pedology
 1121,4659,gcch4ppm,Biogeochemistry|Soil Science / Pedology
@@ -1298,12 +1298,12 @@
 1296,4851,sulfate mgl,Water Chemistry
 1297,4851,technetium mgl,Water Chemistry
 1298,4851,tn mgl,Water Chemistry
-1299,4871,air temperature degrees celsius,Hydrology
+1299,4871,air temperature degreescelsius,Hydrology
 1300,4871,depth mm,Hydrology
 1301,4871,discharge cfs,Hydrology
 1302,4871,discharge m3s,Hydrology
 1303,4871,electrical conductivity scm,Hydrology
-1304,4871,air temperature degrees celsius,Hydrology
+1304,4871,air temperature degreescelsius,Hydrology
 1305,4940,minimum battery voltage,Climatology / Meteorology|Hydrology
 1306,4940,leaf wetness 30 cm understory mv,Climatology / Meteorology|Hydrology
 1307,4940,precipitation running total for current day mm,Climatology / Meteorology|Hydrology
@@ -1314,7 +1314,7 @@
 1312,4940,temperature judd degc,Climatology / Meteorology|Hydrology
 1313,4940,wind direction average degress,Climatology / Meteorology|Hydrology
 1314,4940,wind direction stdev degress,Climatology / Meteorology|Hydrology
-1315,4940,wind speed average for previous 10 minutes m s1,Climatology / Meteorology|Hydrology
+1315,4940,wind speed average for previous 10 minutes ms1,Climatology / Meteorology|Hydrology
 1316,4982,absolute pressure,All Disciplines
 1317,4982,acid phosphatase,All Disciplines
 1318,4982,al  ammonium oxalateextractable,All Disciplines
@@ -1446,9 +1446,9 @@
 1444,5277,soil moisture 10cm m3m3,Soil Science / Pedology
 1445,5277,soil moisture 20cm m3m3,Soil Science / Pedology
 1446,5277,soil moisture 40cm m3m3,Soil Science / Pedology
-1447,5277,soil temperature degrees celsius at 10 centimeter depth,Soil Science / Pedology
-1448,5277,soil temperature degrees celsius at 20 centimeter depth,Soil Science / Pedology
-1449,5277,soil temperature degrees celsius at 40 centimeter depth,Soil Science / Pedology
+1447,5277,soil temperature degreescelsius at 10 centimeter depth,Soil Science / Pedology
+1448,5277,soil temperature degreescelsius at 20 centimeter depth,Soil Science / Pedology
+1449,5277,soil temperature degreescelsius at 40 centimeter depth,Soil Science / Pedology
 1450,5277,time stamp,Soil Science / Pedology
 1451,5278,imagdiel 10cm,Soil Science / Pedology
 1452,5278,imagdiel 20cm,Soil Science / Pedology
@@ -1523,7 +1523,7 @@
 1521,5446,4 esri float format 10m dem from first return points,GIS / Remote Sensing
 1522,5446,5 esri raster format 10m hillshade raster first return points,GIS / Remote Sensing
 1523,5446,classified as ground or nonground,GIS / Remote Sensing
-1524,5446,in 1 km square tiles,GIS / Remote Sensing
+1524,5446,in 1 km3 tiles,GIS / Remote Sensing
 1525,5460,basket identification code,Biology / Ecology
 1526,5460,days since last collection,Biology / Ecology
 1527,5460,leaf litter material,Biology / Ecology
@@ -1533,7 +1533,7 @@
 1531,5460,woody material,Biology / Ecology
 1532,5484,water potential,Biology / Ecology
 1533,5485,deuterium,Biogeochemistry|Biology / Ecology|Climatology / Meteorology|Geomorphology
-1534,5486,,Biogeochemistry|Water Chemistry
+1534,5486, ,Biogeochemistry|Water Chemistry
 1535,5486,hydrogen 2 stable isotope ratio delta,Biogeochemistry|Water Chemistry
 1536,5486,oxygen18,Biogeochemistry|Water Chemistry
 1537,5486,precipitation,Biogeochemistry|Water Chemistry
@@ -1801,7 +1801,7 @@
 1799,6292,strontium mgl,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
 1800,6292,storagetimedays na,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
 1801,6292,terbium-159 ngl,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
-1802,6292,temperature degrees celsius,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
+1802,6292,temperature degreescelsius,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
 1803,6292,time collected hhmm,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
 1804,6292,time na,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
 1805,6292,tm169 ngl,Biogeochemistry|Biology / Ecology|Hydrology|Water Chemistry
@@ -1867,8 +1867,8 @@
 1865,6526,tcdtavg,Climatology / Meteorology|Soil Science / Pedology|Hydrology
 1866,6526,wind direction,Climatology / Meteorology|Soil Science / Pedology|Hydrology
 1867,6526,average windspeed ms ,Climatology / Meteorology|Soil Science / Pedology|Hydrology
-1868,6526,maximum wind speed meters per second,Climatology / Meteorology|Soil Science / Pedology|Hydrology
-1869,6526,minimum wind speed meters per second,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1868,6526,maximum wind speed meterspersecond,Climatology / Meteorology|Soil Science / Pedology|Hydrology
+1869,6526,minimum wind speed meterspersecond,Climatology / Meteorology|Soil Science / Pedology|Hydrology
 1870,6541,none,Hydrology
 1871,6565,common name,Hydrology
 1872,6565,depositional habitat,Hydrology
